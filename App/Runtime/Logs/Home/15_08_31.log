@@ -1,0 +1,81 @@
+[ 2015-08-31T15:16:38+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E8%BF%9C%E6%96%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000822s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018275s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_qnohl0tr2okpd7m4aa77ta52u6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009011s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.188689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.193945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.045221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.058807s ]
+
+[ 2015-08-31T15:16:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006271s ]
+
+[ 2015-08-31T17:51:27+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E8%BF%9C%E6%96%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000896s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.037540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.043071s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_qnohl0tr2okpd7m4aa77ta52u6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008277s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.221541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.228759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034901s ]
+
+[ 2015-08-31T17:51:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006167s ]
+
+[ 2015-08-31T18:10:42+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E8%BF%9C%E6%96%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001937s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018954s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_qnohl0tr2okpd7m4aa77ta52u6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005441s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012005s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.181176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.188382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014408s ]
+
+[ 2015-08-31T18:10:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007587s ]
+

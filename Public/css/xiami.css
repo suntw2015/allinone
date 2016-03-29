@@ -1,0 +1,665 @@
+*{
+	font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+}
+
+html,body{
+	height: 100%;
+	width:100%;
+	padding: 0;
+	margin: 0;
+}
+
+li{
+	list-style: none;
+	display: list-item;
+}
+
+a{
+	background: transparent;
+}
+
+.player{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	min-height: 500px;
+	min-width: 930px;
+	position: relative;
+}
+
+.player_top{
+	height: 56px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	background : url(http://gtms01.alicdn.com/tps/i1/T10MNqFzVXXXcu5FDa-20-20.png) repeat 0 0;
+	opacity: 0.5;
+}
+
+.player_main{
+	width: 100%;
+	position: absolute;
+	top: 56px;
+	bottom: 80px;
+	background-color: #fff;
+}
+
+.player_main_left{
+	width:190px;
+	padding: 0 10px;
+	height: 100%;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+
+.player_main_middle {
+	height: 100%;
+	position: absolute;
+	left:240px;
+	right: 310px;
+}
+
+.player_main_panel{
+	position: relative;
+	height: 100%;
+	display: block;
+}
+
+.player_main_right{
+	width: 250px;
+	padding-right: 20px;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.album{
+	height: 185px;
+	width: 250px;padding-top: 20px;
+}
+
+.album-cover{
+	width: 250px;
+	height: 185px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.lyc{
+	position: absolute;
+	top: 275px;
+	bottom: 0;
+	width: 250px;
+	/*overflow-y: scroll;*/
+	overflow: hidden;
+}
+
+.lyc .lyccontent{
+	position: relative;
+	width:100%;
+	height:100%;
+}
+
+.player_bottom{
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	background: url(http://gtms01.alicdn.com/tps/i1/T10MNqFzVXXXcu5FDa-20-20.png) repeat 0 0;
+}
+
+.menu_out{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc
+}
+
+.menu_out ul li a{
+	display: block;
+	height: 36px;
+	line-height: 36px;
+	padding-left: 36px;
+	cursor: pointer;
+	position: relative;
+	color: #333;
+}
+
+.menu_out ul li i{
+	position: absolute;
+	top: 9px;
+	left: 9px;
+	width: 18px;
+	height: 18px;
+}
+
+.menu_play{
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	background-position: 0 -358px;
+}
+
+.menu_playing{
+	background-image: url(http://gtms01.alicdn.com/tps/i1/T1oHFEFwGeXXXYdLba-18-18.gif);
+}
+
+.menu_history{
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	background-position: 0 -376px;
+}
+
+.menu_collect{
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	background-position: 0 -394px;
+}
+
+.list_header{
+	position: absolute;
+	width: 100%;
+	top: 10px;
+	line-height: 36px;
+	border-bottom: 1px solid #ccc;
+	color: #aaa;
+}
+
+.list_header_body{
+	padding-left: 72px;
+	padding-right:110px;
+	overflow: hidden;
+}
+
+.list_column{
+	float: left;
+	width: 30%;
+	/*padding-right: .2%;*/
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.list_body{
+	position: absolute;
+	top: 46px;
+	bottom: 60px;
+	width: 100%;
+}
+
+.list_body_song{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	overflow: hidden;
+}
+
+.list_footer{
+	position: absolute;
+	bottom: 0;
+	border-top: 1px solid #ccc;
+	height: 45px;
+	width: 100%;
+	padding-top: 10px;
+}
+
+.item_btn{
+	position: relative;
+	line-height: 30px;
+	float: left;
+	height: 30px;
+	padding-right: 10px;
+	text-align: center;
+	border-radius: 5px;
+	/*background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);*/
+}
+
+.item_btn a{
+	display: block;
+	text-indent: 30px;
+	cursor: pointer;
+	color: #333;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: baseline;
+	font-size: 100%;
+}
+
+.list_detail{
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #ebebeb;
+	height: 40px;
+	line-height: 41px;
+	color: #333;
+	cursor: pointer;
+}
+
+.list_detail:hover{
+	background-color: #999999;
+}
+
+.list_detail_body{
+	padding-left: 72px;
+	padding-right:110px;
+	overflow: hidden;
+}
+
+.list_footer_body{
+	padding-left: 72px;
+	overflow: hidden;
+}
+
+.list_checkbox{
+	position: absolute;
+	left: 0;
+	height: 41px;
+	/*padding: 12px 0;*/
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 3px;
+}
+
+input[type=checkbox]{
+	cursor: pointer;
+	width: 16px;
+	height: 16px;
+}
+
+.list_index{
+	position: absolute;
+	width: 36px;
+	height: 41px;
+	left: 31px;
+	text-align: center;
+}
+
+.list_index em{
+	font-style: normal;
+	font-family: arial;
+	color: #aaa;
+}
+
+.trace_control{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 110px;
+	height: 40px;
+}
+
+.trace_control a{
+	display: block;
+	position: absolute;
+	top: 11px;
+	cursor: pointer;
+}
+
+.trace_faved{
+	cursor: pointer;
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	position: absolute;
+	right: 86px;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -130px;
+}
+
+.trace_faved:hover{
+	background-position: -28px -130px;
+}
+
+.trace_more{
+	cursor: pointer;
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	position: absolute;
+	right: 53px;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -473px;
+}
+
+.trace_more:hover{
+	background-position: -28px -473px;
+}
+
+.trace_delete{
+	cursor: pointer;
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	position: absolute;
+	right: 20px;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -491px;
+}
+
+.trace_delete:hover{
+	background-position: -28px -491px;
+}
+
+.scrollbar{
+	position: absolute;
+	right: 0;
+	width: 8px;
+	height: 100%;
+	/*background-color: #aaa;*/
+	z-index: 9;
+}
+
+.scroll{
+	position: absolute;
+	top:0;
+	right: 0;
+	width: 8px;
+	height: 10%;
+	background-color: #aaa;
+	z-index: 9;
+	border-radius: 5px;
+}
+
+.player_control{
+	width: 278px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.pre_btn,.play_btn,.next_btn,.mode_btn{
+	display: block;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+	background-repeat: no-repeat;
+}
+
+.pre_btn{
+	top: 25px;
+	left: 38px;
+	background-position: 0 -90px;
+}
+
+.pre_btn:hover{
+	background-position: -30px -90px;
+}
+
+.play_btn{
+	top:25px;
+	left:91px;
+	background-position: 0 0;
+}
+
+.play_btn:hover{
+	background-position: -30px 0;
+}
+
+.next_btn{
+	top:25px;
+	left:144px;
+	background-position: 0 -60px;
+}
+
+.next_btn:hover{
+	background-position: -30px -60px;
+}
+
+.mode_btn{
+	position: absolute;
+	top: 31px;
+	left: 202px;
+	width: 20px;
+	height: 18px;
+	text-align: right;
+	background-position: 0 -181px;
+}
+
+.mode_btn:hover{
+	background-position: -30px -181px;
+}
+
+.player_info{
+	height: 100%;
+	position: relative;
+	margin-left: 278px;
+	margin-right: 330px;
+}
+
+.player_track{
+	position: absolute;
+	top: 20px;
+	height: 18px;
+	width: 100%;
+	color: #ffffff;
+}
+
+.player_track_info{
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	padding-right: 100px;
+	font-size: 14px;
+}
+
+.player_track_control{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100px;
+	height: 18px;
+}
+
+.player_length{
+	position: absolute;
+	top: 43px;
+	font-size: 10px;
+	width: 100%;
+	height: 20px;
+}
+
+.player_position{
+	position: absolute;
+	line-height: 18px;
+	left: 0;
+	color: #ffffff;
+	width: 40px;
+	opacity: 3;
+}
+
+.player_progress{
+	position: absolute;
+	top: 7px;
+	height: 2px;
+	left: 40px;
+	right: 40px;
+}
+
+.progress_loading{
+	position: absolute;
+	/*left: 0;*/
+	height: 100%;
+	width: 100%;
+	border: 1px solid #cccccc;
+	background-color: #cccccc;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+.progress_play{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 30%;
+	background-color: #ffffff;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+.progress_play:after{
+	content: "";
+	position: absolute;
+	top: -4px;
+	right: -1px;
+	width: 10px;
+	height: 10px;
+	background-color: #ffffff;
+	border-radius: 50%;
+}
+
+.player_duration{
+	position: absolute;
+	line-height: 18px;
+	text-align: right;
+	right: 0;
+	color: #ffffff;
+	width: 40px;
+	opacity: 3;
+}
+
+.player_volumn{
+	width: 270px;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.keyHQ{
+	width: 80px;
+	height: 32px;
+	display: block;
+	position: absolute;
+	top: 28px;
+	right: 176px;
+	cursor: pointer;
+	background-image: url(http://gtms01.alicdn.com/tps/i1/T1ldFHFpxtXXaLghZR-80-832.png);
+	background-repeat: no-repeat;
+}
+
+.volumn{
+	position: absolute;
+	top: 31px;
+	right: 40px;
+	width: 110px;
+	height: 18px;
+}
+
+.progress_volumn{
+	position: absolute;
+	top: 7px;
+	height: 2px;
+	left: 30px;
+	right: 10px;
+}
+
+.icon_faved, .icon_share, .icon_more, .icon_volumn{
+	cursor: pointer;
+	background-image: url(http://gtms03.alicdn.com/tps/i3/T1bMh.FxNXXXb_r3IF-72-730.png);
+}
+
+
+.icon_faved{
+	position: absolute;
+	right: 66px;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -130px;
+ }
+
+.icon_faved:hover{
+	background-position: -28px -130px;
+}
+
+.icon_share{
+	position: absolute;
+	right: 33px;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -259px;
+}
+
+.icon_share:hover{
+	background-position: -28px -259px;
+}
+
+.icon_more{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	background-position: 0 -277px;
+}
+
+.icon_more:hover{
+	background-position: -28px -277px;
+}
+
+.icon_volumn{
+	position: absolute;
+	cursor: pointer;
+	left: 0;
+	height: 18px;
+	width: 18px;
+	background-position: 0 -295px;
+}
+
+.icon_volumn:hover{
+	background-position: -28px -295px;
+}
+
+
+.icon_delete2{
+	background-image: url(http://gtms01.alicdn.com/tps/i1/T1Z8x_FEBXXXcvwvwe-420-106.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	width: 73px;
+	height: 30px;
+}
+
+.icon_delete2:hover{
+	background-position: 0 -30px;
+}
+
+.icon_faved2{
+	background-image: url(http://gtms01.alicdn.com/tps/i1/T1Z8x_FEBXXXcvwvwe-420-106.png);
+	background-repeat: no-repeat;
+	background-position: -150px 0;
+	width: 73px;
+	height: 30px;
+}
+
+.icon_faved2:hover{
+	background-position: -150px -30px;
+}
+
+.icon_more2{
+	background-image: url(http://gtms01.alicdn.com/tps/i1/T1Z8x_FEBXXXcvwvwe-420-106.png);
+	background-repeat: no-repeat;
+	background-position: -348px 0;
+	width: 73px;
+	height: 30px;
+}
+
+.icon_more2:hover{
+	background-position: -348px -30px;
+}
+
+.icon_add2{
+	background-image: url(http://gtms01.alicdn.com/tps/i1/T1Z8x_FEBXXXcvwvwe-420-106.png);
+	background-repeat: no-repeat;
+	background-position: -225px 0;
+	width: 120px;
+	height: 30px;
+}
+
+.icon_add2:hover{
+	background-position: -225px -30px;
+}

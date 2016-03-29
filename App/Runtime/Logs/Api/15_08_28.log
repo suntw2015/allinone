@@ -1,0 +1,510 @@
+[ 2015-08-28T14:17:18+08:00 ] 127.0.0.1 /Api/QQMUSIC/albumpic/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008633s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:QQMUSIC
+
+[ 2015-08-28T14:18:09+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007534s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 参数错误或者未定义:alnummid
+
+[ 2015-08-28T14:18:57+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009786s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 参数错误或者未定义:alnummid
+
+[ 2015-08-28T14:19:41+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012828s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 参数错误或者未定义:alnummid
+
+[ 2015-08-28T14:25:59+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001359s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013134s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:26:07+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000863s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010908s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:27:08+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008560s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:31:21+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001412s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007042s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:31:26+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%BB%99%E6%88%91%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001496s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010892s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:32:06+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=0024bjiL2aocxT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012093s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:32:07+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E9%BB%91%E8%89%B2%E6%AF%9B%E8%A1%A3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000915s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008234s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:32:26+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002eFUFm2XYZ7z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000918s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007301s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:32:30+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E9%9D%92%E8%8A%B1%E7%93%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001463s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008894s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:36:32+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001777s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014234s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:36:38+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%91%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001538s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011208s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:37:13+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012323s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:37:17+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%91%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001922s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008192s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:38:11+08:00 ] 127.0.0.1 /Api/QQMusic/lyric?songname=%E7%AD%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000988s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009798s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:38:18+08:00 ] 127.0.0.1 /Api/QQMusic/lyric?songname=%E7%AD%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001282s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010402s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:38:45+08:00 ] 127.0.0.1 /Api/QQMusic/lyric?songname=%E7%AD%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000986s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011232s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Api\Controller\QQMusicController.class.php 第 24 行.
+
+[ 2015-08-28T14:39:11+08:00 ] 127.0.0.1 /Api/QQMusic/lyric?songname=%E7%AD%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001287s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008668s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:39:15+08:00 ] 127.0.0.1 /Api/QQMusic/lyric?songname=%E7%AD%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000895s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010905s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:40:02+08:00 ] 127.0.0.1 /Api/QQMusic/lyric?songname=%E7%AD%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008233s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:40:14+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=0024bjiL2aocxT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000947s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010277s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:40:15+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E9%BB%91%E8%89%B2%E6%AF%9B%E8%A1%A3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012442s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:40:48+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000f01724fd7TH
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001618s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009685s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:40:49+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E9%BE%99%E5%8D%B7%E9%A3%8E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012658s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T14:41:07+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002eFUFm2XYZ7z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001397s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008870s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T14:41:08+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E9%9D%92%E8%8A%B1%E7%93%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000984s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008055s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T17:37:20+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000eOgmK1fN8Cs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007455s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T17:37:22+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006709s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T17:42:26+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=001oHxZZ1pAQn4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007953s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T17:42:28+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E5%A4%A7%E5%9C%B0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000767s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006881s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T17:46:47+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=001C2BRX15iE4B
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000888s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006946s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T17:46:49+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000799s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009145s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T18:00:35+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000c84SZ2tBpDz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006512s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T18:00:36+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%BB%83%E4%B9%A0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000791s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006519s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T18:04:49+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000JGIuD2BotLz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006560s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T18:04:50+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E5%BC%80%E5%BF%83%E7%9A%84%E9%A9%AC%E9%AA%9D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006495s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T18:10:11+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000fCODN0c3YPn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015175s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T18:10:11+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%AC%A8%E5%B0%8F%E5%AD%A9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009464s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T18:14:12+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=003V9RQC25xddw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000915s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006576s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T18:14:13+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E5%86%B0%E9%9B%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000846s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007606s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-08-28T18:22:22+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=0037KtUw0RDrLy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006609s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T18:22:29+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E8%B0%A2%E8%B0%A2%E4%BD%A0%E7%9A%84%E7%88%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007659s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+

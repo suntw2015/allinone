@@ -1,0 +1,647 @@
+[ 2015-08-05T09:58:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008605s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004672s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010777s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008292s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007818s ]
+
+[ 2015-08-05T09:58:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000930s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007490s ]
+
+[ 2015-08-05T10:00:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000900s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012979s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003655s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005874s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015259s ]
+
+[ 2015-08-05T10:00:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000895s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006590s ]
+
+[ 2015-08-05T10:03:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007995s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008627s ]
+
+[ 2015-08-05T10:03:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000886s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007003s ]
+
+[ 2015-08-05T10:04:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003807s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008644s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007970s ]
+
+[ 2015-08-05T10:04:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006066s ]
+
+[ 2015-08-05T10:04:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000935s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009446s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007881s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009509s ]
+
+[ 2015-08-05T10:05:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006859s ]
+
+[ 2015-08-05T10:05:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000860s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003475s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008505s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008777s ]
+
+[ 2015-08-05T10:05:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006023s ]
+
+[ 2015-08-05T12:27:11+08:00 ] 127.0.0.1 /Home/Index/test?name=%E5%8D%9C%E5%8D%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007735s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0381s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0012s ]
+SQL: select * from ttpod_song where song_name regexp '[卜卦]{2}' limit 0,10 [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1316294  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1316294','142631','26351','卜卦','崔子格','老婆最大') [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0212s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0058s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1316294','卜卦','崔子格','03:34','m4a','32','压缩品质','http://om32.alicdn.com/567/100567/521732/1771116790_3423809_l.m4a?auth_key=286c3aefea604e9b31c677cd6c0b749b-1438819200-0-null','0.85M','1') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1316294','卜卦','崔子格','03:34','mp3','128','标准品质','http://m5.file.xiami.com/567/100567/521732/1771116790_3423809_l.mp3?auth_key=d6552ee864150d7ba2110b7854c3c00d-1438819200-0-null','3.28M','2') [ RunTime:0.0039s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1316294','卜卦','崔子格','03:34','mp3','320','超高品质','http://m6.file.xiami.com/567/100567/521732/1771116790_3423809_h.mp3?auth_key=3557860f801d715018467deea03bd829-1438819200-0-null','8.19M','4') [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0074s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0063s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('1316294','卜卦','崔子格','mp4','500','标清画质','26.20M','27472148','http://mv.hotmusique.com/mv_1_6/e6/c8/e61b34d66eeb7939ff8eaefee07a15c8.mp4?k=ed82949fe61442ff&t=1439155298','03:37','217780','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_6/160_90/2465/89811/628682.jpg','628682','0') [ RunTime:0.0043s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1861357  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1861357','142631','0','卜卦(铃声)','崔子格',NULL) [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0082s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1861357','卜卦(铃声)','崔子格','00:43','m4a','32','压缩品质','http://b.ali.hotchanson.com/10ea3fa15e1e497b/1439180828/m4a_32_18/a0/f5/a0fdf5c628dad5abee35f2ca656747f5.m4a?s=t','0.18M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1861357','卜卦(铃声)','崔子格','00:43','mp3','128','标准品质','http://b.ali.hotchanson.com/10ea3fa15e1e497b/1439180828/mp3_128_18/a0/f5/a0fdf5c628dad5abee35f2ca656747f5.mp3?s=t','0.66M','2') [ RunTime:0.0034s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 22624290  [ RunTime:0.0014s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('22624290','142631','0','卜卦','崔子格',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('22624290','卜卦','崔子格','03:36','m4a','32','压缩品质','http://om32.alicdn.com/567/100567/1997459993/1773223885_15127210_l.m4a?auth_key=9f29d2dc733ad4145ac7b073b25ad21d-1438819200-0-null','0.85M','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('22624290','卜卦','崔子格','03:36','mp3','128','标准品质','http://m5.file.xiami.com/567/100567/1997459993/1773223885_15127210_l.mp3?auth_key=1880157f69bdc6ec75a09f44bb88f09f-1438819200-0-null','3.31M','2') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('22624290','卜卦','崔子格','03:36','mp3','320','超高品质','http://m6.file.xiami.com/567/100567/1997459993/1773223885_15127210_h.mp3?auth_key=5a4d07e104a163b47743b41994806fb8-1438819200-0-null','8.28M','4') [ RunTime:0.0036s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28384612  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28384612','1000140','0','卜卦','韩文版',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0049s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28384612','卜卦','韩文版','03:10','m4a','32','压缩品质','http://b.ali.hotchanson.com/41562a238abe2c23/1439180828/m4a_32_283/66/09/66c36b72bc51d8f24b4944fd254d6409.m4a?s=t','0.75M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28384612','卜卦','韩文版','03:10','mp3','128','标准品质','http://nmo.ouj.yymommy.com/41562a238abe2c23/1439180828/mp3_128_283/66/09/66c36b72bc51d8f24b4944fd254d6409.mp3?s=t','2.91M','2') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 30100474  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('30100474','1793646','0','卜卦','风小筝 & 风小筝',NULL) [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0082s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30100474','卜卦','风小筝 & 风小筝','03:05','m4a','32','压缩品质','http://b.ali.hotchanson.com/baedfc55e79ba1be/1439180828/m4a_32_301/88/d0/8878e515f249d0fd7c5b3352d4a0f6d0.m4a?s=t','0.73M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30100474','卜卦','风小筝 & 风小筝','03:05','mp3','128','标准品质','http://nmo.ouj.yymommy.com/baedfc55e79ba1be/1439180828/mp3_128_301/88/d0/8878e515f249d0fd7c5b3352d4a0f6d0.mp3?s=t','2.83M','2') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28661052  [ RunTime:0.0015s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28661052','142631','0','卜卦(21秒铃声版)','崔子格',NULL) [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0065s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28661052','卜卦(21秒铃声版)','崔子格','00:21','m4a','32','压缩品质','http://b.ali.hotchanson.com/8a81105c53707fd8/1439180828/m4a_32_286/0f/c8/0fc345e7adea49eff76cad8780d1e1c8.m4a?s=t','0.09M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28661052','卜卦(21秒铃声版)','崔子格','00:21','mp3','128','标准品质','http://nmo.ouj.yymommy.com/8a81105c53707fd8/1439180828/mp3_128_286/0f/c8/0fc345e7adea49eff76cad8780d1e1c8.mp3?s=t','0.32M','2') [ RunTime:0.0047s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 10649264  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('10649264','1002147','0','卜卦','Dj版',NULL) [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0058s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10649264','卜卦','Dj版','05:40','m4a','32','压缩品质','http://b.ali.hotchanson.com/9882b4498fa28dab/1439180828/m4a_32_106/9c/ac/9cf9f9befdd700a7e491e6662dad5dac.m4a?s=t','1.21M','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10649264','卜卦','Dj版','05:40','mp3','128','标准品质','http://nmo.ouj.yymommy.com/9882b4498fa28dab/1439180828/mp3_128_106/9c/ac/9cf9f9befdd700a7e491e6662dad5dac.mp3?s=t','5.19M','2') [ RunTime:0.0034s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28384615  [ RunTime:0.0025s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28384615','90186','0','卜卦','呼可儿',NULL) [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0068s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28384615','卜卦','呼可儿','03:36','m4a','32','压缩品质','http://nmo.ouj.yymommy.com/56a1aec3c624073d/1439180828/m4a_32_283/82/e5/8249ba5306541c7a999f5266abcba0e5.m4a?s=t','0.85M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28384615','卜卦','呼可儿','03:36','mp3','128','标准品质','http://nmo.ouj.yymommy.com/56a1aec3c624073d/1439180828/mp3_128_283/82/e5/8249ba5306541c7a999f5266abcba0e5.mp3?s=t','3.30M','2') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29899419  [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29899419','2165411','0','卜卦','卡布 & 周深',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0059s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29899419','卜卦','卡布 & 周深','03:09','m4a','32','压缩品质','http://b.ali.hotchanson.com/86caa7c60b83db0b/1439180828/m4a_32_298/19/60/19a4c9a47e6db21a94ec7dd1c893d260.m4a?s=t','0.75M','1') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 30125790  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('30125790','142631','0','卜卦(Dj 伴奏版)','崔子格',NULL) [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30125790','卜卦(Dj 伴奏版)','崔子格','03:36','m4a','32','压缩品质','http://nmo.ouj.yymommy.com/239fcdbc60c6b7d6/1439180828/m4a_32_301/37/a2/37e2573b318ad77a5b5f4c9f808fe3a2.m4a?s=t','0.85M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30125790','卜卦(Dj 伴奏版)','崔子格','03:36','mp3','128','标准品质','http://b.ali.hotchanson.com/239fcdbc60c6b7d6/1439180828/mp3_128_301/37/a2/37e2573b318ad77a5b5f4c9f808fe3a2.mp3?s=t','3.30M','2') [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 26150645  [ RunTime:0.0018s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('26150645','59285','0','卜卦','玄觞',NULL) [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0080s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26150645','卜卦','玄觞','03:19','m4a','32','压缩品质','http://b.ali.hotchanson.com/8ab9aac5df0e01e6/1439180828/m4a_32_261/97/67/9792d0b82941e36422ea81751085fd67.m4a?s=t','0.79M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26150645','卜卦','玄觞','03:19','mp3','128','标准品质','http://b.ali.hotchanson.com/8ab9aac5df0e01e6/1439180828/mp3_128_261/97/67/9792d0b82941e36422ea81751085fd67.mp3?s=t','3.04M','2') [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26150645','卜卦','玄觞','03:19','mp3','192','高品质','http://nmo.ouj.yymommy.com/ddee672a8d39dcfd/1439180828/mp3_190_261/e2/11/e2aa08885e97b36a728eaf3dcaf7d611.mp3?s=t','4.57M','3') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 30172983  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('30172983','142631','0','卜卦(46秒DJ铃声版)','崔子格',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0099s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30172983','卜卦(46秒DJ铃声版)','崔子格','00:46','m4a','32','压缩品质','http://nmo.ouj.yymommy.com/a2c2ec87105a0f78/1439180828/m4a_32_301/39/24/39a9ceaba824bae02f0d51d997d86f24.m4a?s=t','0.19M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30172983','卜卦(46秒DJ铃声版)','崔子格','00:46','mp3','128','标准品质','http://nmo.ouj.yymommy.com/a2c2ec87105a0f78/1439180828/mp3_128_301/39/24/39a9ceaba824bae02f0d51d997d86f24.mp3?s=t','0.71M','2') [ RunTime:0.0036s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 10649278  [ RunTime:0.0018s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('10649278','59157','0','卜卦','蓝翼',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0057s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10649278','卜卦','蓝翼','03:31','m4a','32','压缩品质','http://nmo.ouj.yymommy.com/d8d23e25d34660e2/1439180828/m4a_32_106/0f/ea/0f70509d419fe86cd2abdc2f418250ea.m4a?s=t','0.83M','1') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10649278','卜卦','蓝翼','03:31','mp3','128','标准品质','http://oen.cye.yymommy.com/d8d23e25d34660e2/1439180828/mp3_128_106/0f/ea/0f70509d419fe86cd2abdc2f418250ea.mp3?s=t','3.23M','2') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28826919  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28826919','52097','0','卜卦','陈禹蒙',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0066s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28826919','卜卦','陈禹蒙','02:58','m4a','32','压缩品质','http://oen.cye.yymommy.com/26c5e8eb195f9865/1439180828/m4a_32_288/f9/e0/f978cef23768aa0b0a108426bb09bee0.m4a?s=t','0.71M','1') [ RunTime:0.0052s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28826919','卜卦','陈禹蒙','02:58','mp3','128','标准品质','http://a.ali.dongting.com/26c5e8eb195f9865/1439180828/mp3_128_288/f9/e0/f978cef23768aa0b0a108426bb09bee0.mp3?s=t','2.72M','2') [ RunTime:0.0038s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28826919','卜卦','陈禹蒙','02:58','mp3','192','高品质','http://oen.cye.yymommy.com/a554d7f27ac4d7b8/1439180828/mp3_190_288/94/84/943068fc544dc40843fc5e67010f2484.mp3?s=t','4.09M','3') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0244s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2106621  [ RunTime:0.0021s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2106621','19460','282780','卜卦','原声带','霹雳兵燹之刀戟戡魔录原声带') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2106621','卜卦','原声带','04:21','m4a','32','压缩品质','http://om32.alicdn.com/772/91772/392040/1769652201_1469779_l.m4a?auth_key=2fea5e01a8f82b20c078743ee85a401e-1438819200-0-null','1.02M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2106621','卜卦','原声带','04:21','mp3','128','标准品质','http://m5.file.xiami.com/772/91772/392040/1769652201_1469779_l.mp3?auth_key=6f6aa68f4dcfe4cee9a20a662a94f986-1438819200-0-null','4.00M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2106621','卜卦','原声带','04:21','mp3','320','超高品质','http://m6.file.xiami.com/772/91772/392040/1769652201_1469779_h.mp3?auth_key=13610c7f5118bd7329ff630a059d741f-1438819200-0-null','9.99M','4') [ RunTime:0.0034s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2445630  [ RunTime:0.0026s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2445630','265793','0','崔子格_卜卦','贵州Mc小伟',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0540s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2445630','崔子格_卜卦','贵州Mc小伟','03:35','m4a','32','压缩品质','http://a.ali.dongting.com/7a65b4d221dbb05f/1439180828/m4a_32_24/d4/fe/d445823a27e260931c0df75b7c1f1dfe.m4a?s=t','0.85M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2445630','崔子格_卜卦','贵州Mc小伟','03:35','mp3','128','标准品质','http://oen.cye.yymommy.com/7a65b4d221dbb05f/1439180828/mp3_128_24/d4/fe/d445823a27e260931c0df75b7c1f1dfe.mp3?s=t','3.28M','2') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 10649260  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('10649260','12054','0','卜卦','雪儿',NULL) [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0093s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10649260','卜卦','雪儿','03:04','m4a','32','压缩品质','http://a.ali.dongting.com/5930a0a0251ee7d1/1439180828/m4a_32_106/ed/a2/ed3c4f3f9d284c78d5c367be16391da2.m4a?s=t','0.73M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10649260','卜卦','雪儿','03:04','mp3','128','标准品质','http://oen.cye.yymommy.com/5930a0a0251ee7d1/1439180828/mp3_128_106/ed/a2/ed3c4f3f9d284c78d5c367be16391da2.mp3?s=t','2.81M','2') [ RunTime:0.0051s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29496909  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29496909','142631','0','卜卦(音乐爱现场第七场Live版)','崔子格',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0066s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29496909','卜卦(音乐爱现场第七场Live版)','崔子格','03:34','m4a','32','压缩品质','http://a.ali.dongting.com/507a56dc41781054/1439180828/m4a_32_294/cb/13/cb58346bcd71087413e9fc486a084d13.m4a?s=t','0.85M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29496909','卜卦(音乐爱现场第七场Live版)','崔子格','03:34','mp3','128','标准品质','http://a.ali.dongting.com/507a56dc41781054/1439180828/mp3_128_294/cb/13/cb58346bcd71087413e9fc486a084d13.mp3?s=t','3.28M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29496909','卜卦(音乐爱现场第七场Live版)','崔子格','03:34','mp3','320','超高品质','http://a.ali.dongting.com/81c7b7c682872ccd/1439180828/mp3_190_294/37/11/37643f9f647ec6616e55b5d881c70911.mp3?s=t','8.20M','3') [ RunTime:0.0034s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 9814261  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('9814261','1000107','0','卜卦','神曲',NULL) [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0087s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('9814261','卜卦','神曲','00:21','m4a','32','压缩品质','http://a.ali.dongting.com/1a131c15ebb9b004/1439180828/m4a_32_98/c9/32/c9e55c697222a4b949ddfc20c2391832.m4a?s=t','0.09M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('9814261','卜卦','神曲','00:21','mp3','128','标准品质','http://oen.cye.yymommy.com/1a131c15ebb9b004/1439180828/mp3_128_98/c9/32/c9e55c697222a4b949ddfc20c2391832.mp3?s=t','0.32M','2') [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 6744822  [ RunTime:0.0019s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('6744822','1058849','0','崔子格-卜卦 (DJ阿颖 Remix)','慢摇舞曲',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('6744822','崔子格-卜卦 (DJ阿颖 Remix)','慢摇舞曲','06:47','m4a','32','压缩品质','http://oen.cye.yymommy.com/3629a9d7bc568c0e/1439180828/m4a_32_67/84/49/8434c70b05749411c0496e8b4b863b49.m4a?s=t','1.59M','1') [ RunTime:0.0042s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('6744822','崔子格-卜卦 (DJ阿颖 Remix)','慢摇舞曲','06:47','mp3','128','标准品质','http://a.ali.dongting.com/3629a9d7bc568c0e/1439180828/mp3_128_67/84/49/8434c70b05749411c0496e8b4b863b49.mp3?s=t','6.22M','2') [ RunTime:0.0035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003385s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008015s ]
+NOTIC: [8] Undefined index: count E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.477433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.482037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008449s ]
+
+[ 2015-08-05T12:27:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006080s ]
+
+[ 2015-08-05T12:27:15+08:00 ] 127.0.0.1 /Home/Index/test?name=%E5%8D%9C%E5%8D%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007653s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0010s ]
+SQL: select * from ttpod_song where song_name regexp '[卜卦]{2}' limit 0,10 [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1316294  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1316294  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1861357  [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1861357  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 22624290  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 22624290  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28384612  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28384612  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30100474  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30100474  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28661052  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28661052  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 10649264  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 10649264  [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28384615  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28384615  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29899419  [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29899419  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30125790  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30125790  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007741s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.395017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.399767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007747s ]
+
+[ 2015-08-05T12:27:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001422s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007385s ]
+
+[ 2015-08-05T12:31:33+08:00 ] 127.0.0.1 /Home/Index/test?name=butter%20fly
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007798s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0010s ]
+SQL: select * from ttpod_song where song_name regexp '[butter fly]{10}' limit 0,10 [ RunTime:0.0122s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1491506  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1491506','38361','195262','Butter-Fly','和田光司','怀旧动漫歌曲特典第2弹') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0073s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1491506','Butter-Fly','和田光司','04:17','m4a','32','压缩品质','http://om32.alicdn.com/1/500/62500/334537/1768961778_567490_l.m4a?auth_key=91798b5fed6e3aee6a1e69715e4139f9-1438819200-0-null','1.01M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1491506','Butter-Fly','和田光司','04:17','mp3','128','标准品质','http://m5.file.xiami.com/1/500/62500/334537/1768961778_567490_l.mp3?auth_key=4cbd57ec54bdb234f4fdaadced6afe95-1438819200-0-null','3.92M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1491506','Butter-Fly','和田光司','04:17','mp3','320','超高品质','http://m6.file.xiami.com/1/500/62500/334537/1768961778_567490_h.mp3?auth_key=d8eebc9edf26b515c4bf796942784afa-1438819200-0-null','9.81M','4') [ RunTime:0.0053s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1237687  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1237687','38361','1187886','Butter-Fly','和田光司','re-fly') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0083s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1237687','Butter-Fly','和田光司','04:17','m4a','32','压缩品质','http://oen.cye.yymommy.com/f8a7ce59fea8b0f3/1439181092/m4a_32_12/18/1c/182b225281e556922754c1fc31901f1c.m4a?s=t','1.01M','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1237687','Butter-Fly','和田光司','04:17','mp3','128','标准品质','http://b.ali.hotchanson.com/f8a7ce59fea8b0f3/1439181092/mp3_128_12/18/1c/182b225281e556922754c1fc31901f1c.mp3?s=t','3.93M','2') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1237687','Butter-Fly','和田光司','04:17','mp3','320','超高品质','http://nie.dfe.yymommy.com/c8701c05f4ce6bf3/1439181092/mp3_190_12/18/e2/18af0c7907673dbd730341f868e9a0e2.mp3?s=t','9.83M','3') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 18880804  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('18880804','49818','847369','Butter-Fly','数码宝贝','デジモン超進化ベスト2!') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0059s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('18880804','Butter-Fly','数码宝贝','03:51','m4a','32','压缩品质','http://nie.dfe.yymommy.com/48a92c908830f2df/1439181092/m4a_32_188/a6/06/a662d3f97cec634a208fbde8b3face06.m4a?s=t','0.91M','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('18880804','Butter-Fly','数码宝贝','03:51','mp3','128','标准品质','http://a.ali.dongting.com/48a92c908830f2df/1439181092/mp3_128_188/a6/06/a662d3f97cec634a208fbde8b3face06.mp3?s=t','3.53M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('18880804','Butter-Fly','数码宝贝','03:51','mp3','320','超高品质','http://a.ali.dongting.com/1cd1951a6a51eebf/1439181092/mp3_190_188/f4/79/f4275c98d2f82dab9c7dd792d53dd679.mp3?s=t','8.82M','4') [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 990317  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('990317','98698','269428','Butter-Fly','Digimon','Adventure') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0056s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('990317','Butter-Fly','Digimon','04:17','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/1423212421/1773976823_16306266_l.m4a?auth_key=548369377297be275399064cc4a39c67-1438819200-0-null','1.01M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('990317','Butter-Fly','Digimon','04:17','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/1423212421/1773976823_16306266_l.mp3?auth_key=e533334aa640d88b1995fc763b44e5dd-1438819200-0-null','3.93M','2') [ RunTime:0.0048s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('990317','Butter-Fly','Digimon','04:17','mp3','320','超高品质','http://m6.file.xiami.com/500/62500/1423212421/1773976823_16306266_h.mp3?auth_key=42f1e26e0df6a89279fd1b40812263ec-1438819200-0-null','9.82M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2650967  [ RunTime:0.0015s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2650967','38361','1056055','Butter-Fly (劇場サイズ)','和田光司','The Biggest Dreamer') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0057s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2650967','Butter-Fly (劇場サイズ)','和田光司','01:05','m4a','32','压缩品质','http://om32.alicdn.com/821/55821/306042/1770211617_2292875_l.m4a?auth_key=114309a55493e11b8c28fce84ccc35f4-1438819200-0-null','0.26M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2650967','Butter-Fly (劇場サイズ)','和田光司','01:05','mp3','128','标准品质','http://m5.file.xiami.com/821/55821/306042/1770211617_2292875_l.mp3?auth_key=3278918fdec40e5e762ba64ce64a5cc0-1438819200-0-null','1.01M','3') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2650967','Butter-Fly (劇場サイズ)','和田光司','01:05','mp3','320','超高品质','http://m6.file.xiami.com/821/55821/306042/1770211617_2292875_h.mp3?auth_key=590a73dc8b8b6515d4d62c572072c54f-1438819200-0-null','2.51M','5') [ RunTime:0.0036s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 22587389  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('22587389','49818','0','Butter-Fly(TVサイズ)','数码宝贝',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0076s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('22587389','Butter-Fly(TVサイズ)','数码宝贝','01:38','m4a','32','压缩品质','http://om32.alicdn.com/1/500/62500/335041/1768968015_574278_l.m4a?auth_key=404192685fe71f689cd8759b1f85462e-1438819200-0-null','0.38M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('22587389','Butter-Fly(TVサイズ)','数码宝贝','01:38','mp3','128','标准品质','http://m5.file.xiami.com/1/500/62500/335041/1768968015_574278_l.mp3?auth_key=e89ce48084b8153e47c6ac7e62a6a444-1438819200-0-null','1.51M','2') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('22587389','Butter-Fly(TVサイズ)','数码宝贝','01:38','mp3','320','超高品质','http://m6.file.xiami.com/1/500/62500/335041/1768968015_574278_h.mp3?auth_key=7ffae386faead1fb19dbe73588119c68-1438819200-0-null','3.78M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 18806915  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('18806915','1342895','573342','Butter-Fly (feat. 风间勇刀,竹内顺子,坂本千夏,菊池正美,山口真弓,天神有海&藤田淑子)','風間勇刀','数码宝贝 15周年纪念精选集 - We Love DiGiMONMUSIC') [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('18806915','Butter-Fly (feat. 风间勇刀,竹内顺子,坂本千夏,菊池正美,山口真弓,天神有海&藤田淑子)','風間勇刀','04:32','m4a','32','压缩品质','http://a.ali.dongting.com/0f439bb2d2f09466/1439181092/m4a_32_188/97/6e/9723a27f357b32912d23cfbb8b947a6e.m4a?s=t','1.06M','1') [ RunTime:0.0044s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('18806915','Butter-Fly (feat. 风间勇刀,竹内顺子,坂本千夏,菊池正美,山口真弓,天神有海&藤田淑子)','風間勇刀','04:32','mp3','128','标准品质','http://nie.dfe.yymommy.com/0f439bb2d2f09466/1439181092/mp3_128_188/97/6e/9723a27f357b32912d23cfbb8b947a6e.mp3?s=t','4.15M','2') [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1074692  [ RunTime:0.0025s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1074692','1672652','0','Butter-Fly','日本ACG',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1074692','Butter-Fly','日本ACG','04:16','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/442440/1770224743_2313427_l.m4a?auth_key=a22b5cf30d482b30607e1b600278f450-1438819200-0-null','1.01M','1') [ RunTime:0.0049s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1074692','Butter-Fly','日本ACG','04:16','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/442440/1770224743_2313427_l.mp3?auth_key=f63db0a64dc60c0106a95f4dc998d4df-1438819200-0-null','3.91M','2') [ RunTime:0.0032s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1074692','Butter-Fly','日本ACG','04:16','mp3','320','超高品质','http://m6.file.xiami.com/500/62500/442440/1770224743_2313427_h.mp3?auth_key=01c401303805f6621d7ed70175c03c8e-1438819200-0-null','9.76M','4') [ RunTime:0.0035s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 3238459  [ RunTime:0.0038s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('3238459','38361','0','Butter-Fly (劇場サイズ#1)','和田光司',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0075s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3238459','Butter-Fly (劇場サイズ#1)','和田光司','01:05','m4a','32','压缩品质','http://a.ali.dongting.com/43ad03e442e6baf2/1439181092/m4a_32_32/69/e6/699fc8e54d0242956620cce418e413e6.m4a?s=t','0.26M','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3238459','Butter-Fly (劇場サイズ#1)','和田光司','01:05','mp3','128','标准品质','http://a.ali.dongting.com/43ad03e442e6baf2/1439181092/mp3_128_32/69/e6/699fc8e54d0242956620cce418e413e6.mp3?s=t','1.00M','2') [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1074717  [ RunTime:0.0015s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1074717','1672652','784992','Butter - Fly','日本ACG','ADM-Anime Dance Music produced by tkrism-') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0084s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1074717','Butter - Fly','日本ACG','04:31','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/576358955/1772091991_10856482_l.m4a?auth_key=49bc68927298ea14633960fb1a9b32be-1438819200-0-null','1.06M','1') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1074717','Butter - Fly','日本ACG','04:31','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/576358955/1772091991_10856482_l.mp3?auth_key=01864dcfcc7ae865d27a9ee4a7787682-1438819200-0-null','4.14M','2') [ RunTime:0.0038s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1074717','Butter - Fly','日本ACG','02:24','mp3','320','超高品质','http://b.ali.hotchanson.com/cc01ab152ac3f00f/1439181092/mp3_190_10/05/40/055819d31595b28a86577afd7b03ab40.mp3?s=t','5.52M','4') [ RunTime:0.0039s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 26192035  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('26192035','50716','0','Butter-Fly ','まらしぃ',NULL) [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26192035','Butter-Fly ','まらしぃ','04:10','m4a','32','压缩品质','http://om32.alicdn.com/202/70202/1498573743/1772939085_15112481_l.m4a?auth_key=01da94f2cba97f6b23bf6ce0167dd0b2-1438819200-0-null','0.98M','1') [ RunTime:0.0049s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26192035','Butter-Fly ','まらしぃ','04:10','mp3','128','标准品质','http://m5.file.xiami.com/202/70202/1498573743/1772939085_15112481_l.mp3?auth_key=3cdcaaf659d48c18ba2c93ae6c03a4b5-1438819200-0-null','3.82M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26192035','Butter-Fly ','まらしぃ','04:10','mp3','320','超高品质','http://m6.file.xiami.com/202/70202/1498573743/1772939085_15112481_h.mp3?auth_key=7e4fa7c873514e5eaa8b843fefe8a4b9-1438819200-0-null','9.55M','4') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 25730771  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('25730771','192562','0','Butter-Fly ','遠藤正明',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25730771','Butter-Fly ','遠藤正明','04:18','m4a','32','压缩品质','http://om32.alicdn.com/960/54960/301833/3339177_162612_l.m4a?auth_key=abfeae0f51fefd06d43870f5405e349a-1438819200-0-null','1.01M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25730771','Butter-Fly ','遠藤正明','04:18','mp3','128','标准品质','http://m5.file.xiami.com/960/54960/301833/3339177_162612_l.mp3?auth_key=7b6d5d55da12c7d09843cd8367361945-1438819200-0-null','3.95M','2') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25730771','Butter-Fly ','遠藤正明','04:18','mp3','192','高品质','http://om192.alicdn.com/960/54960/301833/3339177_162612_l.mp3?auth_key=7b6d5d55da12c7d09843cd8367361945-1438819200-0-null','5.92M','3') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 995767  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('995767','1056528','75678','Butter-Fly','王族バンド','ロイヤル ストレート フラッシュ') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0078s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('995767','Butter-Fly','王族バンド','04:15','m4a','32','压缩品质','http://om32.alicdn.com/897/70897/368458/1769371458_1089334_l.m4a?auth_key=5b54ff1df32ae32ef41a031b7351e254-1438819200-0-null','1.00M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('995767','Butter-Fly','王族バンド','04:15','mp3','128','标准品质','http://m5.file.xiami.com/897/70897/368458/1769371458_1089334_l.mp3?auth_key=6617afb9e8a5a5f041946d5bb18f8cfc-1438819200-0-null','3.91M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('995767','Butter-Fly','王族バンド','04:15','mp3','320','超高品质','http://m6.file.xiami.com/897/70897/368458/1769371458_1089334_h.mp3?auth_key=0eba87549dcace7733a97859a4ecb03e-1438819200-0-null','9.76M','4') [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28993003  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28993003','2095377','0','butter-fly','坂本千夏 & 天神有海 & 山口眞弓 & 樱井孝宏 & 竹内顺子 & 菊池正美 & 藤田淑子 & 风间勇刀',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0064s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28993003','butter-fly','坂本千夏 & 天神有海 & 山口眞弓 & 樱井孝宏 & 竹内顺子 & 菊池正美 & 藤田淑子 & 风间勇刀','04:31','m4a','32','压缩品质','http://b.ali.hotchanson.com/05f248424238a422/1439181092/m4a_32_289/bd/98/bdc4f4bcdf82597cce5181b21d434d98.m4a?s=t','1.06M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28993003','butter-fly','坂本千夏 & 天神有海 & 山口眞弓 & 樱井孝宏 & 竹内顺子 & 菊池正美 & 藤田淑子 & 风间勇刀','04:31','mp3','128','标准品质','http://b.ali.hotchanson.com/05f248424238a422/1439181092/mp3_128_289/bd/98/bdc4f4bcdf82597cce5181b21d434d98.mp3?s=t','4.15M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28993003','butter-fly','坂本千夏 & 天神有海 & 山口眞弓 & 樱井孝宏 & 竹内顺子 & 菊池正美 & 藤田淑子 & 风间勇刀','04:31','mp3','320','超高品质','http://b.ali.hotchanson.com/c628ed3606440945/1439181092/mp3_190_289/c3/61/c339900135247598768b6082b4ece561.mp3?s=t','10.38M','3') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1490816  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1490816','38361','306315','Butter-Fly(オリジナル ・カラオケ)','和田光司','デジモンアドベンチャー OP Single - Butter-Fly') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1490816','Butter-Fly(オリジナル ・カラオケ)','和田光司','04:17','m4a','32','压缩品质','http://b.ali.hotchanson.com/bc81d2af63d5ed7a/1439181092/m4a_32_14/b1/b4/b1285cc2e322c81a2d6e868d86963bb4.m4a?s=t','1.01M','1') [ RunTime:0.0046s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1490816','Butter-Fly(オリジナル ・カラオケ)','和田光司','04:17','mp3','128','标准品质','http://b.ali.hotchanson.com/1a767593bdb223d0/1439181092/mp3_128_14/81/75/81b29ded2a681bd1f04b98b9e916d775.mp3?s=t','3.94M','2') [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1732387  [ RunTime:0.0019s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1732387','10288','190662','Butter-Fly','桃井はるこ','more&more quality RED') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0085s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1732387','Butter-Fly','桃井はるこ','04:32','m4a','32','压缩品质','http://om32.alicdn.com/235/62235/449348/1770304593_2419264_l.m4a?auth_key=5eebb71a30f5ed0c6455f55796ffc73c-1438819200-0-null','1.07M','1') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1732387','Butter-Fly','桃井はるこ','04:32','mp3','128','标准品质','http://m5.file.xiami.com/235/62235/449348/1770304593_2419264_l.mp3?auth_key=9f1319deb2323efe1cfd8ac9acdc425c-1438819200-0-null','4.16M','2') [ RunTime:0.0048s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1732387','Butter-Fly','桃井はるこ','04:32','mp3','320','超高品质','http://m6.file.xiami.com/235/62235/449348/1770304593_2419264_h.mp3?auth_key=ce71ddc2c023788ed3d985d2412c636e-1438819200-0-null','10.40M','4') [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 30096984  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('30096984','38361','0','Butter Fly (TVサイズ伴奏版)','和田光司',NULL) [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0072s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30096984','Butter Fly (TVサイズ伴奏版)','和田光司','04:17','m4a','32','压缩品质','http://nmo.ouj.yymommy.com/a6fb8c8f2d55aade/1439181092/m4a_32_300/05/86/05ca99533a1052fb8761b321f7386086.m4a?s=t','1.01M','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30096984','Butter Fly (TVサイズ伴奏版)','和田光司','04:17','mp3','128','标准品质','http://b.ali.hotchanson.com/a6fb8c8f2d55aade/1439181092/mp3_128_300/05/86/05ca99533a1052fb8761b321f7386086.mp3?s=t','3.94M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30096984','Butter Fly (TVサイズ伴奏版)','和田光司','04:17','mp3','320','超高品质','http://b.ali.hotchanson.com/35c0ccce3e670665/1439181092/mp3_190_300/e6/de/e6b0bd176ca6de3129234c1f32bc54de.mp3?s=t','9.84M','3') [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2918454  [ RunTime:0.0017s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2918454','133424','676015','butter fly','初音未来','神威夢奏') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0071s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2918454','butter fly','初音未来','04:27','m4a','32','压缩品质','http://nmo.ouj.yymommy.com/02e2f08733403913/1439181092/m4a_32_29/be/0e/be504cf9073d57e3832c17ea5ad90c0e.m4a?s=t','1.05M','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2918454','butter fly','初音未来','04:27','mp3','128','标准品质','http://b.ali.hotchanson.com/02e2f08733403913/1439181092/mp3_128_29/be/0e/be504cf9073d57e3832c17ea5ad90c0e.mp3?s=t','4.09M','2') [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 23114847  [ RunTime:0.0016s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('23114847','1679761','1018649','Butter-Fly','アグモン & ガブモン & ゴマモン & テントモン & 八神太一 & 城戸丈 & 泉光子郎 & 石田ヤマト','デジモンミュージック100タイトル記念作品 We Love DiGiMONMUSiC') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0057s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('23114847','Butter-Fly','アグモン & ガブモン & ゴマモン & テントモン & 八神太一 & 城戸丈 & 泉光子郎 & 石田ヤマト','04:17','m4a','32','压缩品质','http://b.ali.hotchanson.com/1b331f2e6ee63f0a/1439181092/m4a_32_231/91/79/91212389599b58446a28e9d773022579.m4a?s=t','1.01M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('23114847','Butter-Fly','アグモン & ガブモン & ゴマモン & テントモン & 八神太一 & 城戸丈 & 泉光子郎 & 石田ヤマト','04:17','mp3','128','标准品质','http://b.ali.hotchanson.com/1b331f2e6ee63f0a/1439181092/mp3_128_231/91/79/91212389599b58446a28e9d773022579.mp3?s=t','3.92M','2') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0747s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29748603  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29748603','1739954','0','Butter-Fly','EXIT TRANCE',NULL) [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0061s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29748603','Butter-Fly','EXIT TRANCE','01:33','m4a','32','压缩品质','http://om32.alicdn.com/997/91997/398931/1769730529_1590971_l.m4a?auth_key=48975c3951b7c6522446dc8d58a1cb8a-1438819200-0-null','0.37M','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29748603','Butter-Fly','EXIT TRANCE','01:33','mp3','128','标准品质','http://m5.file.xiami.com/997/91997/398931/1769730529_1590971_l.mp3?auth_key=915cea4f8b79bb39ee3bdccf69fa9e65-1438819200-0-null','1.42M','3') [ RunTime:0.0032s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29748603','Butter-Fly','EXIT TRANCE','01:33','mp3','320','超高品质','http://m6.file.xiami.com/997/91997/398931/1769730529_1590971_h.mp3?auth_key=aef0141aa04332d7abdc72b32157b348-1438819200-0-null','3.56M','5') [ RunTime:0.0035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007799s ]
+NOTIC: [8] Undefined index: count E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.382016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.387288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003919s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008015s ]
+
+[ 2015-08-05T12:31:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006781s ]
+
+[ 2015-08-05T12:31:36+08:00 ] 127.0.0.1 /Home/Index/test?name=butter%20fly
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000973s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007824s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0012s ]
+SQL: select * from ttpod_song where song_name regexp '[butter fly]{10}' limit 0,10 [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30096984  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30096984  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2918454  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2918454  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003865s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008460s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.389102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.394197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010608s ]
+
+[ 2015-08-05T12:31:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005826s ]
+
+[ 2015-08-05T12:31:47+08:00 ] 127.0.0.1 /Home/Index/test?name=butter-fly
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007527s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0021s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'invalid character range' from regexp
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:169) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:169) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-08-05T12:31:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000752s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006233s ]
+
+[ 2015-08-05T12:31:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000768s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005859s ]
+

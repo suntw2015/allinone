@@ -1,0 +1,79 @@
+[ 2015-12-14T11:18:20+08:00 ] 127.0.0.1 /home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER, CURLOPT_QUOTE, CURLOPT_HTTP200ALIASES and CURLOPT_POSTQUOTE arguments D:\wnmp\www\allinone\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: skey D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 407 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER, CURLOPT_QUOTE, CURLOPT_HTTP200ALIASES and CURLOPT_POSTQUOTE arguments D:\wnmp\www\allinone\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: nin D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 363 行.
+NOTIC: [8] Undefined index: NickName D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 364 行.
+NOTIC: [8] Undefined index: tagList D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 365 行.
+NOTIC: [8] Undefined index: PicUrl D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 366 行.
+NOTIC: [8] Undefined index: Desc D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 367 行.
+NOTIC: [8] Undefined index: title D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 368 行.
+NOTIC: [8] Undefined index: DirID D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 369 行.
+NOTIC: [8] Undefined index: createon D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 370 行.
+NOTIC: [8] Undefined index: SongCount D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 371 行.
+NOTIC: [8] Undefined index: TotalSongNum D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 372 行.
+NOTIC: [8] Undefined index: SongList D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 376 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 376 行.
+
+[ 2015-12-14T11:18:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-12-14T11:18:30+08:00 ] 127.0.0.1 /home/index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001181s ]
+
+[ 2015-12-14T11:18:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2015-12-14T12:40:28+08:00 ] 127.0.0.1 /home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012332s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER, CURLOPT_QUOTE, CURLOPT_HTTP200ALIASES and CURLOPT_POSTQUOTE arguments D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016141s ]
+
+[ 2015-12-14T12:40:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001439s ]
+

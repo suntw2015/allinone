@@ -1,0 +1,1177 @@
+[ 2015-07-17T09:16:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T09:17:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T09:19:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T09:19:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-17T09:19:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.045002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T09:19:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T09:19:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T09:19:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T09:22:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T09:22:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T09:39:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T09:39:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-17T09:39:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-07-17T09:39:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+
+[ 2015-07-17T09:40:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T09:40:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T09:45:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-07-17T09:45:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T09:46:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T09:46:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+
+[ 2015-07-17T09:48:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T09:48:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T09:49:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.013001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2015-07-17T09:49:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-17T09:49:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T09:49:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T10:36:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T10:36:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+
+[ 2015-07-17T10:37:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2015-07-17T10:37:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T10:38:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2015-07-17T10:38:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+
+[ 2015-07-17T10:44:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2015-07-17T10:44:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T10:45:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T10:45:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+
+[ 2015-07-17T12:33:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016001s ]
+
+[ 2015-07-17T12:33:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T12:36:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T12:36:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T13:51:05+08:00 ] 127.0.0.1 /Home/Index/test?name=Butterfly
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0700s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0430s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_name` = 'Butterfly' LIMIT 0,10   [ RunTime:0.0490s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 4304497  [ RunTime:0.0170s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('4304497','124290','9007','Butterfly ','少女时代','致美丽的你 OST') [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0260s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('4304497','Butterfly ','少女时代','03:02','m4a','32','压缩品质','http://om32.alicdn.com/443/77443/535435/1771239348_3716209_l.m4a?auth_key=146dadc21b4cdbb239597f69f55bf86a-1437177600-0-null','0.72M','2') [ RunTime:0.0150s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('4304497','Butterfly ','少女时代','03:02','mp3','128','标准品质','http://m5.file.xiami.com/443/77443/535435/1771239348_3716209_l.mp3?auth_key=4671286c033a96803c980e881e530791-1437177600-0-null','2.78M','4') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('4304497','Butterfly ','少女时代','03:02','mp3','320','超高品质','http://m6.file.xiami.com/443/77443/535435/1771239348_3716209_h.mp3?auth_key=a36b0aeb1a616325353d8dae8f636d30-1437177600-0-null','6.94M','6') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2098486  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2098486','1209084','1077652','Butterfly ','DJ舞曲','Best Dance 101 (6CD)') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2098486','Butterfly ','DJ舞曲','02:58','m4a','32','压缩品质','http://om32.alicdn.com/258/23258/479251/1770639070_3101789_l.m4a?auth_key=00fe8b83be4f6c5e124bc236e56da9e5-1437177600-0-null','0.70M','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2098486','Butterfly ','DJ舞曲','02:58','mp3','128','标准品质','http://m5.file.xiami.com/258/23258/479251/1770639070_3101789_l.mp3?auth_key=d32fe08651c68b5341c67477f86bb6a5-1437177600-0-null','2.72M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2098486','Butterfly ','DJ舞曲','02:58','mp3','320','超高品质','http://m6.file.xiami.com/258/23258/479251/1770639070_3101789_h.mp3?auth_key=714b8bbf3767ac8e4ab1a23adabf09ab-1437177600-0-null','6.80M','4') [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29335415  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29335415','2113676','0','butterfly','和田光司 & 数码暴龙',NULL) [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29335415','butterfly','和田光司 & 数码暴龙','04:20','m4a','32','压缩品质','http://b.ali.hotchanson.com/91322bd39d1457c9/1437544273/m4a_32_293/d8/10/d872d180ae637d03b9c6d5998bf17e10.m4a?s=t','1.01M','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29335415','butterfly','和田光司 & 数码暴龙','04:20','m4a','96','标准品质','http://oen.cye.yymommy.com/91322bd39d1457c9/1437544273/m4a_96_293/d8/10/d872d180ae637d03b9c6d5998bf17e10.m4a?s=t','2.95M','2') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1914220  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1914220','1388047','75214','Butterfly','G-Dragon','Heartbreaker') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1914220','Butterfly','G-Dragon','03:44','m4a','32','压缩品质','http://om32.alicdn.com/861/63861/342401/1769059826_11145005_l.m4a?auth_key=6414035698de40a11c2d70cc1021a79f-1437177600-0-null','0.88M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1914220','Butterfly','G-Dragon','03:44','mp3','128','标准品质','http://m5.file.xiami.com/861/63861/342401/1769059826_11145005_l.mp3?auth_key=f0612b01c3a28fceaa47b2ea02785aeb-1437177600-0-null','3.43M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1914220','Butterfly','G-Dragon','03:44','mp3','320','超高品质','http://m6.file.xiami.com/861/63861/342401/1769059826_11145005_h.mp3?auth_key=47fca9b2d93dd285a5b3921a9fa6b37e-1437177600-0-null','8.58M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 729894  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('729894','56007','1141902','Butterfly','Jason Mraz','Jason Mraz\'s Beautiful Mess: Live On Earth') [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('729894','Butterfly','Jason Mraz','04:59','m4a','32','压缩品质','http://om32.alicdn.com/401/23401/168439/2079019_3112820_l.m4a?auth_key=35c98a8c6536c016481a5855d08451f4-1437177600-0-null','1.17M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('729894','Butterfly','Jason Mraz','04:59','mp3','128','标准品质','http://m5.file.xiami.com/401/23401/168439/2079019_3112820_l.mp3?auth_key=ea07c0a92afada149b943f334ced7d8c-1437177600-0-null','4.56M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('729894','Butterfly','Jason Mraz','04:59','mp3','320','超高品质','http://m6.file.xiami.com/401/23401/168439/2079019_3112820_h.mp3?auth_key=1fbd0b18b62be73664af826ade59af07-1437177600-0-null','11.40M','4') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 331466  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('331466','44659','129611','Butterfly','Mariah Carey','A Tribute To Mariah Carey') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('331466','Butterfly','Mariah Carey','04:35','m4a','32','压缩品质','http://om32.alicdn.com/573/11573/82743/1192027_75967_l.m4a?auth_key=74d9bc92e159d4a3e604bf9b3987958e-1437177600-0-null','1.08M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('331466','Butterfly','Mariah Carey','04:35','mp3','128','标准品质','http://m5.file.xiami.com/573/11573/82743/1192027_75967_l.mp3?auth_key=173dbca4d0bc191b5a514df5b0cd3a21-1437177600-0-null','4.20M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('331466','Butterfly','Mariah Carey','04:35','mp3','320','超高品质','http://m6.file.xiami.com/573/11573/82743/1192027_75967_h.mp3?auth_key=c988712d607a9c26d01285f9d11c1565-1437177600-0-null','10.50M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0460s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('331466','Butterfly','Mariah Carey','mp4','500','标清画质','18.98M','19901513','http://mv.hotmusique.com/mv_1_0/ce/0d/ce0e345c184cff66601eb06e09ad6e0d.mp4?k=b5e80cf2abdc522e&t=1437513665','04:37','277120','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_0/160_90/32/1196/8376.jpg','8376','0') [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28418211  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28418211','49630','0','butterfly','致美丽的你',NULL) [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28418211','butterfly','致美丽的你','03:02','m4a','32','压缩品质','http://b.ali.hotchanson.com/786204276a4b3ad4/1437544273/m4a_32_284/47/89/471f48c3639fd07edc4e0d389ccc7089.m4a?s=t','0.72M','1') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 25560102  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('25560102','1797238','0','Butterfly ','郑秀妍 & 郑秀晶',NULL) [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0080s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25560102','Butterfly ','郑秀妍 & 郑秀晶','03:02','m4a','32','压缩品质','http://oen.cye.yymommy.com/f37cc8d0ee4d037e/1437544273/m4a_32_255/bf/22/bf5cf19d472010b68bb3285f8c0bcc22.m4a?s=t','0.71M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25560102','Butterfly ','郑秀妍 & 郑秀晶','03:02','mp3','128','标准品质','http://oen.cye.yymommy.com/f37cc8d0ee4d037e/1437544273/mp3_128_255/bf/22/bf5cf19d472010b68bb3285f8c0bcc22.mp3?s=t','2.78M','2') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 6778028  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('6778028','27831','320231','Butterfly','金在中','WWW') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('6778028','Butterfly','金在中','04:30','m4a','32','压缩品质','http://b.ali.hotchanson.com/a80e74793ad944d3/1437544273/m4a_32_67/10/4b/10c6bd95bcf6f322684e3b2e71e2424b.m4a?s=t','1.06M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('6778028','Butterfly','金在中','04:30','mp3','128','标准品质','http://oen.cye.yymommy.com/a80e74793ad944d3/1437544273/mp3_128_67/10/4b/10c6bd95bcf6f322684e3b2e71e2424b.mp3?s=t','6.97M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('6778028','Butterfly','金在中','04:30','mp3','320','超高品质','http://b.ali.hotchanson.com/5c803dae173b8525/1437544273/mp3_190_67/6a/a1/6a978752d5ab6ac9044dd1900a7011a1.mp3?s=t','13.17M','3') [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: singer_id D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1659243  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1659243',NULL,'1020987','Butterfly','Smile','Super Hits: 1993-2003') [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1659243','Butterfly','Smile','02:57','m4a','32','压缩品质','http://b.ali.hotchanson.com/1678f51eed1dd4c0/1437544273/m4a_32_16/1b/7a/1bf227f056bbf11922b7c51a3706577a.m4a?s=t','0.70M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1659243','Butterfly','Smile','02:56','mp3','128','标准品质','http://b.ali.hotchanson.com/1678f51eed1dd4c0/1437544273/mp3_128_16/1b/7a/1bf227f056bbf11922b7c51a3706577a.mp3?s=t','2.70M','2') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 26251097  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('26251097','1000468','1113243','Butterfly','Henry','Fantastic') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26251097','Butterfly','Henry','03:03','m4a','32','压缩品质','http://om32.alicdn.com/886/670338886/1905389157/1773351305_15642338_l.m4a?auth_key=86faf8d2c320f46004af9bba7903f44e-1437177600-0-null','0.72M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26251097','Butterfly','Henry','03:03','mp3','128','标准品质','http://m5.file.xiami.com/886/670338886/1905389157/1773351305_15642338_l.mp3?auth_key=f92ee827464e5e72a6b3d5d9d77d3d90-1437177600-0-null','2.80M','2') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26251097','Butterfly','Henry','03:03','mp3','320','超高品质','http://m6.file.xiami.com/886/670338886/1905389157/1773351305_15642338_h.mp3?auth_key=afd097eee24f7d91f12cafda7b424957-1437177600-0-null','6.99M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 35067325  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('35067325','20002456','2004835','Butterfly','하늘해;공보경','맨도롱 또똣 O.S.T') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('35067325','Butterfly','하늘해;공보경','03:29','m4a','32','压缩品质','http://om32.alicdn.com/443/77443/1535300992/1774446046_16838852_l.m4a?auth_key=551a1297c4e705fa86e91535453ef490-1437177600-0-null','0.82M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('35067325','Butterfly','하늘해;공보경','03:29','mp3','128','标准品质','http://m5.file.xiami.com/443/77443/1535300992/1774446046_16838852_l.mp3?auth_key=7cbd6d26621dccb1e0476b2bf6af219e-1437177600-0-null','3.19M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('35067325','Butterfly','하늘해;공보경','03:29','mp3','320','超高品质','http://m6.file.xiami.com/443/77443/1535300992/1774446046_16838852_h.mp3?auth_key=ba3fa4aeeabe21481d9e6376d8813548-1437177600-0-null','7.98M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2098488  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2098488','1094447','806238','Butterfly (TV size)','无头骑士异闻录','Butterfly') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2098488','Butterfly (TV size)','无头骑士异闻录','03:48','m4a','32','压缩品质','http://om32.alicdn.com/360/57360/382429/1769554751_1341993_l.m4a?auth_key=8431ef28d4228a640ccb9d99132d32d0-1437177600-0-null','0.90M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2098488','Butterfly (TV size)','无头骑士异闻录','03:48','mp3','128','标准品质','http://m5.file.xiami.com/360/57360/382429/1769554751_1341993_l.mp3?auth_key=f37f2ec88a7486a20a580e9d85698eab-1437177600-0-null','3.49M','2') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2098488','Butterfly (TV size)','无头骑士异闻录','03:48','mp3','320','超高品质','http://m6.file.xiami.com/360/57360/382429/1769554751_1341993_h.mp3?auth_key=4de237c0449c64d59f1d0864843ca1f6-1437177600-0-null','8.73M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 262916  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('262916','81782','296435','Butterfly','Kevin Kern','此生不再') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('262916','Butterfly','Kevin Kern','02:52','m4a','32','压缩品质','http://om32.alicdn.com/618/23618/169394/2091670_11341145_l.m4a?auth_key=6ef83633022e7b1330250ebf1781bc76-1437177600-0-null','0.68M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('262916','Butterfly','Kevin Kern','02:52','mp3','128','标准品质','http://m5.file.xiami.com/618/23618/169394/2091670_11341145_l.mp3?auth_key=aa75d9bc1a6d3d6dc1e7f920c9a60d3c-1437177600-0-null','2.63M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('262916','Butterfly','Kevin Kern','02:52','mp3','320','超高品质','http://m6.file.xiami.com/618/23618/169394/2091670_11341145_h.mp3?auth_key=dbdc00aebbbbcd8bdb30fae75a663ac7-1437177600-0-null','6.58M','4') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 25536630  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('25536630','108142','0','Butterfly ','Smile. DK',NULL) [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25536630','Butterfly ','Smile. DK','03:08','m4a','32','压缩品质','http://a.ali.dongting.com/c245e1f4c646e26e/1437544273/m4a_32_255/28/65/28efc845ecbf824b0c83507f1450f865.m4a?s=t','0.74M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25536630','Butterfly ','Smile. DK','03:08','mp3','128','标准品质','http://nie.dfe.yymommy.com/c245e1f4c646e26e/1437544273/mp3_128_255/28/65/28efc845ecbf824b0c83507f1450f865.mp3?s=t','2.88M','2') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1783549  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1783549','1388047','691505','Butterfly (Live)','G-Dragon','2013 G-Dragon World Tour \'One of a Kind in Seoul\'') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0090s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1783549','Butterfly (Live)','G-Dragon','04:01','m4a','32','压缩品质','http://om32.alicdn.com/861/63861/664796140/1772160955_10715478_l.m4a?auth_key=d0305f1aa1eb4950aaeae055b6f754f9-1437177600-0-null','0.95M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1783549','Butterfly (Live)','G-Dragon','04:01','mp3','128','标准品质','http://m5.file.xiami.com/861/63861/664796140/1772160955_10715478_l.mp3?auth_key=02746cea2f38226bb34aa4861b28259c-1437177600-0-null','3.68M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1783549','Butterfly (Live)','G-Dragon','04:01','mp3','320','超高品质','http://m6.file.xiami.com/861/63861/664796140/1772160955_10715478_h.mp3?auth_key=ddd6d86dbb031c6220852b5c56435156-1437177600-0-null','9.19M','4') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1316150  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1316150','4984','674894','빠삐용','Super Junior','Spy') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1316150','빠삐용','Super Junior','03:08','m4a','32','压缩品质','http://om32.alicdn.com/368/23368/524800/1771128748_3442673_l.m4a?auth_key=003dc7cd723461fe3d6affe1444a1862-1437177600-0-null','0.74M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1316150','빠삐용','Super Junior','03:08','mp3','128','标准品质','http://m5.file.xiami.com/368/23368/524800/1771128748_3442673_l.mp3?auth_key=317c38db89b10a8f5b3fc7ef1871283c-1437177600-0-null','2.87M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1316150','빠삐용','Super Junior','03:08','mp3','320','超高品质','http://m6.file.xiami.com/368/23368/524800/1771128748_3442673_h.mp3?auth_key=35ce5ff5eddbe21c4e10005f003b36ef-1437177600-0-null','7.17M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 512559  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('512559','87367','132027','Butterfly','Crazy Town','The Gift of Game') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('512559','Butterfly','Crazy Town','03:36','m4a','32','压缩品质','http://om32.alicdn.com/383/16383/144832/1840422_742606_l.m4a?auth_key=5831186c9d469d013cb2ad5cfaa70d3b-1437177600-0-null','0.85M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('512559','Butterfly','Crazy Town','03:36','mp3','128','标准品质','http://m5.file.xiami.com/383/16383/144832/1840422_742606_l.mp3?auth_key=b5ce6a7a2784accc2fdbf16d5ee53558-1437177600-0-null','3.31M','2') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('512559','Butterfly','Crazy Town','03:36','mp3','320','超高品质','http://m6.file.xiami.com/383/16383/144832/1840422_742606_h.mp3?auth_key=45d5d3927d38ca4c036e5c63e15943ec-1437177600-0-null','8.26M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('512559','Butterfly','Crazy Town','mp4','500','标清画质','18.19M','19070002','http://mv.hotmusique.com/mv_1_1/dc/ef/dc762d2dabb9fc218026d3ea042821ef.mp4?k=19c1947d858b9f27&t=1437513680','03:33','213430','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_1/160_90/669/24371/170603.jpg','170603','0') [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29367004  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29367004','1730271','0','butterfly (无头骑士异闻录ed2)','绿绿',NULL) [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29367004','butterfly (无头骑士异闻录ed2)','绿绿','03:47','m4a','32','压缩品质','http://b.ali.hotchanson.com/4ae148113e378407/1437544273/m4a_32_293/cf/4b/cfa5d0435eb97018aaf7e0bfcdea104b.m4a?s=t','0.90M','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29367004','butterfly (无头骑士异闻录ed2)','绿绿','03:47','mp3','128','标准品质','http://nmo.ouj.yymommy.com/4ae148113e378407/1437544273/mp3_128_293/cf/4b/cfa5d0435eb97018aaf7e0bfcdea104b.mp3?s=t','3.48M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29367004','butterfly (无头骑士异闻录ed2)','绿绿','03:47','mp3','320','超高品质','http://b.ali.hotchanson.com/78decd0b53915cd5/1437544273/mp3_190_293/85/a0/8570ca539eccf3c0542a33c1b011bca0.mp3?s=t','8.69M','3') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 10824001  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('10824001','124290','574008','Karma Butterfly','少女时代','LOVE & PEACE') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10824001','Karma Butterfly','少女时代','03:12','m4a','32','压缩品质','http://om32.alicdn.com/992/6992/885725316/1772376623_11183838_l.m4a?auth_key=d9b57203129383926e2fddfe2c4b1e60-1437177600-0-null','0.76M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10824001','Karma Butterfly','少女时代','03:12','mp3','128','标准品质','http://m5.file.xiami.com/992/6992/885725316/1772376623_11183838_l.mp3?auth_key=4adcb01c7983ab2b4c1aa387dc8b9b87-1437177600-0-null','2.94M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10824001','Karma Butterfly','少女时代','03:12','mp3','320','超高品质','http://m6.file.xiami.com/992/6992/885725316/1772376623_11183838_h.mp3?auth_key=e3fe8a1099ff7216119af10965873ac8-1437177600-0-null','7.36M','4') [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.512029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.518029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T13:51:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T13:51:10+08:00 ] 127.0.0.1 /Home/Index/test?name=Butterfly
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_name` = 'Butterfly' LIMIT 0,10   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 4304497  [ RunTime:0.1090s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 4304497  [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2098486  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2098486  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29335415  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29335415  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1914220  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1914220  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 729894  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 729894  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 331466  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 331466  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28418211  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28418211  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 25560102  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 25560102  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 6778028  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 6778028  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1659243  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1659243  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.566033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.572033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2015-07-17T13:51:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T13:52:11+08:00 ] 127.0.0.1 /Home/Index/test?name=brave%20heart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.090005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_name` = 'brave heart' LIMIT 0,10   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1491504  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1491504','49818','133987','brave heart','数码宝贝','デジモンアドベンチャー 歌と音楽集 Ver.1') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1491504','brave heart','数码宝贝','04:12','m4a','32','压缩品质','http://om32.alicdn.com/1/500/62500/334835/1768965297_568282_l.m4a?auth_key=31c24c7cf6c47e3a1a574194719f9e1a-1437177600-0-null','0.99M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1491504','brave heart','数码宝贝','04:12','mp3','128','标准品质','http://m5.file.xiami.com/1/500/62500/334835/1768965297_568282_l.mp3?auth_key=a92464d4f438d73e70b64d18179d2ba9-1437177600-0-null','3.85M','2') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1491504','brave heart','数码宝贝','04:12','mp3','320','超高品质','http://m6.file.xiami.com/1/500/62500/334835/1768965297_568282_h.mp3?auth_key=d40d349d19f79c8f72076f13bf795cbc-1437177600-0-null','9.63M','4') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2924831  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2924831','51112','60612','BRAVE HEART','西野カナ','BEGINNING OF THE END') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2924831','BRAVE HEART','西野カナ','05:12','m4a','32','压缩品质','http://om32.alicdn.com/893/70893/370340/1769392720_15211069_l.m4a?auth_key=0e097292e6df54aa97ce8f07bed8c969-1437177600-0-null','1.22M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2924831','BRAVE HEART','西野カナ','05:12','mp3','128','标准品质','http://m5.file.xiami.com/893/70893/370340/1769392720_15211069_l.mp3?auth_key=a6a22748e0185ec2ec96a7eb21bdefe0-1437177600-0-null','4.76M','2') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2924831','BRAVE HEART','西野カナ','05:12','mp3','320','超高品质','http://m6.file.xiami.com/893/70893/370340/1769392720_15211069_h.mp3?auth_key=c25fdefc2f6a614973ea84cc4b780dac-1437177600-0-null','11.91M','4') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 25816362  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('25816362','1150720','0','BRAVE HEART  ','NERDHEAD',NULL) [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25816362','BRAVE HEART  ','NERDHEAD','05:11','m4a','32','压缩品质','http://b.ali.hotchanson.com/9cf2f96d2fc56f36/1437544339/m4a_32_258/79/fa/79fad5d9473da471e83db83512fb16fa.m4a?s=t','1.22M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25816362','BRAVE HEART  ','NERDHEAD','05:11','mp3','128','标准品质','http://nmo.ouj.yymommy.com/9cf2f96d2fc56f36/1437544339/mp3_128_258/79/fa/79fad5d9473da471e83db83512fb16fa.mp3?s=t','4.75M','2') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 19158715  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('19158715','1010769','651858','Brave Heart','Nerdhead & 西野カナ','Brave Heart') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19158715','Brave Heart','Nerdhead & 西野カナ','05:12','m4a','32','压缩品质','http://b.ali.hotchanson.com/a3013e542e0f1b5c/1437544339/m4a_32_191/1e/9b/1e1efc1d2aaa6d9295a71293ae94da9b.m4a?s=t','1.22M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19158715','Brave Heart','Nerdhead & 西野カナ','05:12','mp3','128','标准品质','http://nmo.ouj.yymommy.com/a3013e542e0f1b5c/1437544339/mp3_128_191/1e/9b/1e1efc1d2aaa6d9295a71293ae94da9b.mp3?s=t','4.76M','2') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29324821  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29324821','1100254','0','BRAVE HEART (Instrumental)','Nerdhead & 西野加奈',NULL) [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29324821','BRAVE HEART (Instrumental)','Nerdhead & 西野加奈','05:10','m4a','32','压缩品质','http://b.ali.hotchanson.com/e8ed4c94e4448fce/1437544339/m4a_32_293/2c/dc/2c91e17f891f392deec11b9e4de263dc.m4a?s=t','1.22M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29324821','BRAVE HEART (Instrumental)','Nerdhead & 西野加奈','05:10','mp3','128','标准品质','http://b.ali.hotchanson.com/e8ed4c94e4448fce/1437544339/mp3_128_293/2c/dc/2c91e17f891f392deec11b9e4de263dc.mp3?s=t','4.74M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29324821','BRAVE HEART (Instrumental)','Nerdhead & 西野加奈','05:10','mp3','192','高品质','http://nmo.ouj.yymommy.com/4fd772d6bfb89c2b/1437544339/mp3_190_293/d7/88/d7540bb47183624cbc455752ab009c88.mp3?s=t','7.10M','3') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 10607700  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('10607700','1029385','141248','BRAVE HEART','四驱兄弟','爆走兄弟レッツ＆ゴー!! MAX MUSIC COLLECTION') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10607700','BRAVE HEART','四驱兄弟','04:21','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/393525/1769667771_1483466_l.m4a?auth_key=006bdf4728f539afd6fe5e3609d802a9-1437177600-0-null','1.02M','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10607700','BRAVE HEART','四驱兄弟','04:21','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/393525/1769667771_1483466_l.mp3?auth_key=37fbddb55eb3ee55c07c41d3988df813-1437177600-0-null','3.99M','2') [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('10607700','BRAVE HEART','四驱兄弟','04:21','mp3','192','高品质','http://om192.alicdn.com/500/62500/393525/1769667771_1483466_l.mp3?auth_key=37fbddb55eb3ee55c07c41d3988df813-1437177600-0-null','5.98M','3') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 19057854  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('19057854','49818','1118132','Brave Heart','数码宝贝','AIM莓') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19057854','Brave Heart','数码宝贝','04:09','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/442440/1770224753_2313437_l.m4a?auth_key=6e164944c5cc8aad3a400b9fe8435130-1437177600-0-null','0.99M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19057854','Brave Heart','数码宝贝','04:09','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/442440/1770224753_2313437_l.mp3?auth_key=94f42eecbe473f76323eaf8f3e53c19d-1437177600-0-null','3.81M','4') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19057854','Brave Heart','数码宝贝','04:09','mp3','320','超高品质','http://m6.file.xiami.com/500/62500/442440/1770224753_2313437_h.mp3?auth_key=fb8e6efb7e0ad1cb9217b89aa239603c-1437177600-0-null','9.52M','7') [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2596677  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2596677','265793','0','Brave heart(日)《数码暴龙进化曲》','贵州Mc小伟',NULL) [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2596677','Brave heart(日)《数码暴龙进化曲》','贵州Mc小伟','04:08','m4a','32','压缩品质','http://b.ali.hotchanson.com/0982c7dc3f6026e8/1437544339/m4a_32_25/bf/c6/bf6df93afed5a303acb1f76038d0eec6.m4a?s=t','0.99M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2596677','Brave heart(日)《数码暴龙进化曲》','贵州Mc小伟','04:08','mp3','128','标准品质','http://b.ali.hotchanson.com/0982c7dc3f6026e8/1437544339/mp3_128_25/bf/c6/bf6df93afed5a303acb1f76038d0eec6.mp3?s=t','3.80M','2') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2110371  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2110371','148291','1068461','BRAVE HEART','坂本英三','スーパーアニソン レジェンド オブ’90') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110371','BRAVE HEART','坂本英三','01:26','m4a','32','压缩品质','http://om32.alicdn.com/868/95868/462256/1770447430_3540450_l.m4a?auth_key=e3095e5ac8e2e8dc207face1d47dd111-1437177600-0-null','0.34M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110371','BRAVE HEART','坂本英三','01:26','mp3','128','标准品质','http://m5.file.xiami.com/868/95868/462256/1770447430_3540450_l.mp3?auth_key=c56fd9e4d184fafa43e851720b2e5276-1437177600-0-null','1.32M','2') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110371','BRAVE HEART','坂本英三','01:26','mp3','320','超高品质','http://m6.file.xiami.com/868/95868/462256/1770447430_3540450_h.mp3?auth_key=1e494092a69836f7342beb4e02dabf86-1437177600-0-null','3.30M','4') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2110364  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2110364','1649435','1077840','BRAVE HEART','I\'ve','The Last songs') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110364','BRAVE HEART','I\'ve','01:17','m4a','32','压缩品质','http://om32.alicdn.com/290/80290/524653/1771127026_3499516_l.m4a?auth_key=0b6f8caf391c835bb92b61e9d6da48b0-1437177600-0-null','0.30M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110364','BRAVE HEART','I\'ve','01:17','mp3','128','标准品质','http://m5.file.xiami.com/290/80290/524653/1771127026_3499516_l.mp3?auth_key=6c5c61532c70c6f6f6d65d47250abb6a-1437177600-0-null','1.18M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110364','BRAVE HEART','I\'ve','01:17','mp3','320','超高品质','http://m6.file.xiami.com/290/80290/524653/1771127026_3499516_h.mp3?auth_key=cf1947e61e4847c65b3dab96f5488aa2-1437177600-0-null','2.95M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2110367  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2110367','73215','1080339','Brave Heart ','Lupe Fiasco','Food & Liquor II: The Great American Rap') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110367','Brave Heart ','Lupe Fiasco','03:25','m4a','32','压缩品质','http://om32.alicdn.com/621/39621/543373/1771325035_3714922_l.m4a?auth_key=c288740b5154bd4eda22b8026620b1ef-1437177600-0-null','0.81M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110367','Brave Heart ','Lupe Fiasco','03:25','mp3','128','标准品质','http://m5.file.xiami.com/621/39621/543373/1771325035_3714922_l.mp3?auth_key=e8899b83a5d412a8097467f49b454ffc-1437177600-0-null','3.14M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110367','Brave Heart ','Lupe Fiasco','03:25','mp3','192','高品质','http://om192.alicdn.com/621/39621/543373/1771325035_3714922_l.mp3?auth_key=e8899b83a5d412a8097467f49b454ffc-1437177600-0-null','4.71M','3') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2110374  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2110374','153310','839308','brave heart','太田美知彦','デジモンミュージック太田美知彦セルフカバー集') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110374','brave heart','太田美知彦','04:17','m4a','32','压缩品质','http://om32.alicdn.com/777/74777/442443/1770224796_2313480_l.m4a?auth_key=0ef53adf3393f5b3bf072b3f635315a6-1437177600-0-null','1.01M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110374','brave heart','太田美知彦','04:17','mp3','128','标准品质','http://m5.file.xiami.com/777/74777/442443/1770224796_2313480_l.mp3?auth_key=775a499dfe2bd43b7bc130b19325af1d-1437177600-0-null','3.93M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2110374','brave heart','太田美知彦','04:17','mp3','320','超高品质','http://m6.file.xiami.com/777/74777/442443/1770224796_2313480_h.mp3?auth_key=aa1027b4832d98a8efebacbffd84f345-1437177600-0-null','9.83M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 26600870  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('26600870','1767297','1095134','Brave heart','V.A.','Brave heart') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0100s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26600870','Brave heart','V.A.','04:46','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/489175/1770753054_2984022_l.m4a?auth_key=b327e2e03b11e04f584f5474af62a8cd-1437177600-0-null','1.11M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26600870','Brave heart','V.A.','04:46','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/489175/1770753054_2984022_l.mp3?auth_key=a651210bf1a454678fd7297aaf72ce6c-1437177600-0-null','4.37M','3') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26600870','Brave heart','V.A.','04:46','mp3','320','超高品质','http://m6.file.xiami.com/500/62500/489175/1770753054_2984022_h.mp3?auth_key=b68c68b45b00b8f4fc46cfd9445e1d81-1437177600-0-null','10.93M','5') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 26487213  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('26487213','1820107','1057245','Brave Heart','Raphaël & Shakya','Celtic Woman, Vol. 2') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0620s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26487213','Brave Heart','Raphaël & Shakya','03:18','m4a','32','压缩品质','http://om32.alicdn.com/258/23258/383787/1769555016_2621026_l.m4a?auth_key=9011f0135977bee18574e8653f0e1ffe-1437177600-0-null','0.77M','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26487213','Brave Heart','Raphaël & Shakya','03:18','mp3','128','标准品质','http://m5.file.xiami.com/258/23258/383787/1769555016_2621026_l.mp3?auth_key=fc9cd8c517fde96f5ac6cff689e39b84-1437177600-0-null','3.03M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26487213','Brave Heart','Raphaël & Shakya','03:18','mp3','320','超高品质','http://m6.file.xiami.com/258/23258/383787/1769555016_2621026_h.mp3?auth_key=6edf485da225349a648fb660d3b3bb57-1437177600-0-null','7.58M','4') [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 24742105  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('24742105','1672652','0','Brave Heart','日本ACG',NULL) [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('24742105','Brave Heart','日本ACG','01:10','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/403663/1769782902_1765186_l.m4a?auth_key=68fa7b9c44fc4e9eb680cb698695f738-1437177600-0-null','0.27M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('24742105','Brave Heart','日本ACG','01:10','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/403663/1769782902_1765186_l.mp3?auth_key=40fdd3afbfa9c6fc0ead2bb2507196b3-1437177600-0-null','1.08M','3') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('24742105','Brave Heart','日本ACG','01:10','mp3','192','高品质','http://om192.alicdn.com/500/62500/403663/1769782902_1765186_l.mp3?auth_key=40fdd3afbfa9c6fc0ead2bb2507196b3-1437177600-0-null','1.61M','4') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 23931111  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('23931111','1672950','1035667','BRAVE HEART','钢铁兄弟','爆走兄弟レッツ&ゴー テーマソングコレクションPLUS!!') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('23931111','BRAVE HEART','钢铁兄弟','04:21','m4a','32','压缩品质','http://a.ali.dongting.com/043b76a413fa3841/1437544339/m4a_32_239/ba/cc/ba5458d35a704ae24ae226bab20587cc.m4a?s=t','1.02M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('23931111','BRAVE HEART','钢铁兄弟','04:21','mp3','128','标准品质','http://a.ali.dongting.com/043b76a413fa3841/1437544339/mp3_128_239/ba/cc/ba5458d35a704ae24ae226bab20587cc.mp3?s=t','3.99M','2') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 3620991  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('3620991','1154640','119267','brave heart','Sho-Ya & Yuki','Blood Covered') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3620991','brave heart','Sho-Ya & Yuki','03:11','m4a','32','压缩品质','http://om32.alicdn.com/997/91997/451166/1770323572_2447576_l.m4a?auth_key=f53249bc364eebb2ca01bba3bb472893-1437177600-0-null','0.75M','1') [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3620991','brave heart','Sho-Ya & Yuki','03:11','mp3','128','标准品质','http://m5.file.xiami.com/997/91997/451166/1770323572_2447576_l.mp3?auth_key=8542225a40c69b1dd2758498b34c8233-1437177600-0-null','2.92M','2') [ RunTime:0.0030s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3620991','brave heart','Sho-Ya & Yuki','03:11','mp3','320','超高品质','http://m6.file.xiami.com/997/91997/451166/1770323572_2447576_h.mp3?auth_key=236a4ef953ec56ff50b3f4c8ceefa32e-1437177600-0-null','7.30M','4') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 3271951  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('3271951','153311','0','BRAVE HEART','The NaB\'s',NULL) [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3271951','BRAVE HEART','The NaB\'s','04:00','m4a','32','压缩品质','http://om32.alicdn.com/70/99070/473992/1770579793_3243285_l.m4a?auth_key=ca6d1b14d896c2532656af77acf0f0a0-1437177600-0-null','0.94M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3271951','BRAVE HEART','The NaB\'s','04:00','mp3','128','标准品质','http://m5.file.xiami.com/70/99070/473992/1770579793_3243285_l.mp3?auth_key=8435df8a51e6d235b3ddca5e80456d5b-1437177600-0-null','3.68M','3') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('3271951','BRAVE HEART','The NaB\'s','04:00','mp3','320','超高品质','http://m6.file.xiami.com/70/99070/473992/1770579793_3243285_h.mp3?auth_key=74fd28168524bcb2e8d0f6dc0e5c5900-1437177600-0-null','9.18M','5') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: album_name D:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 19122802  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('19122802','1353345','0','brave heart','Mc & 数码宝贝',NULL) [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19122802','brave heart','Mc & 数码宝贝','04:11','m4a','32','压缩品质','http://om32.alicdn.com/500/62500/442441/1770224758_2313442_l.m4a?auth_key=0e929ff30e3557e73f4548dce4cff8d7-1437177600-0-null','0.99M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19122802','brave heart','Mc & 数码宝贝','04:11','mp3','128','标准品质','http://m5.file.xiami.com/500/62500/442441/1770224758_2313442_l.mp3?auth_key=50d4f39392b820c1ec32172fc058685f-1437177600-0-null','3.84M','2') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('19122802','brave heart','Mc & 数码宝贝','04:11','mp3','320','超高品质','http://m6.file.xiami.com/500/62500/442441/1770224758_2313442_h.mp3?auth_key=5204223a38d9dedd879032af2ce6b7c0-1437177600-0-null','9.59M','4') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1145153  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1145153','40222','1042385','Brave Heart','THE野党','9:10PM') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1145153','Brave Heart','THE野党','04:03','m4a','32','压缩品质','http://om32.alicdn.com/590/85590/512301/1770995424_3271854_l.m4a?auth_key=fcaeea8faf685d06bf9ec3a94963d5b3-1437177600-0-null','0.95M','1') [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1145153','Brave Heart','THE野党','04:03','mp3','128','标准品质','http://m5.file.xiami.com/590/85590/512301/1770995424_3271854_l.mp3?auth_key=6241885d827f7130c7144b8c1f0b58b6-1437177600-0-null','3.71M','2') [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1145153','Brave Heart','THE野党','04:03','mp3','320','超高品质','http://m6.file.xiami.com/590/85590/512301/1770995424_3271854_h.mp3?auth_key=5b607f81ec806526b7bf30e8b3d641fc-1437177600-0-null','9.27M','4') [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.436025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.442026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T13:52:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-17T13:52:18+08:00 ] 127.0.0.1 /Home/Index/test?name=brave%20heart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_name` = 'brave heart' LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1491504  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1491504  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2924831  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2924831  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 25816362  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 25816362  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19158715  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19158715  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 10607700  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 10607700  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19057854  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19057854  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2110371  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2110371  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2110364  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2110364  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2110367  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2110367  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2110374  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2110374  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 93 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.491028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.497028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2015-07-17T13:52:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T14:30:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T14:30:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-17T14:31:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2015-07-17T14:31:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T14:33:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-07-17T14:33:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-17T14:33:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-17T14:33:43+08:00 ] 127.0.0.1 /...
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2015-07-17T14:33:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-17T14:33:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-17T14:35:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+

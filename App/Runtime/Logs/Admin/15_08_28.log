@@ -1,0 +1,12 @@
+[ 2015-08-28T11:42:28+08:00 ] 127.0.0.1 /Admin/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000848s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008873s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:test
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+

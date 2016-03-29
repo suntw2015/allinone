@@ -1,0 +1,37 @@
+qq music
+
+suggest
+http://s.plcloud.music.qq.com/fcgi-bin/smartbox_new.fcg?utf8=1&key=%E5%8D%9C%E5%8D%A6&format=json&platform=yqq
+
+search
+--all
+http://s.music.qq.com/fcgi-bin/yqq_search_v8_cp?p=1&catZhida=1&t=100&utf8=1&tab=all|%E8%8F%8A%E8%8A%B1%E5%8F%B0&w=%E8%8F%8A%E8%8A%B1%E5%8F%B0
+
+--song
+http://soso.music.qq.com/fcgi-bin/search_cp?w=%E8%8F%8A%E8%8A%B1%E5%8F%B0&n=30&p=1&format=json&platform=yqq
+
+--album
+http://soso.music.qq.com/fcgi-bin/music_json.fcg?w=%E8%8F%8A%E8%8A%B1%E5%8F%B0&num=30&t=8&p=1&platform=yqq&utf8=1
+
+--lyric
+http://soso.music.qq.com/fcgi-bin/search_cp?w=%E8%8F%8A%E8%8A%B1%E5%8F%B0&n=4&t=7&p=1&platform=yqq
+
+--mv
+http://soso.music.qq.com/fcgi-bin/music_json.fcg?w=%E8%8F%8A%E8%8A%B1%E5%8F%B0&num=20&t=12&p=1&platform=yqq&utf8=1
+
+--stream
+http://cc.stream.qqmusic.qq.com/C200002IYcXz2Tfzur.m4a?vkey=E9A5678D611E3283FF0C51744D1DF650BB6C6B5367D3356C5DD84C97CEC99F5C039D6A0EBA4BFB2481AEE41EF4CAE03F6DC548A48E784CC7&guid=580294766&fromtag=0
+
+--vkey
+http://base.music.qq.com/fcgi-bin/fcg_musicexpress.fcg?json=3&guid=580294766&format=jsonp&platform=yqq
+
+--guid =pvid = pgv_pvid 
+step1:
+	get from the cookie
+
+step:
+	if cookie is not exist ,use the function
+
+	curMs=(new Date).getUTCMilliseconds();
+	m_r_r_s = Math.round(Math.random() * 2147483647) * curMs % 1E10;
+	document.cookie = "pgv_pvid=" + m_r_r_s + "; Expires=Sun, 18 Jan 2038 00:00:00 GMT; PATH=/; DOMAIN=qq.com;";

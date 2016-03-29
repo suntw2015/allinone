@@ -1,0 +1,117 @@
+[ 2015-08-14T20:24:03+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=2&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007094s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 10,10   [ RunTime:0.0016s ]
+
+[ 2015-08-14T20:24:21+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=3&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007073s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 20,10   [ RunTime:0.0015s ]
+
+[ 2015-08-14T20:24:23+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=4&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007187s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 30,10   [ RunTime:0.0016s ]
+
+[ 2015-08-14T20:24:25+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=5&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006894s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0098s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 40,10   [ RunTime:0.0172s ]
+
+[ 2015-08-14T20:24:26+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=6&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000857s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006855s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 50,10   [ RunTime:0.0016s ]
+
+[ 2015-08-14T20:24:28+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=7&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006867s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 60,10   [ RunTime:0.0014s ]
+
+[ 2015-08-14T20:24:29+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=8&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000853s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007041s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 70,10   [ RunTime:0.0016s ]
+
+[ 2015-08-14T20:24:31+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=9&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007223s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 80,10   [ RunTime:0.0400s ]
+
+[ 2015-08-14T20:24:35+08:00 ] 127.0.0.1 /Api/Qiniu/imagelist/?pageindex=10&pagesize=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006781s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 90,10   [ RunTime:0.0016s ]
+

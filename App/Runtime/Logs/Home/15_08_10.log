@@ -1,0 +1,26 @@
+[ 2015-08-10T08:25:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.059378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.031473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038757s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9vhtckh0kv4af70uc5mkbjuj04, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003581s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009562s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.245861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.253902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.035037s ]
+
+[ 2015-08-10T08:25:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006072s ]
+

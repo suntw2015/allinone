@@ -1,0 +1,15 @@
+[ 2015-07-10T12:09:15+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD D:\wnmp\www\allinone\ThinkPHP\Library\Think\App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI D:\wnmp\www\allinone\ThinkPHP\Library\Think\Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' D:\wnmp\www\allinone\ThinkPHP\Library\Think\Dispatcher.class.php 第 189 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+ERR: 非法操作:syncmusic?musicname=����
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\App.class.php:112) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\App.class.php:112) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 300 行.
+

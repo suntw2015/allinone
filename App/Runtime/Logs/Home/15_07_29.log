@@ -1,0 +1,2020 @@
+[ 2015-07-29T09:46:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001470s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.030471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.035534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008014s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.150624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014604s ]
+
+[ 2015-07-29T09:46:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008478s ]
+
+[ 2015-07-29T09:47:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003388s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007612s ]
+
+[ 2015-07-29T09:47:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000912s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006989s ]
+
+[ 2015-07-29T09:47:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000901s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008311s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003528s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008341s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007578s ]
+
+[ 2015-07-29T09:47:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006055s ]
+
+[ 2015-07-29T10:05:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000948s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008650s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003357s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008526s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008297s ]
+
+[ 2015-07-29T10:05:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006029s ]
+
+[ 2015-07-29T14:18:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000918s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013618s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003458s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008365s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012441s ]
+
+[ 2015-07-29T14:18:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006168s ]
+
+[ 2015-07-29T14:18:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000880s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013310s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008520s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007972s ]
+
+[ 2015-07-29T14:18:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000871s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006703s ]
+
+[ 2015-07-29T14:18:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000852s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008415s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007985s ]
+
+[ 2015-07-29T14:18:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000881s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006465s ]
+
+[ 2015-07-29T14:18:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007768s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003357s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008410s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008211s ]
+
+[ 2015-07-29T14:18:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006517s ]
+
+[ 2015-07-29T14:19:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003697s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008902s ]
+
+[ 2015-07-29T14:19:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006537s ]
+
+[ 2015-07-29T14:20:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009146s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003662s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008778s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008740s ]
+
+[ 2015-07-29T14:20:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007035s ]
+
+[ 2015-07-29T14:21:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000802s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003283s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008487s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008102s ]
+
+[ 2015-07-29T14:21:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000925s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007946s ]
+
+[ 2015-07-29T14:34:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007940s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003272s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007752s ]
+
+[ 2015-07-29T14:34:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006451s ]
+
+[ 2015-07-29T14:34:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001753s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003490s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008840s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069164s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008094s ]
+
+[ 2015-07-29T14:34:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006158s ]
+
+[ 2015-07-29T14:34:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008702s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003403s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010681s ]
+
+[ 2015-07-29T14:34:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006595s ]
+
+[ 2015-07-29T14:35:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.048359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.055044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008517s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008488s ]
+
+[ 2015-07-29T14:35:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001730s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013271s ]
+
+[ 2015-07-29T14:36:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003291s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008298s ]
+
+[ 2015-07-29T14:36:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006182s ]
+
+[ 2015-07-29T14:36:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020566s ]
+
+[ 2015-07-29T14:36:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006663s ]
+
+[ 2015-07-29T14:37:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007941s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004269s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009989s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008103s ]
+
+[ 2015-07-29T14:37:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000851s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006648s ]
+
+[ 2015-07-29T14:41:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008330s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005784s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.014476s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002886s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009129s ]
+
+[ 2015-07-29T14:41:19+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000937s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006911s ]
+
+[ 2015-07-29T14:41:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003275s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008044s ]
+
+[ 2015-07-29T14:41:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006261s ]
+
+[ 2015-07-29T14:42:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008564s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003448s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008795s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007772s ]
+
+[ 2015-07-29T14:42:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006223s ]
+
+[ 2015-07-29T14:42:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001312s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008222s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003997s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008787s ]
+
+[ 2015-07-29T14:42:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006318s ]
+
+[ 2015-07-29T14:43:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000880s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008584s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003474s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008457s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009352s ]
+
+[ 2015-07-29T14:43:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006447s ]
+
+[ 2015-07-29T14:46:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008710s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003478s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008585s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002872s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008442s ]
+
+[ 2015-07-29T14:46:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000944s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007444s ]
+
+[ 2015-07-29T14:46:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000864s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008101s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007741s ]
+
+[ 2015-07-29T14:46:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000924s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007635s ]
+
+[ 2015-07-29T14:48:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008112s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007870s ]
+
+[ 2015-07-29T14:48:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006295s ]
+
+[ 2015-07-29T14:48:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000865s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009620s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003590s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008759s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010256s ]
+
+[ 2015-07-29T14:48:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000871s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006597s ]
+
+[ 2015-07-29T16:58:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000871s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008308s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003383s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.025136s ]
+
+[ 2015-07-29T16:58:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000928s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006549s ]
+
+[ 2015-07-29T16:59:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008061s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003436s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008528s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008082s ]
+
+[ 2015-07-29T16:59:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006326s ]
+
+[ 2015-07-29T16:59:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007980s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003489s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008495s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007871s ]
+
+[ 2015-07-29T16:59:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000801s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006289s ]
+
+[ 2015-07-29T17:00:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003639s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008477s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007889s ]
+
+[ 2015-07-29T17:00:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000968s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006837s ]
+
+[ 2015-07-29T17:00:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008418s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002927s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003009s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008263s ]
+
+[ 2015-07-29T17:00:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006181s ]
+
+[ 2015-07-29T17:00:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007780s ]
+
+[ 2015-07-29T17:00:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007323s ]
+
+[ 2015-07-29T17:02:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000966s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010451s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003718s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010836s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008100s ]
+
+[ 2015-07-29T17:02:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006607s ]
+
+[ 2015-07-29T17:03:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012153s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003316s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008477s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009321s ]
+
+[ 2015-07-29T17:03:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000869s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006987s ]
+
+[ 2015-07-29T17:04:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007891s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008548s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008320s ]
+
+[ 2015-07-29T17:04:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000939s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006763s ]
+
+[ 2015-07-29T17:05:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008462s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009219s ]
+
+[ 2015-07-29T17:05:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000869s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006506s ]
+
+[ 2015-07-29T17:10:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008115s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002919s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009117s ]
+
+[ 2015-07-29T17:10:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000885s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006399s ]
+
+[ 2015-07-29T17:15:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000932s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010279s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004441s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010548s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007863s ]
+
+[ 2015-07-29T17:15:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007803s ]
+
+[ 2015-07-29T17:16:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000957s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007932s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008009s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007961s ]
+
+[ 2015-07-29T17:16:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000852s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006272s ]
+
+[ 2015-07-29T17:20:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009450s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003272s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009890s ]
+
+[ 2015-07-29T17:20:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007953s ]
+
+[ 2015-07-29T17:24:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000846s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009776s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004400s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010675s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008762s ]
+
+[ 2015-07-29T17:24:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000983s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007654s ]
+
+[ 2015-07-29T17:24:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000852s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008181s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003599s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008759s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008109s ]
+
+[ 2015-07-29T17:24:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006320s ]
+
+[ 2015-07-29T17:25:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001002s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010935s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003293s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008742s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019200s ]
+
+[ 2015-07-29T17:25:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007942s ]
+
+[ 2015-07-29T17:26:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008214s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003597s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008462s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008630s ]
+
+[ 2015-07-29T17:26:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006434s ]
+
+[ 2015-07-29T17:29:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009653s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003296s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007875s ]
+
+[ 2015-07-29T17:29:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000845s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006881s ]
+
+[ 2015-07-29T17:32:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008635s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003487s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008556s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009252s ]
+
+[ 2015-07-29T17:32:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006242s ]
+
+[ 2015-07-29T17:32:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008522s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003369s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008763s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008662s ]
+
+[ 2015-07-29T17:32:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010208s ]
+
+[ 2015-07-29T17:32:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003286s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008896s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007816s ]
+
+[ 2015-07-29T17:32:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006251s ]
+
+[ 2015-07-29T17:32:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012459s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007856s ]
+
+[ 2015-07-29T17:32:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006520s ]
+
+[ 2015-07-29T17:35:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008287s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003272s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008487s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008086s ]
+
+[ 2015-07-29T17:35:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000810s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006213s ]
+
+[ 2015-07-29T17:36:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007993s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008356s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008647s ]
+
+[ 2015-07-29T17:36:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006190s ]
+
+[ 2015-07-29T17:38:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000840s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003582s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009788s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011330s ]
+
+[ 2015-07-29T17:38:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000922s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007808s ]
+
+[ 2015-07-29T17:39:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001562s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008101s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008857s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008361s ]
+
+[ 2015-07-29T17:39:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000801s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006123s ]
+
+[ 2015-07-29T17:41:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003397s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008459s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007909s ]
+
+[ 2015-07-29T17:41:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000802s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006223s ]
+
+[ 2015-07-29T17:45:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009669s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003318s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008379s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009349s ]
+
+[ 2015-07-29T17:45:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000860s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006663s ]
+
+[ 2015-07-29T17:48:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008051s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009118s ]
+
+[ 2015-07-29T17:48:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006413s ]
+
+[ 2015-07-29T17:58:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008126s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003339s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008929s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008019s ]
+
+[ 2015-07-29T17:58:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000888s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006308s ]
+
+[ 2015-07-29T17:58:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009368s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009484s ]
+
+[ 2015-07-29T17:58:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000808s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008074s ]
+
+[ 2015-07-29T17:58:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000849s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008848s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008557s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009049s ]
+
+[ 2015-07-29T17:58:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000869s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007925s ]
+
+[ 2015-07-29T17:58:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000839s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003508s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009373s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002842s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008479s ]
+
+[ 2015-07-29T17:58:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000985s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007442s ]
+
+[ 2015-07-29T18:00:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008134s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070582s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008089s ]
+
+[ 2015-07-29T18:00:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006314s ]
+
+[ 2015-07-29T18:01:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000822s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008098s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003820s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010624s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011505s ]
+
+[ 2015-07-29T18:01:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006615s ]
+
+[ 2015-07-29T18:02:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009451s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003794s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009487s ]
+
+[ 2015-07-29T18:02:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006227s ]
+
+[ 2015-07-29T18:05:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000910s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003475s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008884s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007899s ]
+
+[ 2015-07-29T18:05:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000975s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007710s ]
+
+[ 2015-07-29T18:05:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008368s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003793s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008828s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007795s ]
+
+[ 2015-07-29T18:05:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006347s ]
+
+[ 2015-07-29T18:07:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000878s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003339s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002915s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008597s ]
+
+[ 2015-07-29T18:07:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006584s ]
+
+[ 2015-07-29T18:08:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008072s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003285s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007775s ]
+
+[ 2015-07-29T18:08:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006254s ]
+
+[ 2015-07-29T18:09:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009089s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003484s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008994s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002988s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007958s ]
+
+[ 2015-07-29T18:09:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006788s ]
+
+[ 2015-07-29T18:10:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001227s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004823s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010583s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009572s ]
+
+[ 2015-07-29T18:10:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000839s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006658s ]
+
+[ 2015-07-29T18:13:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000891s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008974s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003524s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009467s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008369s ]
+
+[ 2015-07-29T18:13:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000848s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006729s ]
+
+[ 2015-07-29T18:16:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008538s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003316s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082846s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008966s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011087s ]
+
+[ 2015-07-29T18:16:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009774s ]
+
+[ 2015-07-29T18:17:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000866s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008179s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008534s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008534s ]
+
+[ 2015-07-29T18:17:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001366s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014368s ]
+
+[ 2015-07-29T18:24:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008605s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003466s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009844s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002748s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010354s ]
+
+[ 2015-07-29T18:24:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008065s ]
+
+[ 2015-07-29T18:25:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008737s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003276s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007837s ]
+
+[ 2015-07-29T18:25:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006290s ]
+
+[ 2015-07-29T18:25:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007960s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003272s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008445s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008924s ]
+
+[ 2015-07-29T18:25:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006494s ]
+
+[ 2015-07-29T18:27:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000989s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003563s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008591s ]
+
+[ 2015-07-29T18:27:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006321s ]
+
+[ 2015-07-29T18:33:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003414s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008346s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008760s ]
+
+[ 2015-07-29T18:33:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006265s ]
+
+[ 2015-07-29T18:33:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000910s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008651s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003308s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070847s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003551s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008233s ]
+
+[ 2015-07-29T18:33:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006597s ]
+
+[ 2015-07-29T18:36:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000882s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003339s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008645s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008775s ]
+
+[ 2015-07-29T18:36:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000941s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006709s ]
+
+[ 2015-07-29T18:36:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008514s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003892s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077209s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011672s ]
+
+[ 2015-07-29T18:36:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006276s ]
+
+[ 2015-07-29T18:37:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008787s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008951s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009445s ]
+
+[ 2015-07-29T18:37:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006309s ]
+

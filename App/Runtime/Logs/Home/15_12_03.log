@@ -1,0 +1,1685 @@
+[ 2015-12-03T13:54:17+08:00 ] 127.0.0.1 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 102 行.
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 201 行.
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014079s ]
+
+[ 2015-12-03T13:54:18+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T13:54:18+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001747s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T13:54:18+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001453s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T13:54:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-12-03T14:02:48+08:00 ] 127.0.0.1 /Home/Index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined variable: citylist D:\wnmp\www\allinone\App\Runtime\Cache\Home\a3a45485dbe41b307986cb07f14d4c2c.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-12-03T14:02:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2015-12-03T14:02:52+08:00 ] 127.0.0.1 /Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 102 行.
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 201 行.
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001082s ]
+
+[ 2015-12-03T14:02:52+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T14:02:52+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T14:02:52+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T14:02:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+
+[ 2015-12-03T14:03:32+08:00 ] 127.0.0.1 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 102 行.
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 201 行.
+NOTIC: [8] Undefined variable: imagelist D:\wnmp\www\allinone\App\Runtime\Cache\Home\91b3e39c136338f90b09dba9f9d80e1e.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-12-03T14:03:32+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T14:03:32+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T14:03:32+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载控制器:Fonts
+
+[ 2015-12-03T14:03:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+
+[ 2015-12-03T14:05:46+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 38 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2015-12-03T14:05:47+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:05:47+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:05:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-12-03T14:12:41+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 27 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-12-03T14:12:41+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:12:41+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:12:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-12-03T14:13:57+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 32 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2015-12-03T14:13:57+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003808s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:13:57+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:13:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-12-03T14:15:31+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 33 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001059s ]
+
+[ 2015-12-03T14:15:31+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:15:31+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:15:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-12-03T14:15:51+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 33 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2015-12-03T14:15:51+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:15:51+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:15:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2015-12-03T14:16:32+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 33 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2015-12-03T14:16:32+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:16:32+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:16:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2015-12-03T14:18:30+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 33 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009055s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2015-12-03T14:18:30+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:18:30+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T14:18:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2015-12-03T15:00:14+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Undefined variable: wxsharejs D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 69 行.
+NOTIC: [8] Undefined variable: randsuffix D:\wnmp\www\allinone\App\Runtime\Cache\Home\45a0bfbfe00593932d8ec527d9e5ec5f.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-12-03T15:00:14+08:00 ] 127.0.0.1 /js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T15:00:14+08:00 ] 127.0.0.1 /js/wxfunction.js?ts=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-12-03T15:00:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2015-12-03T15:01:04+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000413s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2015-12-03T15:01:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2015-12-03T15:08:16+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Common\Common\function.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2015-12-03T15:08:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2015-12-03T15:08:33+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-03T15:08:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2015-12-03T15:25:50+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003656s ]
+
+[ 2015-12-03T15:25:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2015-12-03T15:29:11+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003650s ]
+
+[ 2015-12-03T15:29:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-12-03T15:30:15+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+
+[ 2015-12-03T15:30:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-12-03T15:31:19+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001539s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+
+[ 2015-12-03T15:31:19+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2015-12-03T15:31:39+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+
+[ 2015-12-03T15:31:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2015-12-03T15:31:48+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+
+[ 2015-12-03T15:31:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2015-12-03T15:32:01+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+
+[ 2015-12-03T15:32:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2015-12-03T15:32:03+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+NOTIC: [2] Illegal string offset 'nickname' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [2] Illegal string offset 'sex' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [2] Illegal string offset 'openid' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] Illegal string offset 'language' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [2] Illegal string offset 'city' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 67 行.
+NOTIC: [2] Illegal string offset 'province' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] Illegal string offset 'country' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 75 行.
+NOTIC: [2] Illegal string offset 'headimgurl' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 79 行.
+NOTIC: [2] Illegal string offset 'subscribe_time' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 83 行.
+
+[ 2015-12-03T15:32:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-12-03T15:32:44+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+
+[ 2015-12-03T15:32:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2015-12-03T15:32:55+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001175s ]
+
+[ 2015-12-03T15:32:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2015-12-03T15:33:25+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002815s ]
+
+[ 2015-12-03T15:33:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-12-03T15:34:27+08:00 ] 127.0.0.1 /Home/Index/sendwxmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003730s ]
+
+[ 2015-12-03T15:34:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-12-03T16:07:23+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+
+[ 2015-12-03T16:07:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2015-12-03T16:07:39+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+
+[ 2015-12-03T16:07:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-12-03T16:09:07+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+
+[ 2015-12-03T16:09:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2015-12-03T16:09:11+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+
+[ 2015-12-03T16:09:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-12-03T16:09:45+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001717s ]
+
+[ 2015-12-03T16:09:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2015-12-03T16:10:52+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001921s ]
+
+[ 2015-12-03T16:10:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2015-12-03T16:11:28+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+
+[ 2015-12-03T16:11:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2015-12-03T16:14:43+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+NOTIC: [8] Undefined index: openid D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 70 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002155s ]
+
+[ 2015-12-03T16:14:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2015-12-03T16:16:03+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002166s ]
+
+[ 2015-12-03T16:16:04+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+
+[ 2015-12-03T16:16:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-12-03T16:16:14+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+
+[ 2015-12-03T16:16:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2015-12-03T16:17:30+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002056s ]
+
+[ 2015-12-03T16:17:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2015-12-03T16:17:41+08:00 ] 127.0.0.1 /Home/Wx/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003250s ]
+
+[ 2015-12-03T16:17:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2015-12-03T16:33:51+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+
+[ 2015-12-03T16:33:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2015-12-03T16:34:54+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+
+[ 2015-12-03T16:34:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+
+[ 2015-12-03T16:34:57+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+
+[ 2015-12-03T16:34:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2015-12-03T16:34:58+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-03T16:34:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2015-12-03T16:34:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+
+[ 2015-12-03T16:35:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2015-12-03T16:35:00+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+
+[ 2015-12-03T16:35:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2015-12-03T16:35:08+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+
+[ 2015-12-03T16:35:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-12-03T16:35:50+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+
+[ 2015-12-03T16:35:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2015-12-03T16:37:02+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000499s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001286s ]
+
+[ 2015-12-03T16:37:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2015-12-03T16:40:06+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000268s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000726s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002021s ]
+
+[ 2015-12-03T16:41:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2015-12-03T16:42:05+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002840s ]
+
+[ 2015-12-03T16:42:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2015-12-03T16:45:15+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003284s ]
+
+[ 2015-12-03T16:45:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2015-12-03T16:45:39+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000655s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002308s ]
+
+[ 2015-12-03T16:45:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2015-12-03T17:25:23+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+
+[ 2015-12-03T17:25:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2015-12-03T17:25:59+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000398s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2015-12-03T17:26:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2015-12-03T17:27:55+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000447s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002942s ]
+
+[ 2015-12-03T17:27:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2015-12-03T17:28:41+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2015-12-03T17:28:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2015-12-03T17:28:59+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=7fzX7TSJVeW2TNP2ZvQSeYqnvsRq6O5hwLUlzdrRpOc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002726s ]
+NOTIC: [8] Use of undefined constant errCode - assumed 'errCode' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+
+[ 2015-12-03T17:49:06+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000350s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000881s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001507s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002019s ]
+
+[ 2015-12-03T17:49:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2015-12-03T17:50:09+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=7fzX7TSJVeW2TNP2ZvQSeYqnvsRq6O5hwLUlzdrRpOc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+NOTIC: [8] Use of undefined constant errCode - assumed 'errCode' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+
+[ 2015-12-03T17:50:23+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwDIueBAb-sBVJx44VWPezw4&tplid=7fzX7TSJVeW2TNP2ZvQSeYqnvsRq6O5hwLUlzdrRpOc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+NOTIC: [8] Use of undefined constant errCode - assumed 'errCode' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+
+[ 2015-12-03T18:02:36+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=7fzX7TSJVeW2TNP2ZvQSeYqnvsRq6O5hwLUlzdrRpOc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+NOTIC: [8] Use of undefined constant errCode - assumed 'errCode' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+
+[ 2015-12-03T18:03:56+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=G2Uo0JPDiwPZXIFyI9jsuYtzYrNd4WdJTLJBqp_12gs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-12-03T18:15:35+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000268s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000741s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001879s ]
+
+[ 2015-12-03T18:15:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2015-12-03T18:15:49+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=G2Uo0JPDiwPZXIFyI9jsuYtzYrNd4WdJTLJBqp_12gs34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+
+[ 2015-12-03T18:15:53+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=G2Uo0JPDiwPZXIFyI9jsuYtzYrNd4WdJTLJBqp_12gs34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+
+[ 2015-12-03T18:17:04+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000286s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000781s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001908s ]
+
+[ 2015-12-03T18:17:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2015-12-03T18:18:48+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001007s ]
+
+[ 2015-12-03T18:18:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2015-12-03T18:18:52+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=asdqw&tplid=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+
+[ 2015-12-03T18:19:52+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002101s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000294s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000819s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001927s ]
+
+[ 2015-12-03T18:19:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2015-12-03T18:20:23+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000772s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001833s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002189s ]
+
+[ 2015-12-03T18:20:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-12-03T18:20:43+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=asdqwe&tplid=asdqweqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+
+[ 2015-12-03T18:20:47+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=asdqwe&tplid=asdqweqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+
+[ 2015-12-03T18:21:12+08:00 ] 127.0.0.1 /Home/Index/sendtplmsg/?openid=ok18rwGhXlSJ0t3IBiF8iSbt5y90&tplid=G2Uo0JPDiwPZXIFyI9jsuYtzYrNd4WdJTLJBqp_12gs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+NOTIC: [8] Use of undefined constant errCode - assumed 'errCode' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+NOTIC: [8] Array to string conversion D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 106 行.
+
+[ 2015-12-03T18:23:34+08:00 ] 127.0.0.1 /Home/Index/weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000472s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001172s ]
+
+[ 2015-12-03T18:23:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+

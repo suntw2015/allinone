@@ -1,0 +1,36 @@
+[ 2015-06-27T20:27:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024002s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php ç¬¬ 229 è¡Œ.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php ç¬¬ 230 è¡Œ.
+
+[ 2015-06-27T20:27:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php ç¬¬ 229 è¡Œ.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php ç¬¬ 230 è¡Œ.
+
+[ 2015-06-27T20:28:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php ç¬¬ 229 è¡Œ.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php ç¬¬ 230 è¡Œ.
+

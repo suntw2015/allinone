@@ -1,0 +1,15 @@
+[ 2015-09-08T15:26:39+08:00 ] 127.0.0.1 /Api/lol/asyncchampion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_02hveiqpttssa4fb37dbqrk8t2, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `lol_champion` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `lol_champion` [ RunTime:0.0043s ]
+SQL: INSERT INTO `lol_champion` () VALUES () [ RunTime:0.0447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001298s ]
+

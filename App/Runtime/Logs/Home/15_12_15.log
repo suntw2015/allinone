@@ -1,0 +1,391 @@
+[ 2015-12-15T15:34:00+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016478s ]
+ERR: 微信消息不能为空
+
+[ 2015-12-15T15:34:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2015-12-15T15:34:06+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001659s ]
+ERR: 微信消息不能为空
+
+[ 2015-12-15T15:34:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2015-12-15T15:34:31+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T15:34:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2015-12-15T15:36:57+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T15:36:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2015-12-15T15:38:37+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T15:38:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2015-12-15T15:38:46+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T15:38:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2015-12-15T15:38:54+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001294s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T15:38:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2015-12-15T15:38:55+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T15:38:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+
+[ 2015-12-15T15:39:22+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'stw'@'localhost' (using password: YES)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-12-15T15:39:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2015-12-15T15:41:33+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `a_wxuser` [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `a_wxuser` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `a_wxuser` WHERE `openid` = null LIMIT 1   [ RunTime:0.0005s ]
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'updateon' doesn't have a default value
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:217) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:217) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-12-15T15:41:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2015-12-15T15:42:29+08:00 ] 127.0.0.1 /home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `a_wxuser` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `a_wxuser` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `a_wxuser` WHERE `openid` = null LIMIT 1   [ RunTime:0.0003s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'openid' cannot be null
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:217) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:217) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-12-15T15:42:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+
+[ 2015-12-15T16:26:11+08:00 ] 127.0.0.1 /Home/Wx/valid?echostr=12312321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 38 行.
+ERR: 微信消息不能为空
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-12-15T16:26:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+
+[ 2015-12-15T16:26:17+08:00 ] 127.0.0.1 /Home/Wx/valid?echostr=12312321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 38 行.
+ERR: 微信消息不能为空
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-12-15T16:26:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-12-15T16:26:34+08:00 ] 127.0.0.1 /Home/Wx/valid?echostr=12312321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+
+[ 2015-12-15T16:26:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2015-12-15T16:26:52+08:00 ] 127.0.0.1 /Home/Wx/valid?echostr=12312321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+
+[ 2015-12-15T16:26:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+
+[ 2015-12-15T16:27:32+08:00 ] 127.0.0.1 /Home/Wx/valid?echostr=12312321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+NOTIC: [8] Undefined index: signature D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 49 行.
+NOTIC: [8] Undefined index: timestamp D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 50 行.
+NOTIC: [8] Undefined index: nonce D:\wnmp\www\allinone\App\Home\Controller\WxController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2015-12-15T16:27:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2015-12-15T16:47:34+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+ERR: 参数错误或者未定义:str
+
+[ 2015-12-15T16:47:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001296s ]
+
+[ 2015-12-15T16:47:38+08:00 ] 127.0.0.1 /Home/Index/test?str=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T16:47:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+
+[ 2015-12-15T16:48:04+08:00 ] 127.0.0.1 /Home/Index/test?str=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T16:48:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+
+[ 2015-12-15T16:48:25+08:00 ] 127.0.0.1 /Home/Index/test?str=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T16:48:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+
+[ 2015-12-15T16:48:39+08:00 ] 127.0.0.1 /Home/Index/test?str=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T16:48:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2015-12-15T16:51:00+08:00 ] 127.0.0.1 /Home/Index/test?str=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T16:51:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-12-15T16:51:03+08:00 ] 127.0.0.1 /Home/Index/test?str=asdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 30 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object D:\wnmp\www\allinone\App\Home\Logic\WxResponseLogic.class.php 第 33 行.
+
+[ 2015-12-15T16:51:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+

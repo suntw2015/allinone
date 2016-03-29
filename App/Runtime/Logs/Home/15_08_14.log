@@ -1,0 +1,2988 @@
+[ 2015-08-14T09:30:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012495s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0108s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003427s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008266s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.239402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.244713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019387s ]
+
+[ 2015-08-14T09:30:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007968s ]
+
+[ 2015-08-14T09:33:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000816s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008984s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0143s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0113s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003359s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008684s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018826s ]
+
+[ 2015-08-14T09:33:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001558s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010453s ]
+
+[ 2015-08-14T09:34:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008965s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0136s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003658s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008822s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009232s ]
+
+[ 2015-08-14T09:34:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000979s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007363s ]
+
+[ 2015-08-14T09:35:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000929s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008821s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0124s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003369s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008464s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010814s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013075s ]
+
+[ 2015-08-14T09:35:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001308s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007982s ]
+
+[ 2015-08-14T09:41:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008414s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003347s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008358s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.138137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003137s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012538s ]
+
+[ 2015-08-14T09:41:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000887s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006358s ]
+
+[ 2015-08-14T09:41:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007819s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0095s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003369s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004884s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010882s ]
+
+[ 2015-08-14T09:41:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000966s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011045s ]
+
+[ 2015-08-14T09:42:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000936s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009299s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0162s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.131750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.136689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010301s ]
+
+[ 2015-08-14T09:42:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013848s ]
+
+[ 2015-08-14T09:42:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008537s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0142s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003471s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008459s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002980s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012395s ]
+
+[ 2015-08-14T09:42:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007455s ]
+
+[ 2015-08-14T09:43:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000822s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009528s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0143s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0114s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003420s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008737s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002982s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011439s ]
+
+[ 2015-08-14T09:43:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000854s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006237s ]
+
+[ 2015-08-14T09:44:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009333s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0108s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003614s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008617s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011171s ]
+
+[ 2015-08-14T09:44:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000992s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006575s ]
+
+[ 2015-08-14T09:46:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000961s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009980s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0151s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003487s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008688s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011519s ]
+
+[ 2015-08-14T09:46:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000969s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006720s ]
+
+[ 2015-08-14T09:47:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000816s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007915s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0143s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0073s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003650s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008772s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003005s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013251s ]
+
+[ 2015-08-14T09:47:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006242s ]
+
+[ 2015-08-14T09:50:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000986s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009615s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0142s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0102s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013096s ]
+
+[ 2015-08-14T09:50:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006195s ]
+
+[ 2015-08-14T09:51:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000946s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007974s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0264s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003525s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011342s ]
+
+[ 2015-08-14T09:51:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008872s ]
+
+[ 2015-08-14T09:52:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007798s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003361s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011089s ]
+
+[ 2015-08-14T09:52:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000853s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006211s ]
+
+[ 2015-08-14T09:54:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010725s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0109s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003410s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008579s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002919s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012631s ]
+
+[ 2015-08-14T09:54:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000882s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006345s ]
+
+[ 2015-08-14T09:55:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000917s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008326s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0118s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003402s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008551s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008894s ]
+
+[ 2015-08-14T09:55:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000868s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006715s ]
+
+[ 2015-08-14T09:56:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007069s ]
+
+[ 2015-08-14T09:59:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008412s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003652s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008720s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010250s ]
+
+[ 2015-08-14T09:59:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009340s ]
+
+[ 2015-08-14T10:00:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000996s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009035s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0134s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0137s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003791s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009532s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009682s ]
+
+[ 2015-08-14T10:00:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000864s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006499s ]
+
+[ 2015-08-14T10:01:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000867s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009442s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0104s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0108s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003428s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011024s ]
+
+[ 2015-08-14T10:01:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000880s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006234s ]
+
+[ 2015-08-14T10:02:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000800s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008936s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0108s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003880s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009716s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007584s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014455s ]
+
+[ 2015-08-14T10:02:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001304s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008694s ]
+
+[ 2015-08-14T10:02:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001363s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010587s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0149s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003737s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008698s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003058s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009730s ]
+
+[ 2015-08-14T10:02:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000861s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006735s ]
+
+[ 2015-08-14T10:03:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000942s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008341s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0144s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003508s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008533s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.136871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009863s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021443s ]
+
+[ 2015-08-14T10:03:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000848s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006221s ]
+
+[ 2015-08-14T10:04:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018687s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003366s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008713s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015335s ]
+
+[ 2015-08-14T10:04:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006280s ]
+
+[ 2015-08-14T10:04:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000871s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008138s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0153s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003756s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.146025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007957s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009337s ]
+
+[ 2015-08-14T10:04:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006901s ]
+
+[ 2015-08-14T10:05:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000869s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007966s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003353s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008406s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010795s ]
+
+[ 2015-08-14T10:05:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000859s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006273s ]
+
+[ 2015-08-14T10:05:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000957s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008507s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0204s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003338s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009059s ]
+
+[ 2015-08-14T10:05:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000924s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007288s ]
+
+[ 2015-08-14T10:05:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007937s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0142s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003350s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008327s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011807s ]
+
+[ 2015-08-14T10:05:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000993s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006580s ]
+
+[ 2015-08-14T10:06:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000980s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008190s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0134s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003372s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011197s ]
+
+[ 2015-08-14T10:06:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000854s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006170s ]
+
+[ 2015-08-14T10:09:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008298s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009403s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013049s ]
+
+[ 2015-08-14T10:09:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006254s ]
+
+[ 2015-08-14T10:09:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007783s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011446s ]
+
+[ 2015-08-14T10:09:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006184s ]
+
+[ 2015-08-14T10:11:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009258s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0137s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003439s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008604s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134118s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008560s ]
+
+[ 2015-08-14T10:11:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000822s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006399s ]
+
+[ 2015-08-14T10:12:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008067s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0089s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003760s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008576s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009646s ]
+
+[ 2015-08-14T10:12:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006200s ]
+
+[ 2015-08-14T10:18:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008363s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0121s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0083s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003359s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002783s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013400s ]
+
+[ 2015-08-14T10:18:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000858s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006239s ]
+
+[ 2015-08-14T10:19:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001352s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009106s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003338s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003158s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011113s ]
+
+[ 2015-08-14T10:19:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001446s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008958s ]
+
+[ 2015-08-14T10:19:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001367s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015014s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018785s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0152s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0094s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005391s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.013205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.237583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.245339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.035560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.050763s ]
+
+[ 2015-08-14T10:19:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000941s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006770s ]
+
+[ 2015-08-14T10:19:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000905s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010041s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003450s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008422s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011108s ]
+
+[ 2015-08-14T10:19:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+
+[ 2015-08-14T10:20:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007965s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003341s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009528s ]
+
+[ 2015-08-14T10:20:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006244s ]
+
+[ 2015-08-14T10:20:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008839s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0283s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003429s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008656s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130480s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009191s ]
+
+[ 2015-08-14T10:20:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000851s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006232s ]
+
+[ 2015-08-14T10:21:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008187s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0099s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004742s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009613s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.038157s ]
+
+[ 2015-08-14T10:21:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000853s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006289s ]
+
+[ 2015-08-14T10:22:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009322s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0127s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003478s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008792s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009041s ]
+
+[ 2015-08-14T10:22:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006141s ]
+
+[ 2015-08-14T10:22:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008426s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0073s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009011s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008431s ]
+
+[ 2015-08-14T10:22:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000862s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006353s ]
+
+[ 2015-08-14T10:23:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008957s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0082s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0083s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003441s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010302s ]
+
+[ 2015-08-14T10:23:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000907s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006246s ]
+
+[ 2015-08-14T10:23:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008012s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0112s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003973s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131537s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010722s ]
+
+[ 2015-08-14T10:23:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006248s ]
+
+[ 2015-08-14T10:24:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007737s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0099s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004907s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009899s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131277s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009598s ]
+
+[ 2015-08-14T10:24:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006221s ]
+
+[ 2015-08-14T10:24:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000860s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008706s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003438s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125333s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010209s ]
+
+[ 2015-08-14T10:24:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000862s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006447s ]
+
+[ 2015-08-14T10:27:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0121s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0129s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003344s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009779s ]
+
+[ 2015-08-14T10:27:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000957s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006783s ]
+
+[ 2015-08-14T10:41:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008016s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0082s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003692s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008938s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008868s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005133s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011109s ]
+
+[ 2015-08-14T10:41:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000822s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006224s ]
+
+[ 2015-08-14T10:42:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009116s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0195s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003331s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012398s ]
+
+[ 2015-08-14T10:42:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000865s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006217s ]
+
+[ 2015-08-14T10:42:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000859s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008301s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008482s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008989s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009085s ]
+
+[ 2015-08-14T10:42:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000840s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006377s ]
+
+[ 2015-08-14T10:43:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000853s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008072s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0138s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003758s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011293s ]
+
+[ 2015-08-14T10:43:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006372s ]
+
+[ 2015-08-14T10:43:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007864s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0473s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003576s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008710s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009353s ]
+
+[ 2015-08-14T10:43:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006194s ]
+
+[ 2015-08-14T10:44:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010157s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0126s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003741s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009577s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.137272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009661s ]
+
+[ 2015-08-14T10:44:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006398s ]
+
+[ 2015-08-14T10:51:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008132s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0132s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003637s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012700s ]
+
+[ 2015-08-14T10:51:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000858s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006916s ]
+
+[ 2015-08-14T10:52:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000857s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007694s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011859s ]
+
+[ 2015-08-14T10:52:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000851s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006246s ]
+
+[ 2015-08-14T10:52:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000914s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009458s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003405s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.141359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.146295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013018s ]
+
+[ 2015-08-14T10:52:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000863s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006516s ]
+
+[ 2015-08-14T10:53:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000903s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010782s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0196s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0134s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003418s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008775s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007945s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011374s ]
+
+[ 2015-08-14T10:53:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007589s ]
+
+[ 2015-08-14T10:53:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008199s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0132s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0094s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003570s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008441s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130196s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009298s ]
+
+[ 2015-08-14T10:53:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000901s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006299s ]
+
+[ 2015-08-14T10:55:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000856s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007791s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0096s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003392s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008587s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009744s ]
+
+[ 2015-08-14T10:55:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000935s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006411s ]
+
+[ 2015-08-14T10:55:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008823s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0093s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0099s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003798s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008888s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003959s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010261s ]
+
+[ 2015-08-14T10:55:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006213s ]
+
+[ 2015-08-14T10:56:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000844s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007849s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0203s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003444s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008785s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013612s ]
+
+[ 2015-08-14T10:56:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006151s ]
+
+[ 2015-08-14T10:58:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008061s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0131s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003535s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008443s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.131660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.136476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016375s ]
+
+[ 2015-08-14T10:58:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008948s ]
+
+[ 2015-08-14T10:59:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008703s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003336s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012241s ]
+
+[ 2015-08-14T10:59:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000879s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006418s ]
+
+[ 2015-08-14T11:00:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000873s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007955s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0099s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003331s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012117s ]
+
+[ 2015-08-14T11:00:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006313s ]
+
+[ 2015-08-14T11:00:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000931s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007677s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0104s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003862s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008998s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009831s ]
+
+[ 2015-08-14T11:00:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006390s ]
+
+[ 2015-08-14T11:00:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000850s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009358s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0121s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003689s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008649s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131424s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013398s ]
+
+[ 2015-08-14T11:00:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006478s ]
+
+[ 2015-08-14T11:08:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008202s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0114s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003640s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.138461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016739s ]
+
+[ 2015-08-14T11:08:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006298s ]
+
+[ 2015-08-14T11:12:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008688s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0138s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003968s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.163931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014508s ]
+
+[ 2015-08-14T11:12:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000897s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006470s ]
+
+[ 2015-08-14T11:13:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000798s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008178s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n6p8kerldgs0v9rbc3f63tgla6, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0587s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008686s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.131204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.136023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002700s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011607s ]
+
+[ 2015-08-14T11:13:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000858s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006171s ]
+
+[ 2015-08-14T17:07:20+08:00 ] 127.0.0.1 /Home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007956s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_i1s8vcm3u1j574uk0bcc6m7s65, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant __VIDEO__ - assumed '__VIDEO__' D:\wnmp\www\allinone\App\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant UPLOAD_PATH - assumed 'UPLOAD_PATH' D:\wnmp\www\allinone\ThinkPHP\Library\Org\Net\Http.class.php 第 148 行.
+ERR: __VIDEO__WeChat_V1.1.0.41_setup.1433318431.exe下载文件不存在！
+
+[ 2015-08-14T17:07:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006336s ]
+
+[ 2015-08-14T17:09:38+08:00 ] 127.0.0.1 /Home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000851s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008645s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_i1s8vcm3u1j574uk0bcc6m7s65, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-14T17:09:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001217s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010636s ]
+
+[ 2015-08-14T19:15:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015479s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'stw'@'localhost' (using password: YES)
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:103) D:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-08-14T19:15:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000893s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006832s ]
+
+[ 2015-08-14T19:16:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008305s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0380s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0074s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003423s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008692s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.153870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.158743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.040812s ]
+
+[ 2015-08-14T19:16:40+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000909s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020948s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:16:41+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001354s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009412s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:16:41+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008543s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:16:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006276s ]
+
+[ 2015-08-14T19:23:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008110s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003410s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008434s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002721s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008692s ]
+
+[ 2015-08-14T19:23:57+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013093s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:23:58+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007706s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:23:58+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000918s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007907s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:23:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000904s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006523s ]
+
+[ 2015-08-14T19:24:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008753s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003342s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002778s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009124s ]
+
+[ 2015-08-14T19:24:14+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011333s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:24:14+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007834s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:24:15+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008130s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:24:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000910s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006399s ]
+
+[ 2015-08-14T19:24:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000883s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010219s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003349s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007906s ]
+
+[ 2015-08-14T19:24:39+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000965s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011519s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:24:39+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008235s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:24:39+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001490s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007850s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:24:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006204s ]
+
+[ 2015-08-14T19:28:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000831s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009036s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003486s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008615s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002990s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008002s ]
+
+[ 2015-08-14T19:28:02+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001666s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008873s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:28:02+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008900s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:28:02+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000882s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009062s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:28:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007403s ]
+
+[ 2015-08-14T19:28:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000882s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008806s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0134s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003354s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002781s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008753s ]
+
+[ 2015-08-14T19:28:50+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016896s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:28:50+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000957s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009402s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:28:50+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000901s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015811s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:28:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000924s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006949s ]
+
+[ 2015-08-14T19:30:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012476s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009740s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.137763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.143009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010135s ]
+
+[ 2015-08-14T19:30:49+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001423s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013116s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:30:49+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008021s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:30:49+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000943s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011313s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:30:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006210s ]
+
+[ 2015-08-14T19:32:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008304s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0443s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003474s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008465s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008238s ]
+
+[ 2015-08-14T19:32:24+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000949s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012283s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:32:24+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000962s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008035s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:32:24+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008924s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T19:32:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006123s ]
+
+[ 2015-08-14T20:23:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008017s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003499s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008698s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013762s ]
+
+[ 2015-08-14T20:23:59+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001965s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015638s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T20:24:00+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000907s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008457s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T20:24:00+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000993s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008036s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-14T20:24:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006932s ]
+
+[ 2015-08-14T20:33:14+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008637s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Admin
+
+[ 2015-08-14T20:33:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006135s ]
+
+[ 2015-08-14T20:33:25+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009661s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Admin
+
+[ 2015-08-14T20:33:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006115s ]
+
+[ 2015-08-14T20:34:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000822s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006165s ]
+
+[ 2015-08-14T20:34:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000852s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006161s ]
+
+[ 2015-08-14T20:34:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006243s ]
+
+[ 2015-08-14T20:34:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008583s ]
+
+[ 2015-08-14T20:34:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006154s ]
+
+[ 2015-08-14T20:36:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000893s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006247s ]
+
+[ 2015-08-14T20:36:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006172s ]
+
+[ 2015-08-14T20:37:28+08:00 ] 127.0.0.1 /__CSS__/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008633s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:37:29+08:00 ] 127.0.0.1 /__CSS__/admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007872s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:37:29+08:00 ] 127.0.0.1 /__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000949s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009298s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__JS__
+
+[ 2015-08-14T20:37:29+08:00 ] 127.0.0.1 /__JS__/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000889s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008938s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__JS__
+
+[ 2015-08-14T20:37:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000839s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006434s ]
+
+[ 2015-08-14T20:39:24+08:00 ] 127.0.0.1 /__CSS__/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000881s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008679s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:39:24+08:00 ] 127.0.0.1 /__CSS__/admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007804s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:39:24+08:00 ] 127.0.0.1 /__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008490s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__JS__
+
+[ 2015-08-14T20:39:24+08:00 ] 127.0.0.1 /__JS__/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008863s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__JS__
+
+[ 2015-08-14T20:39:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006263s ]
+
+[ 2015-08-14T20:39:37+08:00 ] 127.0.0.1 /__CSS__/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000857s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007823s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:39:37+08:00 ] 127.0.0.1 /__CSS__/admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000854s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009109s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:39:37+08:00 ] 127.0.0.1 /__JS__/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007755s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__JS__
+
+[ 2015-08-14T20:39:37+08:00 ] 127.0.0.1 /__JS__/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009879s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__JS__
+
+[ 2015-08-14T20:39:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006300s ]
+
+[ 2015-08-14T20:39:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006328s ]
+
+[ 2015-08-14T20:39:53+08:00 ] 127.0.0.1 /__CSS__/admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001332s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010403s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_9bq9th6jitg7c0ppavkqifjo76, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:__CSS__
+
+[ 2015-08-14T20:39:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+
+[ 2015-08-14T20:40:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000860s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006518s ]
+
+[ 2015-08-14T20:40:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006087s ]
+
+[ 2015-08-14T20:41:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000874s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008252s ]
+
+[ 2015-08-14T21:21:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006312s ]
+
+[ 2015-08-14T22:30:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006187s ]
+
+[ 2015-08-14T22:30:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001773s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011374s ]
+
+[ 2015-08-14T22:32:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008018s ]
+
+[ 2015-08-14T22:34:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000883s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006876s ]
+
+[ 2015-08-14T22:35:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000874s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006873s ]
+
+[ 2015-08-14T22:35:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000847s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006513s ]
+
+[ 2015-08-14T22:39:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006456s ]
+
+[ 2015-08-14T22:41:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000917s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009248s ]
+
+[ 2015-08-14T22:44:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000971s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008198s ]
+
+[ 2015-08-14T22:46:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000872s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006352s ]
+
+[ 2015-08-14T22:47:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000880s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006652s ]
+
+[ 2015-08-14T22:51:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000889s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009211s ]
+
+[ 2015-08-14T22:52:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008542s ]
+
+[ 2015-08-14T22:52:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000873s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008230s ]
+
+[ 2015-08-14T23:32:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006979s ]
+
+[ 2015-08-14T23:38:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000874s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007340s ]
+
+[ 2015-08-14T23:38:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006673s ]
+

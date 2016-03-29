@@ -1,0 +1,25 @@
+[ 2015-09-01T09:03:42+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000875s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025024s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_r17rm9i7varva7dtrmrprro201, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0515s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,20   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007745s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.255670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.260457s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027690s ]
+

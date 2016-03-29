@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+   <html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Docs For Class BaiduPCS</title>
+  <link rel="stylesheet" href="../media/stylesheet.css" />
+  <script src="../media/lib/classTree.js"></script>
+<link id="webfx-tab-style-sheet" type="text/css" rel="stylesheet" href="../media/lib/tab.webfx.css" />
+<script type="text/javascript" src="../media/lib/tabpane.js"></script>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+  <script language="javascript" type="text/javascript" src="../media/lib/ua.js"></script>
+<script language="javascript" type="text/javascript">
+	var imgPlus = new Image();
+	var imgMinus = new Image();
+	imgPlus.src = "../media/images/plus.gif";
+	imgMinus.src = "../media/images/minus.gif";
+	
+	function showNode(Node){
+        switch(navigator.family){
+        	case 'nn4':
+        		// Nav 4.x code fork...
+				var oTable = document.layers["span" + Node];
+				var oImg = document.layers["img" + Node];
+        		break;
+        	case 'ie4':
+        		// IE 4/5 code fork...
+				var oTable = document.all["span" + Node];
+				var oImg = document.all["img" + Node];
+        		break;
+        	case 'gecko':
+        		// Standards Compliant code fork...
+				var oTable = document.getElementById("span" + Node);
+				var oImg = document.getElementById("img" + Node);
+        		break;
+        }
+		oImg.src = imgMinus.src;
+		oTable.style.display = "block";
+	}
+	
+	function hideNode(Node){
+        switch(navigator.family){
+        	case 'nn4':
+        		// Nav 4.x code fork...
+				var oTable = document.layers["span" + Node];
+				var oImg = document.layers["img" + Node];
+        		break;
+        	case 'ie4':
+        		// IE 4/5 code fork...
+				var oTable = document.all["span" + Node];
+				var oImg = document.all["img" + Node];
+        		break;
+        	case 'gecko':
+        		// Standards Compliant code fork...
+				var oTable = document.getElementById("span" + Node);
+				var oImg = document.getElementById("img" + Node);
+        		break;
+        }
+		oImg.src = imgPlus.src;
+		oTable.style.display = "none";
+	}
+	
+	function nodeIsVisible(Node){
+        switch(navigator.family){
+        	case 'nn4':
+        		// Nav 4.x code fork...
+				var oTable = document.layers["span" + Node];
+        		break;
+        	case 'ie4':
+        		// IE 4/5 code fork...
+				var oTable = document.all["span" + Node];
+        		break;
+        	case 'gecko':
+        		// Standards Compliant code fork...
+				var oTable = document.getElementById("span" + Node);
+        		break;
+        }
+		return (oTable && oTable.style.display == "block");
+	}
+	
+	function toggleNodeVisibility(Node){
+		if (nodeIsVisible(Node)){
+			hideNode(Node);
+		}else{
+			showNode(Node);
+		}
+	}
+</script>
+<!-- template designed by Julien Damon based on PHPEdit's generated templates, and tweaked by Greg Beaver -->
+<body bgcolor="#ffffff" ><!-- Start of Class Data -->
+<h2>
+	Class BaiduPCS
+</h2> (line <span class="linenumber">14</span>)
+<div class="tab-pane" id="tabPane1">
+<script type="text/javascript">
+tp1 = new WebFXTabPane( document.getElementById( "tabPane1" ));
+</script>
+
+<div class="tab-page" id="Description">
+<h2 class="tab">Description</h2>
+<pre>
+</pre>
+<p>
+	<b><i>Located in File: <a href="_BaiduPCS.class.php.html">/BaiduPCS.class.php</a></i></b><br>
+</p>
+<!-- ========== Info from phpDoc block ========= -->
+<h5>BaiduPCS类</h5>
+<ul>
+	</ul>
+<br /><hr />
+</div>
+<script type="text/javascript">tp1.addTabPage( document.getElementById( "Description" ) );</script>
+<div class="tab-page" id="tabPage1">
+
+<h2 class="tab">Class Variables</h2>
+<!-- ============ VARIABLE DETAIL =========== -->
+<strong>Summary:</strong><br />
+<hr />
+<script type="text/javascript">tp1.addTabPage( document.getElementById( "tabPage1" ) );</script>
+</div>
+<div class="tab-page" id="constantsTabpage">
+
+<h2 class="tab">Class Constants</h2>
+<!-- ============ VARIABLE DETAIL =========== -->
+<strong>Summary:</strong><br />
+<hr />
+<script type="text/javascript">tp1.addTabPage( document.getElementById( "constantsTabpage" ) );</script>
+</div>
+<div class="tab-page" id="tabPage2">
+<h2 class="tab">Method Detail</h2>
+<!-- ============ METHOD DETAIL =========== -->
+<strong>Summary:</strong><br />
+<div class="method-summary">
+    <div class="method-definition">
+            <span class="method-result">BaiduPCS</span>
+        <a href="#method__construct" title="details" class="method-name">__construct</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$accessToken</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodaddOfflineDownloadTask" title="details" class="method-name">addOfflineDownloadTask</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$savePath</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$sourceUrl</span>, [<span class="var-type">int</span>&nbsp;<span class="var-name">$rateLimit</span> = <span class="var-default">''</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$timeout</span> = <span class="var-default">3600</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$callback</span> = <span class="var-default">''</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$expires</span> = <span class="var-default">''</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodcancelOfflineDownloadTask" title="details" class="method-name">cancelOfflineDownloadTask</a>
+        (<span class="var-type">int</span>&nbsp;<span class="var-name">$taskId</span>, [<span class="var-type">int</span>&nbsp;<span class="var-name">$expires</span> = <span class="var-default">''</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodcloudMatch" title="details" class="method-name">cloudMatch</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>, <span class="var-type">int</span>&nbsp;<span class="var-name">$contentLength</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$contentMd5</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$sliceMd5</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$contentCrc32</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodcopyBatch" title="details" class="method-name">copyBatch</a>
+        (<span class="var-type">array</span>&nbsp;<span class="var-name">$from</span>, <span class="var-type">array</span>&nbsp;<span class="var-name">$to</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodcopySingle" title="details" class="method-name">copySingle</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$from</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$to</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodcreateSuperFile" title="details" class="method-name">createSuperFile</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$targetPath</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$fileName</span>, <span class="var-type">array</span>&nbsp;<span class="var-name">$params</span>, [<span class="var-type">string</span>&nbsp;<span class="var-name">$newFileName</span> = <span class="var-default">null</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methoddeleteBatch" title="details" class="method-name">deleteBatch</a>
+        (<span class="var-type">array</span>&nbsp;<span class="var-name">$paths</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methoddeleteSingle" title="details" class="method-name">deleteSingle</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methoddiff" title="details" class="method-name">diff</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$cursor</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">文件内容</span>
+        <a href="#methoddownload" title="details" class="method-name">download</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">文件内容</span>
+        <a href="#methoddownloadStream" title="details" class="method-name">downloadStream</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodgetAccessToken" title="details" class="method-name">getAccessToken</a>
+        ()
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodgetBatchMeta" title="details" class="method-name">getBatchMeta</a>
+        (<span class="var-type">array</span>&nbsp;<span class="var-name">$paths</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodgetMeta" title="details" class="method-name">getMeta</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodgetQuota" title="details" class="method-name">getQuota</a>
+        ()
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodlistFiles" title="details" class="method-name">listFiles</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>, [<span class="var-type">string</span>&nbsp;<span class="var-name">$by</span> = <span class="var-default">'name'</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$order</span> = <span class="var-default">'asc'</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$limit</span> = <span class="var-default">'0-9'</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodlistOfflineDownloadTask" title="details" class="method-name">listOfflineDownloadTask</a>
+        ([<span class="var-type">int</span>&nbsp;<span class="var-name">$start</span> = <span class="var-default">0</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$limit</span> = <span class="var-default">10</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$asc</span> = <span class="var-default">0</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$sourceURL</span> = <span class="var-default">''</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$savePath</span> = <span class="var-default">''</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$createTime</span> = <span class="var-default">''</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$status</span> = <span class="var-default">1</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$needTaskInfo</span> = <span class="var-default">1</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$expires</span> = <span class="var-default">''</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodlistStream" title="details" class="method-name">listStream</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$type</span>, [<span class="var-type">string</span>&nbsp;<span class="var-name">$start</span> = <span class="var-default">0</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$limit</span> = <span class="var-default">'1000'</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$filterPath</span> = <span class="var-default">''</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodmakeDirectory" title="details" class="method-name">makeDirectory</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodmoveBatch" title="details" class="method-name">moveBatch</a>
+        (<span class="var-type">array</span>&nbsp;<span class="var-name">$from</span>, <span class="var-type">array</span>&nbsp;<span class="var-name">$to</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodmoveSingle" title="details" class="method-name">moveSingle</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$from</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$to</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodqueryOfflineDownloadTask" title="details" class="method-name">queryOfflineDownloadTask</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$taskIds</span>, [<span class="var-type">int</span>&nbsp;<span class="var-name">$opType</span> = <span class="var-default">1</span>], [<span class="var-type">int</span>&nbsp;<span class="var-name">$expires</span> = <span class="var-default">''</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodsearch" title="details" class="method-name">search</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$wd</span>, [<span class="var-type">int</span>&nbsp;<span class="var-name">$re</span> = <span class="var-default">1</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result"><a href="../baidu-pcs/BaiduPCS.html">BaiduPCS</a></span>
+        <a href="#methodsetAccessToken" title="details" class="method-name">setAccessToken</a>
+        (<span class="var-type"></span>&nbsp;<span class="var-name">$accessToken</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$_accessToken</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">文件播放列表URL</span>
+        <a href="#methodstreaming" title="details" class="method-name">streaming</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$type</span>)
+        </div>
+    <div class="method-definition">
+            <span class="method-result">文件内容</span>
+        <a href="#methodthumbnail" title="details" class="method-name">thumbnail</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$path</span>, <span class="var-type">int</span>&nbsp;<span class="var-name">$width</span>, <span class="var-type">int</span>&nbsp;<span class="var-name">$height</span>, [<span class="var-type">int32</span>&nbsp;<span class="var-name">$quality</span> = <span class="var-default">100</span>])
+        </div>
+    <div class="method-definition">
+            <span class="method-result">string</span>
+        <a href="#methodupload" title="details" class="method-name">upload</a>
+        (<span class="var-type">string</span>&nbsp;<span class="var-name">$fileContent</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$targetPath</span>, <span class="var-type">string</span>&nbsp;<span class="var-name">$fileName</span>, [<span class="var-type">string</span>&nbsp;<span class="var-name">$newFileName</span> = <span class="var-default">null</span>], [<span class="var-type">boolean</span>&nbsp;<span class="var-name">$isCreateSuperFile</span> = <span class="var-default">FALSE</span>])
+        </div>
+</div>
+<hr />
+<A NAME='method_detail'></A>
+
+
+<a name="method__construct" id="method__construct"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/Constructor.gif" border="0" /> <strong class="method">Constructor __construct</strong> (line <span class="linenumber">28</span>)
+ </h4> 
+<h4><i>BaiduPCS</i> <strong>__construct(
+string
+$accessToken)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>初始化accessToken</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $accessToken</strong>: </li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodaddOfflineDownloadTask" id="methodaddOfflineDownloadTask"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method addOfflineDownloadTask</strong> (line <span class="linenumber">377</span>)
+ </h4> 
+<h4><i>string</i> <strong>addOfflineDownloadTask(
+string
+$savePath, string
+$sourceUrl, [int
+$rateLimit = ''], [int
+$timeout = 3600], [string
+$callback = ''], [int
+$expires = ''])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>添加离线下载任务</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $savePath</strong>: 离线下载数据在PCS中存放的路径</li>
+			<li><strong>string $sourceUrl</strong>: 要下载数据的URL</li>
+			<li><strong>int $rateLimit</strong>: 下载速度， byte/s</li>
+			<li><strong>int $timeout</strong>: 下载的超时时间</li>
+			<li><strong>string $callback</strong>: 回调URL，回调过程不处理302跳转</li>
+			<li><strong>int $expires</strong>: 请求失效时间</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodcancelOfflineDownloadTask" id="methodcancelOfflineDownloadTask"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method cancelOfflineDownloadTask</strong> (line <span class="linenumber">420</span>)
+ </h4> 
+<h4><i>string</i> <strong>cancelOfflineDownloadTask(
+int
+$taskId, [int
+$expires = ''])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>取消离线下载任务</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>int $taskId</strong>: 要取消的任务Id</li>
+			<li><strong>int $expires</strong>: 请求失效时间</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodcloudMatch" id="methodcloudMatch"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method cloudMatch</strong> (line <span class="linenumber">362</span>)
+ </h4> 
+<h4><i>string</i> <strong>cloudMatch(
+string
+$path, int
+$contentLength, string
+$contentMd5, string
+$sliceMd5, string
+$contentCrc32)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>秒传一个文件</h5>
+<div class="desc"><p>注意事项： <ol><li>被秒传文件必须大于256KB（即 256*1024 B）</li><li>校验段为文件的前256KB，秒传接口需要提供待秒传文件CRC32，校验段的MD5</li></ol></p></div>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: </li>
+			<li><strong>int $contentLength</strong>: </li>
+			<li><strong>string $contentMd5</strong>: </li>
+			<li><strong>string $sliceMd5</strong>: </li>
+			<li><strong>string $contentCrc32</strong>: </li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodcopyBatch" id="methodcopyBatch"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method copyBatch</strong> (line <span class="linenumber">242</span>)
+ </h4> 
+<h4><i>string</i> <strong>copyBatch(
+array
+$from, array
+$to)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>批量拷贝文件/目录</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>array $from</strong>: 源路径数组</li>
+			<li><strong>array $to</strong>: 目标路径数组</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodcopySingle" id="methodcopySingle"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method copySingle</strong> (line <span class="linenumber">231</span>)
+ </h4> 
+<h4><i>string</i> <strong>copySingle(
+string
+$from, string
+$to)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>拷贝单个文件/目录</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $from</strong>: 源路径</li>
+			<li><strong>string $to</strong>: 目标路径</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodcreateSuperFile" id="methodcreateSuperFile"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method createSuperFile</strong> (line <span class="linenumber">133</span>)
+ </h4> 
+<h4><i>string</i> <strong>createSuperFile(
+string
+$targetPath, string
+$fileName, array
+$params, [string
+$newFileName = null])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>合并分片上传的文件块</h5>
+<div class="desc"><p>注意：如果本地已有分片的文件块，可以调用upload接口按顺序上传之后，  再调用createSuperFile接口将各文件块合并成文件。（此方法一般适用于超大文件，&gt;2G）</p></div>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $targetPath</strong>: 上传文件的目标保存路径</li>
+			<li><strong>string $fileName</strong>: 文件名</li>
+			<li><strong>array $params</strong>: 分片文件md5值数组</li>
+			<li><strong>string $newFileName</strong>: 新文件名</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methoddeleteBatch" id="methoddeleteBatch"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method deleteBatch</strong> (line <span class="linenumber">269</span>)
+ </h4> 
+<h4><i>string</i> <strong>deleteBatch(
+array
+$paths)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>批量删除文件/目录</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>array $paths</strong>: 文件路径数组</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methoddeleteSingle" id="methoddeleteSingle"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method deleteSingle</strong> (line <span class="linenumber">259</span>)
+ </h4> 
+<h4><i>string</i> <strong>deleteSingle(
+string
+$path)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>删除单个文件/目录</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 文件路径</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methoddiff" id="methoddiff"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method diff</strong> (line <span class="linenumber">311</span>)
+ </h4> 
+<h4><i>string</i> <strong>diff(
+string
+$cursor)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>文件增量更新操作查询</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $cursor</strong>: 用于标记更新断点。首次调用cursor=null；非首次调用，使用最后一次调用diff接口的返回结果中的cursor</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methoddownload" id="methoddownload"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method download</strong> (line <span class="linenumber">143</span>)
+ </h4> 
+<h4><i>文件内容</i> <strong>download(
+string
+$path)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>下载文件</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 文件路径</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methoddownloadStream" id="methoddownloadStream"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method downloadStream</strong> (line <span class="linenumber">321</span>)
+ </h4> 
+<h4><i>文件内容</i> <strong>downloadStream(
+string
+$path)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>为当前用户下载一个流式文件</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: </li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodgetAccessToken" id="methodgetAccessToken"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method getAccessToken</strong> (line <span class="linenumber">46</span>)
+ </h4> 
+<h4><i>string</i> <strong>getAccessToken(
+)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>获取accessToken</h5>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodgetBatchMeta" id="methodgetBatchMeta"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method getBatchMeta</strong> (line <span class="linenumber">173</span>)
+ </h4> 
+<h4><i>string</i> <strong>getBatchMeta(
+array
+$paths)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>批量获取文件/目录meta信息</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>array $paths</strong>: 文件路径数组</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodgetMeta" id="methodgetMeta"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method getMeta</strong> (line <span class="linenumber">163</span>)
+ </h4> 
+<h4><i>string</i> <strong>getMeta(
+string
+$path)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>获取单个文件/目录meta信息</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 文件路径</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodgetQuota" id="methodgetQuota"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method getQuota</strong> (line <span class="linenumber">90</span>)
+ </h4> 
+<h4><i>string</i> <strong>getQuota(
+)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>获取当前用户空间配额信息</h5>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodlistFiles" id="methodlistFiles"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method listFiles</strong> (line <span class="linenumber">192</span>)
+ </h4> 
+<h4><i>string</i> <strong>listFiles(
+string
+$path, [string
+$by = 'name'], [string
+$order = 'asc'], [string
+$limit = '0-9'])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>获取指定文件夹下的文件列表</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 文件路径</li>
+			<li><strong>string $by</strong>: 排序字段，缺省根据文件类型排序，time（修改时间），name（文件名），size（大小，注意目录无大小）</li>
+			<li><strong>string $order</strong>: asc或desc，缺省采用降序排序</li>
+			<li><strong>string $limit</strong>: 返回条目控制，参数格式为：n1-n2。返回结果集的[n1, n2)之间的条目，缺省返回所有条目。n1从0开始。</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodlistOfflineDownloadTask" id="methodlistOfflineDownloadTask"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method listOfflineDownloadTask</strong> (line <span class="linenumber">407</span>)
+ </h4> 
+<h4><i>string</i> <strong>listOfflineDownloadTask(
+[int
+$start = 0], [int
+$limit = 10], [int
+$asc = 0], [string
+$sourceURL = ''], [string
+$savePath = ''], [string
+$createTime = ''], [int
+$status = 1], [int
+$needTaskInfo = 1], [int
+$expires = ''])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>查询离线下载任务列表</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>int $start</strong>: 起始位置</li>
+			<li><strong>int $limit</strong>: 返回多少个</li>
+			<li><strong>int $asc</strong>: 按开始时间升序 or 降序</li>
+			<li><strong>string $sourceURL</strong>: 目标地址URL</li>
+			<li><strong>string $savePath</strong>: 存放路径</li>
+			<li><strong>string $createTime</strong>: STARTTIMESTMAP, ENDTIMESTAMP, 如果不限制下限可写成&quot;NULL, 1235&quot;, 不限制上线，可写成'1234,NULL'</li>
+			<li><strong>int $status</strong>: 任务状态过滤</li>
+			<li><strong>int $needTaskInfo</strong>: 是否需要返回任务信息</li>
+			<li><strong>int $expires</strong>: 请求失效时间</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodlistStream" id="methodlistStream"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method listStream</strong> (line <span class="linenumber">334</span>)
+ </h4> 
+<h4><i>string</i> <strong>listStream(
+string
+$type, [string
+$start = 0], [string
+$limit = '1000'], [string
+$filterPath = ''])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>获取应用目录下所有流式文件列表</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $type</strong>: 取值为video，audio，image，doc四种</li>
+			<li><strong>string $start</strong>: </li>
+			<li><strong>string $limit</strong>: </li>
+			<li><strong>string $filterPath</strong>: </li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodmakeDirectory" id="methodmakeDirectory"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method makeDirectory</strong> (line <span class="linenumber">153</span>)
+ </h4> 
+<h4><i>string</i> <strong>makeDirectory(
+string
+$path)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>创建文件夹</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 文件路径</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodmoveBatch" id="methodmoveBatch"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method moveBatch</strong> (line <span class="linenumber">214</span>)
+ </h4> 
+<h4><i>string</i> <strong>moveBatch(
+array
+$from, array
+$to)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>批量移动文件/目录</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>array $from</strong>: 源路径数组</li>
+			<li><strong>array $to</strong>: 目标路径数组</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodmoveSingle" id="methodmoveSingle"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method moveSingle</strong> (line <span class="linenumber">203</span>)
+ </h4> 
+<h4><i>string</i> <strong>moveSingle(
+string
+$from, string
+$to)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>移动单个文件/目录</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $from</strong>: 源路径</li>
+			<li><strong>string $to</strong>: 目标路径</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodqueryOfflineDownloadTask" id="methodqueryOfflineDownloadTask"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method queryOfflineDownloadTask</strong> (line <span class="linenumber">389</span>)
+ </h4> 
+<h4><i>string</i> <strong>queryOfflineDownloadTask(
+string
+$taskIds, [int
+$opType = 1], [int
+$expires = ''])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>精确查询离线下载任务</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $taskIds</strong>: 要查询的task_id列表，如：'1,2,3,4'</li>
+			<li><strong>int $expires</strong>: 请求失效时间</li>
+			<li><strong>int $opType</strong>: 0：查任务信息，1：查进度信息</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodsearch" id="methodsearch"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method search</strong> (line <span class="linenumber">288</span>)
+ </h4> 
+<h4><i>string</i> <strong>search(
+string
+$path, string
+$wd, [int
+$re = 1])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>按文件名搜索文件</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 文件路径</li>
+			<li><strong>string $wd</strong>: 搜索关键字</li>
+			<li><strong>int $re</strong>: 是否递归</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodsetAccessToken" id="methodsetAccessToken"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method setAccessToken</strong> (line <span class="linenumber">37</span>)
+ </h4> 
+<h4><i><a href="../baidu-pcs/BaiduPCS.html">BaiduPCS</a></i> <strong>setAccessToken(
+
+$accessToken, string
+$_accessToken)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>设置accessToken</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $_accessToken</strong>: </li>
+			<li><strong> $accessToken</strong>: </li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodstreaming" id="methodstreaming"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method streaming</strong> (line <span class="linenumber">345</span>)
+ </h4> 
+<h4><i>文件播放列表URL</i> <strong>streaming(
+string
+$path, string
+$type)</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>为当前用户进行视频转码并实现在线实时观看</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 格式必须为m3u8,m3u,asf,avi,flv,gif,mkv,mov,mp4,m4a,3gp,3g2,mj2,mpeg,ts,rm,rmvb,webm</li>
+			<li><strong>string $type</strong>: M3U8_320_240、M3U8_480_224、M3U8_480_360、M3U8_640_480和M3U8_854_480</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodthumbnail" id="methodthumbnail"><!-- --></a>
+<div style="background='#ffffff'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method thumbnail</strong> (line <span class="linenumber">301</span>)
+ </h4> 
+<h4><i>文件内容</i> <strong>thumbnail(
+string
+$path, int
+$width, int
+$height, [int32
+$quality = 100])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>生成缩略图</h5>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $path</strong>: 图片路径</li>
+			<li><strong>int $width</strong>: </li>
+			<li><strong>int $height</strong>: </li>
+			<li><strong>int32 $quality</strong>: </li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<a name="methodupload" id="methodupload"><!-- --></a>
+<div style="background='#eeeeee'"><h4>
+<img src="../media/images/PublicMethod.gif" border="0" /> <strong class="method">Method upload</strong> (line <span class="linenumber">105</span>)
+ </h4> 
+<h4><i>string</i> <strong>upload(
+string
+$fileContent, string
+$targetPath, string
+$fileName, [string
+$newFileName = null], [boolean
+$isCreateSuperFile = FALSE])</strong></h4>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<h5>上传文件</h5>
+<div class="desc"><p>注意：此方法适用于上传不大于2G的单个文件。</p></div>
+		<h4>Parameters</h4>
+	<ul>
+			<li><strong>string $fileContent</strong>: 文件内容字符串</li>
+			<li><strong>string $targetPath</strong>: 上传文件的目标保存路径</li>
+			<li><strong>string $fileName</strong>: 文件名</li>
+			<li><strong>string $newFileName</strong>: 新文件名</li>
+			<li><strong>boolean $isCreateSuperFile</strong>: 是否分片上传</li>
+		</ul>
+		
+	<h4>Info</h4>
+	<ul>
+			<li><strong>access</strong> - public</li>
+		</ul>
+</div>
+<script type="text/javascript">tp1.addTabPage( document.getElementById( "tabPage2" ) );</script></div>
+<div class="tab-page" id="iVars">
+<h2 class="tab">Inherited Variables</h2>
+<script type="text/javascript">tp1.addTabPage( document.getElementById( "iVars" ) );</script>
+<!-- =========== VAR INHERITED SUMMARY =========== -->
+<A NAME='var_inherited_summary'><!-- --></A>
+<h3>Inherited Class Variable Summary</h3>
+
+	</div>
+<div class="tab-page" id="iMethods">
+<h2 class="tab">Inherited Methods</h2>
+<script type="text/javascript">tp1.addTabPage( document.getElementById( "iMethods" ) );</script>
+<!-- =========== INHERITED METHOD SUMMARY =========== -->
+<A NAME='functions_inherited'><!-- --></A>
+<h3>Inherited Method Summary</h3>
+
+	</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+setupAllTabs();
+
+//]]>
+</script>
+	<div id="credit">
+		<hr />
+		Documentation generated on Fri, 28 Dec 2012 10:17:18 +0000 by <a href="http://www.phpdoc.org" target="_blank">phpDocumentor 1.4.4</a>
+	</div>
+</body>
+</html>

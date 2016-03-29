@@ -1,0 +1,195 @@
+[ 2015-07-06T11:31:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022001s ]
+
+[ 2015-07-06T11:31:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-06T11:31:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+
+[ 2015-07-06T11:31:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2015-07-06T11:31:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+
+[ 2015-07-06T11:31:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-06T11:31:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-06T11:31:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2015-07-06T11:31:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+
+[ 2015-07-06T11:31:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-06T11:31:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+
+[ 2015-07-06T11:31:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-06T11:31:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-06T13:49:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022001s ]
+
+[ 2015-07-06T13:49:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-07-06T13:49:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `bz_article1970-01-01` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bz_article1970-01-01` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article1970-01-01` LIMIT 90,10   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-07-06T13:49:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+
+[ 2015-07-06T13:52:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [2] mysql_free_result(): supplied resource is not a valid MySQL result resource D:\wnmp\www\allinone\App\Home\Model\BaozouModel.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `bz_article2015-07-06` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bz_article2015-07-06` LIMIT 90,10   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-07-06T13:52:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+

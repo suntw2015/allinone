@@ -1,0 +1,634 @@
+[ 2015-08-03T09:37:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.073450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028346s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007915s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.116877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016873s ]
+
+[ 2015-08-03T09:37:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005909s ]
+
+[ 2015-08-03T10:00:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007881s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007488s ]
+
+[ 2015-08-03T10:00:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006014s ]
+
+[ 2015-08-03T10:00:20+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000939s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007619s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0740s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0011s ]
+ERR: Think\Model:sql方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-08-03T10:00:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000870s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007909s ]
+
+[ 2015-08-03T10:00:27+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008852s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0011s ]
+ERR: Think\Model:sql方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Common\functions.php:102) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-08-03T10:00:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000814s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006136s ]
+
+[ 2015-08-03T10:04:06+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000816s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009277s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0012s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(0,10)' at line 1
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:169) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:169) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-08-03T10:04:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000810s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006082s ]
+
+[ 2015-08-03T10:05:10+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000900s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007527s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2015-08-03T10:05:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006066s ]
+
+[ 2015-08-03T10:07:10+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000928s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008266s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2015-08-03T10:07:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006300s ]
+
+[ 2015-08-03T10:08:48+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000926s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007869s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0012s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(0,10)' at line 1
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:169) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\wnmp\www\allinone\ThinkPHP\Library\Think\Db\Driver.class.php:169) E:\wnmp\www\allinone\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2015-08-03T10:08:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000784s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006091s ]
+
+[ 2015-08-03T10:09:15+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008083s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0021s ]
+SQL: select * from ttpod_song where song_name regexp '[虹之间]{0,9}' limit 0,10 [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0511s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 742054  [ RunTime:0.0270s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0709s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 742054  [ RunTime:0.0178s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 332096  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 332096  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 3391903  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 3391903  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 27917073  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 27917073  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 9610232  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 9610232  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 271045  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 271045  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 9610202  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 9610202  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 431469  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 431469  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1720090  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1720090  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 397728  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 397728  [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007939s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.436993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.441675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010567s ]
+
+[ 2015-08-03T10:09:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000770s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005893s ]
+
+[ 2015-08-03T10:09:34+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000942s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007714s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0024s ]
+SQL: select * from ttpod_song where song_name regexp '[虹之间]{1,9}' limit 0,10 [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 742054  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0772s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 742054  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 332096  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 332096  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 3391903  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 3391903  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 27917073  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 27917073  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 9610232  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 9610232  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 271045  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 271045  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 9610202  [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 9610202  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 431469  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 431469  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1720090  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1720090  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 397728  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 397728  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003261s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008375s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.383771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.388638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008703s ]
+
+[ 2015-08-03T10:09:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000824s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006905s ]
+
+[ 2015-08-03T10:09:44+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000770s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007713s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0027s ]
+SQL: select * from ttpod_song where song_name regexp '[虹之间]{1,9}' limit 0,10 [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 742054  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 742054  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 332096  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 332096  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 3391903  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 3391903  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 27917073  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 27917073  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 9610232  [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 9610232  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 271045  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 271045  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 9610202  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 9610202  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 431469  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 431469  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1720090  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1720090  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 397728  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0487s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 397728  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007845s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.386010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.391194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008316s ]
+
+[ 2015-08-03T10:09:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000793s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006139s ]
+
+[ 2015-08-03T10:09:57+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000905s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007630s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0011s ]
+SQL: select * from ttpod_song where song_name regexp '[虹之间]{3,9}' limit 0,10 [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28817528  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28817528  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19559619  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19559619  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28368782  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28368782  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19555897  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19555897  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30336679  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30336679  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29463874  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29463874  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26126300  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26126300  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26861889  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26861889  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 22569232  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 22569232  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29731725  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29731725  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003615s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008419s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.399557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.404399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010369s ]
+
+[ 2015-08-03T10:09:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006216s ]
+
+[ 2015-08-03T10:11:55+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007717s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0048s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0017s ]
+SQL: select * from ttpod_song where song_name regexp '[虹之间]{9}' limit 0,10 [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0102s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28817528  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0053s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28817528  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19559619  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19559619  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28368782  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28368782  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19555897  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19555897  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30336679  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30336679  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29463874  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29463874  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26126300  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26126300  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26861889  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26861889  [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 22569232  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 22569232  [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29731725  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29731725  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007785s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.389424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.394096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002800s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010717s ]
+
+[ 2015-08-03T10:11:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006156s ]
+
+[ 2015-08-03T10:12:10+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000775s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010561s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0071s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0182s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0016s ]
+
+[ 2015-08-03T10:12:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000938s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006994s ]
+
+[ 2015-08-03T10:13:13+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000868s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008082s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2015-08-03T10:13:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006018s ]
+
+[ 2015-08-03T10:13:46+08:00 ] 127.0.0.1 /Home/Index/test?name=%E8%99%B9%E4%B9%8B%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000776s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013301s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0017s ]
+SQL: select * from ttpod_song where song_name regexp '[虹之间]{3}' limit 0,10 [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28817528  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28817528  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19559619  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19559619  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28368782  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28368782  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 19555897  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 19555897  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30336679  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30336679  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29463874  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29463874  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26126300  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26126300  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26861889  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26861889  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 22569232  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 22569232  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29731725  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29731725  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003364s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008232s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.382821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.387473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008005s ]
+
+[ 2015-08-03T10:13:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008180s ]
+

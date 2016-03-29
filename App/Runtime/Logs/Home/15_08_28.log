@@ -1,0 +1,2230 @@
+[ 2015-08-28T09:09:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000801s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008778s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0072s ]
+SQL: SHOW COLUMNS FROM `qn_file` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `qn_file` WHERE `mimetype` = 'image/jpeg' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `qn_file` WHERE `mimetype` = 'image/jpeg' ORDER BY createon desc LIMIT 0,10   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003669s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008698s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.183032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.187950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019698s ]
+
+[ 2015-08-28T09:09:35+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030329s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-28T09:09:35+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000814s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011625s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-28T09:09:36+08:00 ] 127.0.0.1 /fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001718s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011355s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Fonts
+
+[ 2015-08-28T09:09:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010026s ]
+
+[ 2015-08-28T09:09:40+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000892s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008875s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 参数错误或者未定义:keyword
+
+[ 2015-08-28T09:09:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006224s ]
+
+[ 2015-08-28T09:09:46+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008010s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T09:09:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006265s ]
+
+[ 2015-08-28T09:09:54+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009074s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T09:09:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006213s ]
+
+[ 2015-08-28T09:10:58+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000804s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010002s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T09:10:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001577s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011653s ]
+
+[ 2015-08-28T09:11:19+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000804s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008893s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T09:11:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005956s ]
+
+[ 2015-08-28T09:16:42+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010236s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: cDate D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 182 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009597s ]
+
+[ 2015-08-28T09:16:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000839s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006382s ]
+
+[ 2015-08-28T09:22:16+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001208s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009015s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: cDate D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 182 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010975s ]
+
+[ 2015-08-28T09:22:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006006s ]
+
+[ 2015-08-28T09:25:06+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008666s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T09:25:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+
+[ 2015-08-28T09:25:14+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007847s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: cDate D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 182 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008587s ]
+
+[ 2015-08-28T09:25:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000849s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006140s ]
+
+[ 2015-08-28T09:25:42+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001275s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009859s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: cDate D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 182 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008884s ]
+
+[ 2015-08-28T09:25:43+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006009s ]
+
+[ 2015-08-28T10:17:47+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000802s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008040s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: cDate D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 182 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012589s ]
+
+[ 2015-08-28T10:17:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000767s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006161s ]
+
+[ 2015-08-28T10:17:58+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000900s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008905s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: cDate D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 182 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009453s ]
+
+[ 2015-08-28T10:17:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006374s ]
+
+[ 2015-08-28T10:18:55+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000763s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007663s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015177s ]
+
+[ 2015-08-28T10:18:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000769s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006035s ]
+
+[ 2015-08-28T10:24:35+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%9C%E5%8D%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000918s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008574s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016498s ]
+
+[ 2015-08-28T10:24:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000764s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006049s ]
+
+[ 2015-08-28T11:42:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000850s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006549s ]
+
+[ 2015-08-28T11:42:42+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008705s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 参数错误或者未定义:keyword
+
+[ 2015-08-28T11:42:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006152s ]
+
+[ 2015-08-28T11:42:59+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007681s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 1 D:\wnmp\www\allinone\ThinkPHP\Library\Vendor\Http\CurlRequest.class.php 第 71 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 74 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003715s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009566s ]
+NOTIC: [8] Undefined variable: songs D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 39 行.
+NOTIC: [8] Undefined variable: songs D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 69 行.
+NOTIC: [8] Undefined variable: songs D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined variable: songs D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.470855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.480156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008189s ]
+
+[ 2015-08-28T11:42:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000930s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006327s ]
+
+[ 2015-08-28T11:47:51+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000916s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010588s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003340s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008184s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.560538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.567339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011423s ]
+
+[ 2015-08-28T11:47:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006201s ]
+
+[ 2015-08-28T11:48:08+08:00 ] 127.0.0.1 /Home/Index/test?keyword=see%20you%20again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008195s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003661s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008975s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.560362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.568549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008928s ]
+
+[ 2015-08-28T11:48:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001432s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010992s ]
+
+[ 2015-08-28T11:48:20+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001371s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010351s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003449s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008665s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.628377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.637787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010463s ]
+
+[ 2015-08-28T11:48:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006760s ]
+
+[ 2015-08-28T11:49:23+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008890s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009177s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.571414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.576888s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011605s ]
+
+[ 2015-08-28T11:49:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006850s ]
+
+[ 2015-08-28T11:49:56+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001213s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009013s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T11:49:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006468s ]
+
+[ 2015-08-28T11:50:37+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000989s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008152s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-28T11:50:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007020s ]
+
+[ 2015-08-28T11:50:52+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008120s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003368s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008158s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.548956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.554005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002988s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007653s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:850) D:\wnmp\www\allinone\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:850) D:\wnmp\www\allinone\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:850) D:\wnmp\www\allinone\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011907s ]
+
+[ 2015-08-28T11:50:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006427s ]
+
+[ 2015-08-28T11:51:49+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000932s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008468s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008211s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.593914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.600723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010274s ]
+
+[ 2015-08-28T11:51:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000913s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007162s ]
+
+[ 2015-08-28T11:52:11+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009070s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003738s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008621s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singername D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 71 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.574877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.583392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009459s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:850) D:\wnmp\www\allinone\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:850) D:\wnmp\www\allinone\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wnmp\www\allinone\ThinkPHP\Common\functions.php:850) D:\wnmp\www\allinone\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009964s ]
+
+[ 2015-08-28T11:52:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000811s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006314s ]
+
+[ 2015-08-28T11:52:39+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001516s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008264s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009498s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.547982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.554754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011254s ]
+
+[ 2015-08-28T11:52:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006146s ]
+
+[ 2015-08-28T11:57:56+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001986s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008866s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003519s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008499s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.541875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.547103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008792s ]
+
+[ 2015-08-28T11:57:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006771s ]
+
+[ 2015-08-28T12:01:07+08:00 ] 127.0.0.1 /Home/index/xiami
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000919s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007811s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004304s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009452s ]
+NOTIC: [8] Undefined variable: songs D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.156795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010116s ]
+
+[ 2015-08-28T12:01:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006078s ]
+
+[ 2015-08-28T12:03:40+08:00 ] 127.0.0.1 /Home/index/xiami
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008496s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 参数错误或者未定义:keyword
+
+[ 2015-08-28T12:03:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006511s ]
+
+[ 2015-08-28T12:04:00+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000802s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006950s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008056s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009812s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003791s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009327s ]
+
+[ 2015-08-28T12:04:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006277s ]
+
+[ 2015-08-28T12:05:46+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000999s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009524s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009503s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010241s ]
+
+[ 2015-08-28T12:05:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006867s ]
+
+[ 2015-08-28T12:10:14+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000867s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007979s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004239s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008888s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010208s ]
+
+[ 2015-08-28T12:10:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003963s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027506s ]
+
+[ 2015-08-28T12:16:02+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009086s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008777s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.152973s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009618s ]
+
+[ 2015-08-28T12:16:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000800s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006414s ]
+
+[ 2015-08-28T12:16:15+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001223s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010284s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003620s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009436s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012076s ]
+
+[ 2015-08-28T12:16:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000966s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007636s ]
+
+[ 2015-08-28T12:16:44+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000935s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008159s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003751s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008635s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.158696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011852s ]
+
+[ 2015-08-28T12:16:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000995s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007051s ]
+
+[ 2015-08-28T12:17:16+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001613s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007882s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005632s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010831s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.179442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.192221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011320s ]
+
+[ 2015-08-28T12:17:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007311s ]
+
+[ 2015-08-28T12:17:32+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009805s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003796s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.160717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.170373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003729s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013175s ]
+
+[ 2015-08-28T12:17:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006676s ]
+
+[ 2015-08-28T12:20:02+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000841s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008162s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003765s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013795s ]
+
+[ 2015-08-28T12:20:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000893s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009651s ]
+
+[ 2015-08-28T12:20:27+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000816s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008735s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004545s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011447s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.227758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.240361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015422s ]
+
+[ 2015-08-28T12:20:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006778s ]
+
+[ 2015-08-28T12:25:15+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010056s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003658s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009247s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.222863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.233367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011142s ]
+
+[ 2015-08-28T12:25:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006652s ]
+
+[ 2015-08-28T12:26:28+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000808s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007996s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011952s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.159636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.164692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014140s ]
+
+[ 2015-08-28T12:26:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000917s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007424s ]
+
+[ 2015-08-28T12:28:00+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009998s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003344s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008303s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010223s ]
+
+[ 2015-08-28T12:28:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000866s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007220s ]
+
+[ 2015-08-28T13:29:54+08:00 ] 127.0.0.1 /Home/Index/test?keyword=%E5%A4%AA%E6%9E%81%E5%AE%97%E5%B8%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000808s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009081s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003588s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008250s ]
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 41 行.
+NOTIC: [8] Undefined index: audiolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 43 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 47 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: song_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: singer_name D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 77 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: videolist D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 94 行.
+NOTIC: [8] Undefined index: count D:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.501538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.510246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002827s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007740s ]
+
+[ 2015-08-28T13:29:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000909s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006453s ]
+
+[ 2015-08-28T13:37:52+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%A4%AA%E6%9E%81%E5%AE%97%E5%B8%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000848s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007903s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003348s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008857s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011412s ]
+
+[ 2015-08-28T13:37:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006394s ]
+
+[ 2015-08-28T13:45:34+08:00 ] 127.0.0.1 /Sync/Notify/add?secret=wkz06ba2719350a6fb&ation=INN_DETAIL&innid=38&innfrom=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000875s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009097s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_3qq3f8mt2d3ha1j1agk1juofl7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Sync
+
+[ 2015-08-28T14:00:26+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%A4%AA%E6%9E%81%E5%AE%97%E5%B8%88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001557s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008199s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009565s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.186353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.195941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010229s ]
+
+[ 2015-08-28T14:00:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000889s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007151s ]
+
+[ 2015-08-28T14:00:34+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007945s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003485s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008524s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003058s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009993s ]
+
+[ 2015-08-28T14:00:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006413s ]
+
+[ 2015-08-28T14:16:45+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008572s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wnmp\www\allinone\ThinkPHP\Library\Think\Template.class.php 第 527 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.006097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012898s ]
+
+[ 2015-08-28T14:16:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008756s ]
+
+[ 2015-08-28T14:17:13+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013610s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004666s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012072s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.225454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.235217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019104s ]
+
+[ 2015-08-28T14:17:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009783s ]
+
+[ 2015-08-28T14:18:07+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001555s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012244s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004622s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010102s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.146712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.151598s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011698s ]
+
+[ 2015-08-28T14:18:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000886s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006827s ]
+
+[ 2015-08-28T14:18:53+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001002s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008217s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003424s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009054s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155496s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014178s ]
+
+[ 2015-08-28T14:18:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006111s ]
+
+[ 2015-08-28T14:19:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007352s ]
+
+[ 2015-08-28T14:25:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007059s ]
+
+[ 2015-08-28T14:27:04+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001614s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011443s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.008058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015480s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.201622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.210405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.030728s ]
+
+[ 2015-08-28T14:27:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000812s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006247s ]
+
+[ 2015-08-28T14:31:18+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009952s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003491s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008466s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.158618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.165594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014567s ]
+
+[ 2015-08-28T14:31:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000869s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007318s ]
+
+[ 2015-08-28T14:32:56+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000878s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008124s ]
+
+[ 2015-08-28T14:36:26+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001699s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019520s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005585s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011896s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.197163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.203374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021264s ]
+
+[ 2015-08-28T14:36:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001979s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022502s ]
+
+[ 2015-08-28T14:37:07+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001751s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012434s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009544s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.164155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.170359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013957s ]
+
+[ 2015-08-28T14:37:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009986s ]
+
+[ 2015-08-28T14:38:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006949s ]
+
+[ 2015-08-28T14:38:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000832s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006876s ]
+
+[ 2015-08-28T14:38:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000910s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009493s ]
+
+[ 2015-08-28T14:39:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007545s ]
+
+[ 2015-08-28T14:39:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000868s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007561s ]
+
+[ 2015-08-28T14:40:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006967s ]
+
+[ 2015-08-28T17:37:13+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=beyond
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000802s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009206s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003293s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008389s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.200990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016579s ]
+
+[ 2015-08-28T17:37:13+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000791s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+
+[ 2015-08-28T18:00:31+08:00 ] 127.0.0.1 /Home/index/xiami?keyword=%E5%88%98%E5%BE%B7%E5%8D%8E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000914s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010149s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_kmahv8410ql9k4kvfrg78g3nt7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004469s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009520s ]
+NOTIC: [8] Undefined variable: audio D:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 166 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010194s ]
+
+[ 2015-08-28T18:00:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006903s ]
+

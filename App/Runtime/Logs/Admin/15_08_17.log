@@ -1,0 +1,633 @@
+[ 2015-08-17T10:11:18+08:00 ] 127.0.0.1 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000931s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.031095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036167s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.025984s ]
+
+[ 2015-08-17T13:36:43+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008493s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007553s ]
+
+[ 2015-08-17T13:37:17+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000834s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007839s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003606s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.172743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.177413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.024310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.029178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008667s ]
+
+[ 2015-08-17T13:39:14+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000955s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007681s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003403s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008366s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007665s ]
+
+[ 2015-08-17T13:39:47+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000804s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011072s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003266s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009090s ]
+
+[ 2015-08-17T13:40:19+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000930s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007550s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003643s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009030s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007547s ]
+
+[ 2015-08-17T13:40:58+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007531s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007944s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009216s ]
+
+[ 2015-08-17T13:41:35+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009158s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003791s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008640s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008107s ]
+
+[ 2015-08-17T13:42:22+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010026s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003997s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008774s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008759s ]
+
+[ 2015-08-17T13:42:49+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008021s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068585s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007533s ]
+
+[ 2015-08-17T13:43:11+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000808s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008003s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003432s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008828s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007552s ]
+
+[ 2015-08-17T13:43:36+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000874s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007816s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007905s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002803s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007754s ]
+
+[ 2015-08-17T13:43:53+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010407s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003258s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012116s ]
+
+[ 2015-08-17T13:49:19+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008705s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007824s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008657s ]
+
+[ 2015-08-17T13:51:03+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000859s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007590s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003261s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072209s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007718s ]
+
+[ 2015-08-17T13:52:10+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008894s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003578s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008508s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003994s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009801s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008780s ]
+
+[ 2015-08-17T13:52:31+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009606s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007827s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009781s ]
+
+[ 2015-08-17T13:54:44+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001303s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007831s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007835s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007835s ]
+
+[ 2015-08-17T13:57:40+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007620s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003423s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008390s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008643s ]
+
+[ 2015-08-17T13:58:00+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007537s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007841s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007630s ]
+
+[ 2015-08-17T13:58:45+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000876s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007454s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007851s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007578s ]
+
+[ 2015-08-17T14:02:18+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001373s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011140s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004817s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009661s ]
+
+[ 2015-08-17T15:46:26+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000816s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007615s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004217s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009754s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008060s ]
+
+[ 2015-08-17T15:47:37+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017444s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008450s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009094s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009979s ]
+
+[ 2015-08-17T15:47:50+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000818s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009301s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008871s ]
+
+[ 2015-08-17T15:49:27+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007790s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003319s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002923s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009154s ]
+
+[ 2015-08-17T15:49:54+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011262s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010940s ]
+
+[ 2015-08-17T16:04:43+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000974s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008179s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010458s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008599s ]
+
+[ 2015-08-17T16:05:33+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000799s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009140s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003519s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009176s ]
+
+[ 2015-08-17T16:05:35+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000801s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008007s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003536s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008792s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007814s ]
+
+[ 2015-08-17T16:09:40+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000800s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007921s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_hnp5gkj75e7cp3a2efikpe8e44, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003372s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008329s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008089s ]
+

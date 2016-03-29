@@ -1,0 +1,408 @@
+[ 2015-08-06T10:01:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007759s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.105167s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017401s ]
+
+[ 2015-08-06T10:01:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008416s ]
+
+[ 2015-08-06T13:05:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007705s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003377s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008353s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007455s ]
+
+[ 2015-08-06T13:05:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000811s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006466s ]
+
+[ 2015-08-06T13:05:33+08:00 ] 127.0.0.1 /Home/Index/test?name=%E5%8D%9C%E5%8D%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000877s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008486s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.2229s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0023s ]
+SQL: select * from ttpod_song where song_name regexp '[卜卦]{2}' limit 0,10 [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.2075s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1316294  [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1316294  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1861357  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1861357  [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 22624290  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 22624290  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28384612  [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28384612  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30100474  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30100474  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28661052  [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28661052  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 10649264  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 10649264  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28384615  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28384615  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 29899419  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 29899419  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30125790  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30125790  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004250s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009120s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.440468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.445433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011675s ]
+
+[ 2015-08-06T13:05:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000863s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006308s ]
+
+[ 2015-08-06T13:06:28+08:00 ] 127.0.0.1 /Home/Index/test?name=%E5%8F%AA%E6%84%BF%E4%B8%BA%E4%BD%A0%E6%B4%BB%E4%B8%80%E7%94%9F
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000945s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007587s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0021s ]
+SQL: select * from ttpod_song where song_name regexp '[只愿为你活一生]{7}' limit 0,10 [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 2575602  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('2575602','145','654481','只要为你活一天 (Live)','谢霆锋','无形的他全精选') [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0086s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2575602','只要为你活一天 (Live)','谢霆锋','05:41','m4a','32','压缩品质','http://om32.alicdn.com/1/17/1017/5055/61241_222104_l.m4a?auth_key=708a3fd8199859f18f39417e12832bc6-1438905600-0-null','1.34M','1') [ RunTime:0.0051s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2575602','只要为你活一天 (Live)','谢霆锋','05:41','mp3','128','标准品质','http://m5.file.xiami.com/1/17/1017/5055/61241_222104_l.mp3?auth_key=07c98a8c53cf9718bf970132b7ae8a82-1438905600-0-null','5.20M','2') [ RunTime:0.0045s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('2575602','只要为你活一天 (Live)','谢霆锋','04:27','mp3','320','超高品质','http://nmo.ouj.yymommy.com/d68a1f11816bd9fd/1439269586/mp3_190_25/84/38/8443bcb52981229a097bdf774902fa38.mp3?s=t','10.22M','4') [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0048s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0074s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('2575602','只要为你活一天 (Live)','谢霆锋','mp4','500','标清画质','27.81M','29160507','http://mv.hotmusique.com/mv_1_1/57/08/57538595361111d78de0381508b3e408.mp4?k=3ef8ef7e213bb645&t=1439241675','05:25','325540','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_1/160_90/511/18626/130386.jpg','130386','0') [ RunTime:0.0092s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 27076749  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('27076749','145','106056','只要为你活一天','谢霆锋','无形的他全精选') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('27076749','只要为你活一天','谢霆锋','04:27','m4a','32','压缩品质','http://a.ali.dongting.com/8427ccae42a44849/1439269586/m4a_32_270/33/a6/33901fde4acd46457e099767118da6a6.m4a?s=t','1.05M','1') [ RunTime:0.0049s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('27076749','只要为你活一天','谢霆锋','04:27','mp3','128','标准品质','http://nmo.ouj.yymommy.com/8427ccae42a44849/1439269586/mp3_128_270/33/a6/33901fde4acd46457e099767118da6a6.mp3?s=t','4.09M','2') [ RunTime:0.0042s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('27076749','只要为你活一天','谢霆锋','04:27','mp3','320','超高品质','http://nmo.ouj.yymommy.com/4d3bda917acacbeb/1439269586/mp3_190_270/03/de/038dbde24892e4720ffde600575482de.mp3?s=t','10.22M','3') [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0077s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('27076749','只要为你活一天','谢霆锋','mp4','500','标清画质','17.21M','18046169','http://mv.hotmusique.com/mv_1_0/0d/29/0d457679e090c515969da882c72be129.mp4?k=7ece2288738eefcc&t=1439241668','04:13','253680','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_0/160_90/178/6506/45544.jpg','45544','0') [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 30326580  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('30326580','1768016','1192831','只要为你活一天','伍佰','电影歌曲典藏1992-2000') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0049s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30326580','只要为你活一天','伍佰','05:21','m4a','32','压缩品质','http://a.ali.dongting.com/16cd8fc104243460/1439269586/m4a_32_303/97/29/970213f154e9185874fe8fc88d8a9029.m4a?s=t','1.25M','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30326580','只要为你活一天','伍佰','05:21','mp3','128','标准品质','http://nmo.ouj.yymommy.com/16cd8fc104243460/1439269586/mp3_128_303/97/29/970213f154e9185874fe8fc88d8a9029.mp3?s=t','4.90M','2') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('30326580','只要为你活一天','伍佰','05:21','mp3','192','高品质','http://nmo.ouj.yymommy.com/bdb1cd866d70d173/1439269586/mp3_190_303/f0/d8/f07dbf9d9e63d3970f36473e107708d8.mp3?s=t','7.35M','3') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 26453632  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('26453632','4869','300987','只要为你活一天','黄圣依','功夫 电影原声带') [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0067s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26453632','只要为你活一天','黄圣依','02:14','m4a','32','压缩品质','http://om32.alicdn.com/800/90800/32771/391177_15983371_l.m4a?auth_key=b8160a86f21e4f646726f4ae224b1117-1438905600-0-null','0.53M','1') [ RunTime:0.0047s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26453632','只要为你活一天','黄圣依','02:14','mp3','128','标准品质','http://m5.file.xiami.com/800/90800/32771/391177_15983371_l.mp3?auth_key=7d8c04e82c68368ac8916f2b1162b864-1438905600-0-null','2.05M','2') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('26453632','只要为你活一天','黄圣依','02:14','mp3','320','超高品质','http://m6.file.xiami.com/800/90800/32771/391177_15983371_h.mp3?auth_key=2e69aabe9819c2161a820628724001b0-1438905600-0-null','5.13M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 858537  [ RunTime:0.0028s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('858537','5368','251477','只要为你活一天','韩宝仪','韩宝仪国语点歌集3') [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('858537','只要为你活一天','韩宝仪','03:33','m4a','32','压缩品质','http://om32.alicdn.com/589/1589/1978190839/1772161469_10717828_l.m4a?auth_key=d707edc2eb46cf58326551d0b79cfe36-1438905600-0-null','0.83M','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('858537','只要为你活一天','韩宝仪','03:33','mp3','128','标准品质','http://m5.file.xiami.com/589/1589/1978190839/1772161469_10717828_l.mp3?auth_key=7646bcf10457ced785c907fc18404862-1438905600-0-null','3.26M','2') [ RunTime:0.0042s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('858537','只要为你活一天','韩宝仪','03:33','mp3','320','超高品质','http://m6.file.xiami.com/589/1589/1978190839/1772161469_10717828_h.mp3?auth_key=1bfb7b42cac2853c8b57b04df9dfa445-1438905600-0-null','8.14M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0052s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('858537','只要为你活一天','韩宝仪','mp4','500','标清画质','14.31M','15007018','http://mv.hotmusique.com/mv_1_1/25/55/2539e4b19f8e88f587044bd5cb4f3c55.mp4?k=ac69f8e6df74d54e&t=1439241673','03:30','210020','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_1/160_90/435/15864/111050.jpg','111050','0') [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 28478129  [ RunTime:0.0020s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('28478129','1000318','0','只要为你活一天(功夫)','电影原声',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0052s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28478129','只要为你活一天(功夫)','电影原声','02:44','m4a','32','压缩品质','http://oen.cye.yymommy.com/f733210e1901f96a/1439269586/m4a_32_284/e6/e9/e61801c552f2bfc81bd8fb0b4b79ade9.m4a?s=t','0.65M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28478129','只要为你活一天(功夫)','电影原声','02:44','mp3','128','标准品质','http://b.ali.hotchanson.com/f733210e1901f96a/1439269586/mp3_128_284/e6/e9/e61801c552f2bfc81bd8fb0b4b79ade9.mp3?s=t','2.51M','2') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('28478129','只要为你活一天(功夫)','电影原声','02:44','mp3','192','高品质','http://b.ali.hotchanson.com/01f0f24117f40c16/1439269586/mp3_190_284/c4/f8/c467cf49588047523b02b408cc98b6f8.mp3?s=t','3.76M','3') [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 145552  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('145552','1766358','641528','只要为你活一天','张学友','雪狼湖 创意音乐剧国语版') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0083s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('145552','只要为你活一天','张学友','02:19','m4a','32','压缩品质','http://om32.alicdn.com/1/198/1198/6062/74161_174397_l.m4a?auth_key=80926624940fe0fa09dcdfacd645f682-1438905600-0-null','0.55M','2') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('145552','只要为你活一天','张学友','02:19','mp3','128','标准品质','http://m5.file.xiami.com/1/198/1198/6062/74161_174397_l.mp3?auth_key=685d721344b4841c002d53619d5c8694-1438905600-0-null','2.13M','4') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('145552','只要为你活一天','张学友','02:19','mp3','320','超高品质','http://b.ali.hotchanson.com/ad0b72ee03a06e1c/1439269586/mp3_190_1/2a/60/2a170bd991505227dbabd17a6a026360.mp3?s=t','5.32M','6') [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 449756  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('449756','3710','253924','只要为你活一天','尤雅','往事只能回味 刘家昌音乐会') [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0089s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('449756','只要为你活一天','尤雅','04:22','m4a','32','压缩品质','http://om32.alicdn.com/658/658/3061/37462_73012_l.m4a?auth_key=8d76b400d5c68ebb1f12c46b6d0d2814-1438905600-0-null','1.03M','1') [ RunTime:0.0038s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('449756','只要为你活一天','尤雅','04:22','mp3','128','标准品质','http://m5.file.xiami.com/658/658/3061/37462_73012_l.mp3?auth_key=7fd3480cbfcff4cf6c380c70716af25a-1438905600-0-null','4.00M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('449756','只要为你活一天','尤雅','02:55','mp3','320','超高品质','http://b.ali.hotchanson.com/0befd71de01229d8/1439269586/mp3_190_4/47/42/47e28b555107a1e4ad898fbff809cd42.mp3?s=t','6.68M','4') [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0101s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('449756','只要为你活一天','尤雅','mp4','500','标清画质','12.31M','12911144','http://mv.hotmusique.com/mv_1_0/fd/61/fddacf790f5fc82b7e25a18eee885561.mp4?k=e7c682aff356f8a4&t=1439241669','03:02','182580','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_0/160_90/224/8179/57254.jpg','57254','0') [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 118343  [ RunTime:0.0028s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('118343','5395','929598','只要为你活一天','蔡幸娟','绝版情歌 真情') [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('118343','只要为你活一天','蔡幸娟','03:49','m4a','32','压缩品质','http://om32.alicdn.com/353/1353/7059/86823_64151_l.m4a?auth_key=aa9a21d1b542a9368e15bf9c5b9037d2-1438905600-0-null','0.90M','1') [ RunTime:0.0042s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('118343','只要为你活一天','蔡幸娟','03:49','mp3','128','标准品质','http://m5.file.xiami.com/353/1353/7059/86823_64151_l.mp3?auth_key=0e94a7203bc9831b1d879bb3a380b833-1438905600-0-null','3.50M','2') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('118343','只要为你活一天','蔡幸娟','03:49','mp3','320','超高品质','http://m6.file.xiami.com/353/1353/7059/86823_64151_h.mp3?auth_key=d6c2dbfca0d873a5da277cb7bf448964-1438905600-0-null','8.76M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0060s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('118343','只要为你活一天','蔡幸娟','mp4','500','标清画质','15.28M','16019583','http://mv.hotmusique.com/mv_1_0/e7/32/e73c56bcfe7027f7c852bd6db62f4432.mp4?k=c9d087795f34270b&t=1439241670','03:45','225050','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_0/160_90/259/9442/66094.jpg','66094','0') [ RunTime:0.0055s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1647667  [ RunTime:0.0018s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1647667','1770656','0','只要为你活一天','珊瑚',NULL) [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0090s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1647667','只要为你活一天','珊瑚','01:33','m4a','32','压缩品质','http://b.ali.hotchanson.com/a1368d90ad1e7395/1439269586/m4a_32_16/e1/66/e1b1d9b8a7954ce295095504dae44366.m4a?s=t','0.37M','1') [ RunTime:0.0047s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1647667','只要为你活一天','珊瑚','01:33','mp3','128','标准品质','http://oen.cye.yymommy.com/a1368d90ad1e7395/1439269586/mp3_128_16/e1/66/e1b1d9b8a7954ce295095504dae44366.mp3?s=t','1.43M','2') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1647667','只要为你活一天','珊瑚','01:33','mp3','192','高品质','http://b.ali.hotchanson.com/0c0367ccf780dcf1/1439269586/mp3_190_16/c3/8a/c36f0e8cc580c049d618ef844813ca8a.mp3?s=t','2.14M','3') [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 326133  [ RunTime:0.0021s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('326133','50402','701676','只要为你活一天','泳儿','Pieces Of V') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0064s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('326133','只要为你活一天','泳儿','02:32','m4a','32','压缩品质','http://om32.alicdn.com/400/2400/304638/3449037_371843_l.m4a?auth_key=0eb7f63321b119f4678396456f87b265-1438905600-0-null','0.60M','1') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('326133','只要为你活一天','泳儿','02:32','mp3','128','标准品质','http://m5.file.xiami.com/400/2400/304638/3449037_371843_l.mp3?auth_key=2753856da36191d3ffcbc11d19cef082-1438905600-0-null','2.32M','2') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('326133','只要为你活一天','泳儿','02:32','mp3','320','超高品质','http://b.ali.hotchanson.com/2e2ca39a2585b3e5/1439269586/mp3_190_3/95/b8/958da3bd818cf62f85f63a6abf23a7b8.mp3?s=t','5.81M','4') [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0079s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('326133','只要为你活一天','泳儿','mp4','500','标清画质','9.54M','10001041','http://mv.hotmusique.com/mv_1_0/d5/f6/d5ba50ee25bd99f5a0851c0871608ef6.mp4?k=2a64d9a142ead8e2&t=1439241672','02:19','139540','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_0/160_90/388/14161/99130.jpg','99130','0') [ RunTime:0.0049s ]
+NOTIC: [8] Undefined index: album_name E:\wnmp\www\allinone\App\Common\Common\function.php 第 45 行.
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 29586373  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('29586373','4869','0','只要为你活一天 (伴奏)','黄圣依',NULL) [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0050s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29586373','只要为你活一天 (伴奏)','黄圣依','02:44','m4a','32','压缩品质','http://b.ali.hotchanson.com/895ea80a3ebe181e/1439269586/m4a_32_295/af/66/afd41fc61351c03967adac4f2409b566.m4a?s=t','0.65M','1') [ RunTime:0.0038s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29586373','只要为你活一天 (伴奏)','黄圣依','02:44','mp3','128','标准品质','http://b.ali.hotchanson.com/895ea80a3ebe181e/1439269586/mp3_128_295/af/66/afd41fc61351c03967adac4f2409b566.mp3?s=t','2.51M','2') [ RunTime:0.0034s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('29586373','只要为你活一天 (伴奏)','黄圣依','02:44','mp3','320','超高品质','http://b.ali.hotchanson.com/4bd2663c81b60ec4/1439269586/mp3_190_295/cc/cf/cc6969e04f713f62fbd73e5e0a20f7cf.mp3?s=t','6.27M','3') [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 410109  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('410109','6774','923470','只要为你活一天','刘家昌','音乐教父 刘家昌 国语原声') [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0086s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('410109','只要为你活一天','刘家昌','03:02','m4a','32','压缩品质','http://om32.alicdn.com/658/658/3074/37732_3429651_l.m4a?auth_key=aa0db1c05fb62142e7d67c90285f60bd-1438905600-0-null','0.73M','1') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('410109','只要为你活一天','刘家昌','03:02','mp3','128','标准品质','http://m5.file.xiami.com/658/658/3074/37732_3429651_l.mp3?auth_key=a338d7bb3763f56b6a6cdfde97707e8f-1438905600-0-null','2.79M','2') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('410109','只要为你活一天','刘家昌','03:02','mp3','320','超高品质','http://m6.file.xiami.com/658/658/3074/37732_3429651_h.mp3?auth_key=ed1c44937622b6ddca7d04127b3a6f47-1438905600-0-null','6.97M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0056s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('410109','只要为你活一天','刘家昌','mp4','500','标清画质','18.47M','19371778','http://mv.hotmusique.com/mv_1_5/00/f3/00692e171fe3691d9d5a9893008c1ef3.mp4?k=bd03e6d0a628b8dc&t=1439241694','03:51','231250','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_5/160_90/2351/85654/599582.jpg','599582','0') [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 7008421  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('7008421','5299','762769','只要为你活一天','林玉英','往事只能回味') [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0067s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('7008421','只要为你活一天','林玉英','03:34','m4a','32','压缩品质','http://om32.alicdn.com/901/1901/528433/1771167668_3678353_l.m4a?auth_key=b35a311f3af02bf7399e9e7410884b96-1438905600-0-null','0.84M','1') [ RunTime:0.0045s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('7008421','只要为你活一天','林玉英','03:34','mp3','128','标准品质','http://m5.file.xiami.com/901/1901/528433/1771167668_3678353_l.mp3?auth_key=f4f7966ac8fcc9e047c3f226e13cbc07-1438905600-0-null','3.27M','2') [ RunTime:0.0037s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('7008421','只要为你活一天','林玉英','03:34','mp3','320','超高品质','http://m6.file.xiami.com/901/1901/528433/1771167668_3678353_h.mp3?auth_key=97ef0c7191422f7e74a4e152a0276de7-1438905600-0-null','8.16M','4') [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 191565  [ RunTime:0.0022s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('191565','4280','149683','只要为你活一天','李翊君','谁能禁止我的爱') [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0047s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('191565','只要为你活一天','李翊君','04:01','m4a','32','压缩品质','http://om32.alicdn.com/825/1825/10021/123683_43537_l.m4a?auth_key=2e7ded6ed5f521df1aec1b179025c3c3-1438905600-0-null','0.94M','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('191565','只要为你活一天','李翊君','04:01','mp3','128','标准品质','http://m5.file.xiami.com/825/1825/10021/123683_43537_l.mp3?auth_key=bcfa4e2527cf016d51cb2aebc7927dec-1438905600-0-null','3.69M','2') [ RunTime:0.0057s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('191565','只要为你活一天','李翊君','04:01','mp3','320','超高品质','http://m6.file.xiami.com/825/1825/10021/123683_43537_h.mp3?auth_key=38c20415a69cddb97202b8615fc67340-1438905600-0-null','9.22M','4') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 818244  [ RunTime:0.0013s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('818244','79904','179996','只要为你活一天','纯音乐','幻象音乐激赏4') [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0109s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('818244','只要为你活一天','纯音乐','03:11','m4a','32','压缩品质','http://om32.alicdn.com/169/7169/1180250167/1772217491_10845566_l.m4a?auth_key=e972fc58636359a02e0090d2124aa96f-1438905600-0-null','0.76M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('818244','只要为你活一天','纯音乐','03:11','mp3','128','标准品质','http://m5.file.xiami.com/169/7169/1180250167/1772217491_10845566_l.mp3?auth_key=499eaeb5449554445eea03546b332db4-1438905600-0-null','2.92M','2') [ RunTime:0.0044s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('818244','只要为你活一天','纯音乐','03:11','mp3','320','超高品质','http://m6.file.xiami.com/169/7169/1180250167/1772217491_10845566_h.mp3?auth_key=a66c250a254779c31fa9af8b9c873390-1438905600-0-null','7.30M','4') [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1272206  [ RunTime:0.0015s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1272206','5568','170064','只要为你活一天','叶瑷菱','点歌集2') [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0112s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1272206','只要为你活一天','叶瑷菱','02:39','m4a','32','压缩品质','http://om32.alicdn.com/373/2373/380771/1769516287_1482912_l.m4a?auth_key=b7eeefb644ca94538d521998c8996f87-1438905600-0-null','0.62M','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1272206','只要为你活一天','叶瑷菱','02:39','mp3','128','标准品质','http://m5.file.xiami.com/373/2373/380771/1769516287_1482912_l.mp3?auth_key=7f43dff5cd616a114d60ad26a23a604c-1438905600-0-null','2.44M','2') [ RunTime:0.0047s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1272206','只要为你活一天','叶瑷菱','02:39','mp3','320','超高品质','http://m6.file.xiami.com/373/2373/380771/1769516287_1482912_h.mp3?auth_key=8ba6adf19595d1c92b7fb90f3d43812b-1438905600-0-null','6.10M','4') [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 1523718  [ RunTime:0.0012s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('1523718','54111','688981','只要为你活一天','周星驰','顺流逆流') [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0065s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1523718','只要为你活一天','周星驰','05:21','m4a','32','压缩品质','http://om32.alicdn.com/1/978/978/4891/59248_335772_l.m4a?auth_key=8639bb68d46efeb9e358ccb1732c076a-1438905600-0-null','1.25M','1') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1523718','只要为你活一天','周星驰','05:21','mp3','128','标准品质','http://m5.file.xiami.com/1/978/978/4891/59248_335772_l.mp3?auth_key=b4903f3606dcdc359e012946e913352e-1438905600-0-null','4.90M','2') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('1523718','只要为你活一天','周星驰','05:21','mp3','192','高品质','http://om192.alicdn.com/1/978/978/4891/59248_335772_l.mp3?auth_key=b4903f3606dcdc359e012946e913352e-1438905600-0-null','7.35M','3') [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0431s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 25761069  [ RunTime:0.0038s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('25761069','145','713593','只要为你活一天(Live) - live ','谢霆锋','Reborn演唱会') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0062s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25761069','只要为你活一天(Live) - live ','谢霆锋','05:41','m4a','32','压缩品质','http://nie.dfe.yymommy.com/b20cb00cdeabedc5/1439269586/m4a_32_257/2c/84/2c657391bda16d70435035b4d4b22d84.m4a?s=t','1.34M','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('25761069','只要为你活一天(Live) - live ','谢霆锋','05:41','mp3','128','标准品质','http://a.ali.dongting.com/b20cb00cdeabedc5/1439269586/mp3_128_257/2c/84/2c657391bda16d70435035b4d4b22d84.mp3?s=t','5.21M','2') [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `ttpod_song` WHERE `song_id` = 135137  [ RunTime:0.0025s ]
+SQL: INSERT INTO `ttpod_song` (`song_id`,`singer_id`,`album_id`,`song_name`,`singer_name`,`album_name`) VALUES ('135137','133','98872','只要为你活一天','姜育恒','刘家昌之歌1-我家在那里') [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0052s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('135137','只要为你活一天','姜育恒','03:46','m4a','32','压缩品质','http://om32.alicdn.com/452/452/1945/36134_10861187_l.m4a?auth_key=2fd27335aec439928da88d5fa59ef408-1438905600-0-null','0.89M','1') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('135137','只要为你活一天','姜育恒','03:46','mp3','128','标准品质','http://m5.file.xiami.com/452/452/1945/36134_10861187_l.mp3?auth_key=8b35e87b3ba86ca455ea9163a61315f4-1438905600-0-null','3.46M','2') [ RunTime:0.0036s ]
+SQL: INSERT INTO `ttpod_audio` (`song_id`,`song_name`,`singer_name`,`duration`,`format`,`bitrate`,`type_description`,`url`,`size`,`type`) VALUES ('135137','只要为你活一天','姜育恒','03:46','mp3','320','超高品质','http://m6.file.xiami.com/452/452/1945/36134_10861187_h.mp3?auth_key=f1450c082f050289e867e21e5e0bcb9a-1438905600-0-null','8.64M','4') [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0074s ]
+SQL: INSERT INTO `ttpod_video` (`song_id`,`song_name`,`singer_name`,`format`,`bitrate`,`type_description`,`size`,`lsize`,`url`,`duration`,`duration_second`,`pic_url`,`video_id`,`type`) VALUES ('135137','只要为你活一天','姜育恒','mp4','500','标清画质','19.21M','20142482','http://mv.hotmusique.com/mv_1_1/87/fa/8782e3934cfb800ba0bee2c59a86b2fa.mp4?k=a6363db20fc2a671&t=1439241679','03:44','224440','http://3p.pic.ttdtweb.com/3p.ttpod.com/video/mv_pic/mv_pic_1/160_90/617/22506/157547.jpg','157547','0') [ RunTime:0.0055s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009534s ]
+NOTIC: [8] Undefined index: count E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.409550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.414494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007817s ]
+
+[ 2015-08-06T13:06:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000951s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008647s ]
+
+[ 2015-08-06T13:06:41+08:00 ] 127.0.0.1 /Home/Index/test?name=%E5%8F%AA%E6%84%BF%E4%B8%BA%E4%BD%A0%E6%B4%BB%E4%B8%80%E5%A4%A9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008608s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0073s ]
+SQL: SHOW COLUMNS FROM `ttpod_song` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ttpod_song` LIMIT 1   [ RunTime:0.0011s ]
+SQL: select * from ttpod_song where song_name regexp '[只愿为你活一天]{7}' limit 0,10 [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 2575602  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 2575602  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 27076749  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 27076749  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 30326580  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 30326580  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 26453632  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 26453632  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 858537  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 858537  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 28478129  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 28478129  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 145552  [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 145552  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 449756  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0284s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 449756  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 118343  [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 118343  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ttpod_audio` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `ttpod_audio` WHERE `song_id` = 1647667  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ttpod_video` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `ttpod_video` WHERE `song_id` = 1647667  [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003577s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009264s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' E:\wnmp\www\allinone\App\Runtime\Cache\Home\429fa56d681285da128e78fa9296864f.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.407170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.411987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011772s ]
+
+[ 2015-08-06T13:06:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006227s ]
+
+[ 2015-08-06T13:17:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006345s ]
+
+[ 2015-08-06T13:17:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006334s ]
+

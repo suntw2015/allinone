@@ -1,0 +1,182 @@
+[ 2015-07-28T18:24:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027437s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008192s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.158585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.163734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023637s ]
+
+[ 2015-07-28T18:24:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000873s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006211s ]
+
+[ 2015-07-28T18:24:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000813s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007777s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003318s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008097s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008719s ]
+
+[ 2015-07-28T18:24:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005996s ]
+
+[ 2015-07-28T18:25:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007696s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003294s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007955s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007855s ]
+
+[ 2015-07-28T18:25:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005976s ]
+
+[ 2015-07-28T18:25:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003302s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008133s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008159s ]
+
+[ 2015-07-28T18:25:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000786s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+
+[ 2015-07-28T18:26:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000909s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007983s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007894s ]
+
+[ 2015-07-28T18:26:19+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006125s ]
+
+[ 2015-07-28T18:52:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003297s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008334s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009387s ]
+
+[ 2015-07-28T18:52:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006166s ]
+
+[ 2015-07-28T18:52:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001289s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008955s ]
+NOTIC: [8] Undefined variable: songs E:\wnmp\www\allinone\App\Runtime\Cache\Home\79e4b8b8ab88a808592c8f40baad8e22.php 第 37 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009531s ]
+
+[ 2015-07-28T18:52:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006097s ]
+

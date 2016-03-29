@@ -1,0 +1,776 @@
+[ 2015-08-25T09:24:22+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000908s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015183s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:24:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000767s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005814s ]
+
+[ 2015-08-25T09:25:23+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000777s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007723s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.033239s ]
+
+[ 2015-08-25T09:25:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005998s ]
+
+[ 2015-08-25T09:26:51+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009171s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027087s ]
+
+[ 2015-08-25T09:26:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000786s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005837s ]
+
+[ 2015-08-25T09:27:31+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000786s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007872s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:27:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005864s ]
+
+[ 2015-08-25T09:29:27+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000842s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007731s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000795s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005919s ]
+
+[ 2015-08-25T09:29:31+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007982s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000836s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005924s ]
+
+[ 2015-08-25T09:29:32+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000774s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007665s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005926s ]
+
+[ 2015-08-25T09:29:33+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000949s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008427s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000792s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005883s ]
+
+[ 2015-08-25T09:29:34+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000783s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008503s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000816s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006068s ]
+
+[ 2015-08-25T09:29:34+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007447s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:35+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000763s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005850s ]
+
+[ 2015-08-25T09:29:49+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000772s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007278s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:49+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005829s ]
+
+[ 2015-08-25T09:29:50+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000796s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007594s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:29:50+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000784s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005792s ]
+
+[ 2015-08-25T09:31:02+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001703s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010859s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007609s ]
+
+[ 2015-08-25T09:31:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006086s ]
+
+[ 2015-08-25T09:32:15+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000812s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007561s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017566s ]
+
+[ 2015-08-25T09:32:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000858s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006860s ]
+
+[ 2015-08-25T09:38:27+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000840s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008386s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] preg_match(): Delimiter must not be alphanumeric or backslash D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008181s ]
+
+[ 2015-08-25T09:38:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001329s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011409s ]
+
+[ 2015-08-25T09:40:39+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000791s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008247s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007566s ]
+
+[ 2015-08-25T09:40:39+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000792s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005866s ]
+
+[ 2015-08-25T09:41:47+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000944s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007365s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023556s ]
+
+[ 2015-08-25T09:41:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000828s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005927s ]
+
+[ 2015-08-25T09:42:00+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000956s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007680s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008293s ]
+
+[ 2015-08-25T09:42:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000808s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006137s ]
+
+[ 2015-08-25T09:42:28+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007745s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008334s ]
+
+[ 2015-08-25T09:42:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000766s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005905s ]
+
+[ 2015-08-25T09:42:53+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008464s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010020s ]
+
+[ 2015-08-25T09:42:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005871s ]
+
+[ 2015-08-25T09:43:34+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009363s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_n7qun9qjhtdqn0k4fctirsun54, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009190s ]
+
+[ 2015-08-25T09:44:20+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000961s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007616s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T09:44:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000776s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005709s ]
+
+[ 2015-08-25T09:44:40+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009397s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant key - assumed 'key' D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 44 行.
+NOTIC: [4096] Object of class stdClass could not be converted to string D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.030662s ]
+
+[ 2015-08-25T09:44:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000801s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005905s ]
+
+[ 2015-08-25T09:45:08+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000851s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007697s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020895s ]
+
+[ 2015-08-25T09:45:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000764s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005854s ]
+
+[ 2015-08-25T09:45:21+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007203s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017569s ]
+
+[ 2015-08-25T09:45:22+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000802s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005843s ]
+
+[ 2015-08-25T09:47:32+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000885s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007973s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008732s ]
+
+[ 2015-08-25T09:47:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006009s ]
+
+[ 2015-08-25T09:48:11+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000960s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008179s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018696s ]
+
+[ 2015-08-25T09:48:11+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000773s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005835s ]
+
+[ 2015-08-25T09:59:34+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000811s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007412s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] Illegal string offset 'search_lyric' D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 28 行.
+NOTIC: [8] Uninitialized string offset: 0 D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007537s ]
+
+[ 2015-08-25T09:59:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005861s ]
+
+[ 2015-08-25T09:59:55+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008237s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] Illegal string offset 'search_lyric' D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 28 行.
+NOTIC: [8] Uninitialized string offset: 0 D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009192s ]
+
+[ 2015-08-25T09:59:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005759s ]
+
+[ 2015-08-25T10:01:12+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000812s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008388s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007493s ]
+
+[ 2015-08-25T10:01:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000764s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005969s ]
+
+[ 2015-08-25T10:01:37+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007803s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007284s ]
+
+[ 2015-08-25T10:01:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000789s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005948s ]
+
+[ 2015-08-25T10:02:01+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007318s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019421s ]
+
+[ 2015-08-25T10:02:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005872s ]
+
+[ 2015-08-25T10:02:24+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000768s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008279s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009937s ]
+
+[ 2015-08-25T10:02:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000807s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005841s ]
+
+[ 2015-08-25T10:03:20+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007581s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008060s ]
+
+[ 2015-08-25T10:03:20+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000829s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005949s ]
+
+[ 2015-08-25T10:04:01+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000825s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007689s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020475s ]
+
+[ 2015-08-25T10:04:01+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000804s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006073s ]
+
+[ 2015-08-25T11:02:42+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000909s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007520s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009581s ]
+
+[ 2015-08-25T11:02:42+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006622s ]
+
+[ 2015-08-25T11:06:31+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000952s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007953s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019554s ]
+
+[ 2015-08-25T11:06:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005913s ]
+
+[ 2015-08-25T11:10:30+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000889s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007427s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016640s ]
+
+[ 2015-08-25T11:10:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006023s ]
+
+[ 2015-08-25T11:11:04+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000973s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007679s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T11:11:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000947s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006789s ]
+
+[ 2015-08-25T11:11:51+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000771s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007687s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given D:\wnmp\www\allinone\ThinkPHP\Library\Vendor\Http\HttpRequest.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009467s ]
+
+[ 2015-08-25T11:11:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000833s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006207s ]
+
+[ 2015-08-25T11:12:33+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000837s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007511s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T11:12:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000840s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006027s ]
+
+[ 2015-08-25T11:12:51+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000873s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007938s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027754s ]
+
+[ 2015-08-25T11:12:51+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000820s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006264s ]
+
+[ 2015-08-25T11:13:05+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000852s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007545s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T11:13:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000778s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005906s ]
+
+[ 2015-08-25T11:14:21+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000790s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007408s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T11:14:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000808s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006204s ]
+
+[ 2015-08-25T11:15:15+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000912s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008537s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023867s ]
+
+[ 2015-08-25T11:15:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000859s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005995s ]
+
+[ 2015-08-25T11:15:57+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008560s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007663s ]
+
+[ 2015-08-25T11:15:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000809s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006105s ]
+
+[ 2015-08-25T11:16:41+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000962s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009392s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008025s ]
+
+[ 2015-08-25T11:16:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000815s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006713s ]
+
+[ 2015-08-25T11:17:04+08:00 ] 127.0.0.1 /Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000889s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008003s ]
+NOTIC: [2] session_start(): open(e:\tmp\sess_2cbt1ot5t1ie6004km035rrhn7, O_RDWR) failed: No such file or directory (2) D:\wnmp\www\allinone\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2015-08-25T11:17:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000797s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006210s ]
+
+[ 2015-08-25T19:09:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000945s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008199s ]
+

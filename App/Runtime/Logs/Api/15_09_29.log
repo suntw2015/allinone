@@ -1,0 +1,204 @@
+[ 2015-09-29T11:13:42+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=004avfVT4cer39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-29T11:13:42+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%A8%BB%E9%A6%99+(%E5%85%A8%E6%99%AF%E9%9F%B3%E6%95%88)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:13:51+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=004avfVT4cer39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:13:54+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%A8%BB%E9%A6%99+(Live)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-09-29T11:15:36+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000Jmdch2WrgXI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:15:37+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E5%AF%BC%E5%B8%88%E5%BC%80%E5%9C%BA%E6%9B%B2%EF%BC%88%E9%9D%92%E8%8A%B1%E7%93%B7%2B%E6%98%A5%E6%B3%A5%2B%E9%BB%98%2B%E4%B8%80%E8%B5%B7%E6%91%87%E6%91%86%EF%BC%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-09-29T11:15:40+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=004avfVT4cer39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-29T11:15:40+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%A8%BB%E9%A6%99+(%E5%85%A8%E6%99%AF%E9%9F%B3%E6%95%88)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-29T11:16:10+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002eFUFm2XYZ7z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:16:12+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E9%9D%92%E8%8A%B1%E7%93%B7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-09-29T11:16:15+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:16:16+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%BB%99%E6%88%91%E4%B8%80%E9%A6%96%E6%AD%8C%E7%9A%84%E6%97%B6%E9%97%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-09-29T11:16:22+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=002Neh8l0uciQZ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:16:23+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%A8%BB%E9%A6%99
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-09-29T11:17:51+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=004avfVT4cer39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:17:51+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%A8%BB%E9%A6%99+(Live)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
+[ 2015-09-29T11:17:54+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=004avfVT4cer39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-29T11:17:54+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E7%A8%BB%E9%A6%99+(%E5%85%A8%E6%99%AF%E9%9F%B3%E6%95%88)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-29T11:17:57+08:00 ] 127.0.0.1 /Api/QQMusic/albumpic/?albummid=000Jmdch2WrgXI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-29T11:18:04+08:00 ] 127.0.0.1 /Api/QQMusic/lyric/?songname=%E5%AF%BC%E5%B8%88%E5%BC%80%E5%9C%BA%E6%9B%B2%EF%BC%88%E9%9D%92%E8%8A%B1%E7%93%B7%2B%E6%98%A5%E6%B3%A5%2B%E9%BB%98%2B%E4%B8%80%E8%B5%B7%E6%91%87%E6%91%86%EF%BC%89
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+NOTIC: [2] htmlspecialchars_decode() expects parameter 2 to be long, string given D:\wnmp\www\allinone\App\Service\QQMusicService\QQMusicService.class.php 第 47 行.
+
