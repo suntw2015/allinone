@@ -4,16 +4,6 @@ return array(
     'MULTI_MODULE'          =>  true,
     'MODULE_ALLOW_LIST'    =>    array('Api','Home','Admin'),
 
-    //数据库配置信息
-    'DB_TYPE'   => 'mysql', // 数据库类型
-    'DB_HOST'   => '127.0.0.1', // 服务器地址
-    'DB_NAME'   => 'allinone', // 数据库名
-    'DB_USER'   => 'allinone', // 用户名
-    'DB_PWD'    => 'allinonepwd', // 密码
-    'DB_PORT'   => 3306, // 端口
-    'DB_PREFIX' => '', // 数据库表前缀
-    'DB_CHARSET'=>'utf8',
-
     "BAOZOU_ACCOUNT" => array(
         "client_id"         =>  "10230158",
         "user_id"           =>  "3722100",
@@ -142,6 +132,13 @@ return array(
 
     "WECHAT_MSGTPL" => array(
         "text" => "<xml><ToUserName><![CDATA[%s]]></ToUserName><FromUserName><![CDATA[%s]]></FromUserName><CreateTime>%s</CreateTime><MsgType><![CDATA[%s]]></MsgType><Content><![CDATA[%s]]></Content><FuncFlag>0</FuncFlag></xml>",
-    )
+    ),
+
+    "WEATHERSERVICE" => array(
+        "provence"  => "http://cdn.weather.hao.360.cn/sed_api_area_query.php?grade=province&_jsonp=s",
+        "city"      => "http://cdn.weather.hao.360.cn/sed_api_area_query.php?grade=city&_jsonp=s&code={code}",
+        "town"      => "http://cdn.weather.hao.360.cn/sed_api_area_query.php?grade=town&_jsonp=s&code={code}",
+        "weather"   => "http://cdn.weather.hao.360.cn/api_weather_info.php?app=hao360&_jsonp=s&code={code}",
+    ),
 
 );
