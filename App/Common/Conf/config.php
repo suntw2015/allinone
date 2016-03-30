@@ -2,7 +2,8 @@
 return array(
 	//'配置项'=>'配置值'
     'MULTI_MODULE'          =>  true,
-    'MODULE_ALLOW_LIST'    =>    array('Api','Home','Admin'),
+    'MODULE_ALLOW_LIST'     =>  array('Api','Home','Admin'),
+    'LOAD_EXT_CONFIG'       => 'db',
 
     "BAOZOU_ACCOUNT" => array(
         "client_id"         =>  "10230158",
