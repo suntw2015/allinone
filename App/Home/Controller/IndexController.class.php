@@ -179,4 +179,10 @@ $this->apiSuccess($res);
         $qqmusicService = new \Service\QQMusicService\QQMusicService();
         $this->apiSuccess($qqmusicService->info());
     }
+
+    public function testweather(){
+//        $weatherService = new \Service\WeatherService\WeatherService();
+//        $res = $weatherService->getWeather(101150301);
+//        echo json_encode($res);
+    }
 }
