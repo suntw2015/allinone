@@ -10,7 +10,7 @@ namespace Home\Model;
 use Think\Model;
 
 class SongModel extends \Lib\Model\AppModel{
-	protected $trueTableName = "ttpod_song";
+	protected $trueTableName = "songs";
 
 	public function getSongByName($name=""){
 		$conditions =array("song_name"=>$name);

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="chartdiv" style="height: 400px;width: 100%"></div>
+</body>
+
+<script src="__JS__/amcharts.js"></script>
+<script src="__JS__/serial.js"></script>
+<script src="__JS__/amstock.js"></script>
+
+<script type="text/javascript">
+
+    function generateChartData() {
+        var chartData = [];
+        var firstDate = new Date( 2012, 0, 1 );
+        firstDate.setDate( firstDate.getDate() - 1000 );
+        firstDate.setHours( 0, 0, 0, 0 );
+
+        for ( var i = 0; i < 1000; i++ ) {
+            var newDate = new Date( firstDate );
+            newDate.setHours( 0, i, 0, 0 );
+
+            var a = Math.round( Math.random() * ( 40 + i ) ) + 100 + i;
+            var b = Math.round( Math.random() * 100000000 );
+
+            chartData.push( {
+                date: newDate,
+                value: a,
+                volume: b
+            } );
+        }
+        return chartData;
+    }
+
+    var chartData = generateChartData();
+
+    var chart = AmCharts.makeChart( "chartdiv", {
+        "type": "stock",
+        "theme": "dark",
+
+        "categoryAxesSettings": {
+            "minPeriod": "mm"
+        },
+
+        "dataSets": [ {
+            "color": "#b0de09",
+            "fieldMappings": [ {
+                "fromField": "value",
+                "toField": "value"
+            }
+                , {
+                "fromField": "volume",
+                "toField": "volume"
+            }
+            ],
+
+            "dataProvider": chartData,
+            "categoryField": "date"
+        } ],
+
+        "panels": [ {
+            "showCategoryAxis": false,
+            "title": "Value",
+            "percentHeight": 50,
+
+            "stockGraphs": [ {
+                "id": "g1",
+                "valueField": "value",
+                "type": "smoothedLine",
+                "lineThickness": 2,
+                "bullet": "round"
+            } ],
+
+
+            "stockLegend": {
+                "valueTextRegular": " ",
+                "markerType": "none"
+            }
+        }
+            ,
+            {
+            "title": "Volume",
+            "percentHeight": 50,
+            "stockGraphs": [ {
+                "id":"g2",
+                "valueField": "volume",
+                "type": "column",
+//                "cornerRadiusTop": 2,
+                "fillAlphas": 1
+            } ],
+
+            "stockLegend": {
+                "valueTextRegular": " ",
+                "markerType": "none"
+            }
+        }
+        ],
+
+//        "chartScrollbarSettings": {
+//            "graph": "g1",
+//            "usePeriod": "10mm",
+//            "position": "top"
+//        },
+
+        "chartCursorSettings": {
+            "valueBalloonsEnabled": true,
+            "fullWidth":true,
+            "cursorAlpha":0.3,
+            "cursorColor":"#00c500"
+        },
+
+        "panelsSettings": {
+            "usePrefixes": true
+        },
+
+        "export": {
+            "enabled": true,
+            "position": "bottom-right"
+        }
+    } );
+</script>
+</html>

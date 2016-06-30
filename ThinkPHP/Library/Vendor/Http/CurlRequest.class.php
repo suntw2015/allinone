@@ -36,6 +36,10 @@ class CurlRequest{
             curl_setopt($ch, CURLOPT_USERAGENT, $extraOpts['ua']);
         }
 
+        if(isset($extraOpts['cookie'])){
+            curl_setopt($ch,CURLOPT_COOKIE,$extraOpts['cookie']);
+        }
+
         curl_setopt($ch, CURLOPT_POST, $HttpMethod==HttpMethod::POST?1:0);
         if($HttpMethod==HttpMethod::POST){
             curl_setopt($ch,CURLOPT_POST,1);

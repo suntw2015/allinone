@@ -66,6 +66,7 @@ function dosave($dirname,$images){
     }
 
     foreach($images as $key=>$value){
+        echo $dirname."/".$value["id"].".jpg";exit;
         file_put_contents($dirname."/".$value["id"].".jpg", file_get_contents($value["url"]));
         dump($dirname."/".$value["id"]);
     }
